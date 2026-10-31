@@ -1,0 +1,275 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Agenda Kids SP</title>
+<meta name="description" content="Atividades para crianças nos shoppings de São Paulo, reunidas em um só lugar e atualizadas todo dia.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎈</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #f5f6fa; --card: #ffffff; --ink: #1f2430; --muted: #646b7a; --line: #e2e5ee;
+  --accent: #e8505b; --accent-ink: #ffffff; --soft: #fdeceb;
+  --natal: #1f7a4d; --natal-soft: #e3f4ea; --agenda: #a15c00; --agenda-soft: #fff1d6;
+  --gratis: #2457c5; --gratis-soft: #e6eeff; --shadow: 0 1px 2px rgba(31,36,48,.06), 0 4px 16px rgba(31,36,48,.06);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #14161b; --card: #1d2027; --ink: #eef0f4; --muted: #a3a9b6; --line: #2c3039;
+    --accent: #ff6b74; --soft: #2a2023; --natal: #6fd3a0; --natal-soft: #183026;
+    --agenda: #ffc266; --agenda-soft: #33280f; --gratis: #8db0ff; --gratis-soft: #1a2440; --shadow: none; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+    --bg: #14161b; --card: #1d2027; --ink: #eef0f4; --muted: #a3a9b6; --line: #2c3039;
+    --accent: #ff6b74; --soft: #2a2023; --natal: #6fd3a0; --natal-soft: #183026;
+    --agenda: #ffc266; --agenda-soft: #33280f; --gratis: #8db0ff; --gratis-soft: #1a2440; --shadow: none; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.5 "Nunito", system-ui, sans-serif; }
+a { color: inherit; }
+.wrap { max-width: 1120px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+
+header { padding-block: 28px 8px; }
+h1 { font-size: clamp(1.8rem, 5vw, 2.6rem); line-height: 1.1; margin: 0; font-weight: 800; letter-spacing: -.02em; }
+h1 span { color: var(--accent); }
+.sub { color: var(--muted); margin: 6px 0 0; max-width: 60ch; }
+
+.filtros { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg); padding: 12px 0; border-bottom: 1px solid var(--line); }
+.linha { display: flex; gap: 8px; overflow-x: auto; scrollbar-width: none; padding-bottom: 2px; }
+.linha + .linha { margin-top: 8px; }
+.linha::-webkit-scrollbar { display: none; }
+.chip { flex: none; border: 1px solid var(--line); background: var(--card); color: var(--ink); border-radius: 999px;
+  padding: 7px 14px; font: inherit; font-size: .9rem; font-weight: 600; cursor: pointer; white-space: nowrap; }
+.chip[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.chip.natal[aria-pressed="true"] { background: var(--natal); border-color: var(--natal); color: #fff; }
+.chip.agenda[aria-pressed="true"] { background: var(--agenda); border-color: var(--agenda); color: #fff; }
+.chip.gratis[aria-pressed="true"] { background: var(--gratis); border-color: var(--gratis); color: #fff; }
+.busca { display: flex; gap: 8px; }
+.busca input, .busca select { font: inherit; font-size: .95rem; padding: 9px 12px; border-radius: 12px; border: 1px solid var(--line);
+  background: var(--card); color: var(--ink); min-width: 0; }
+.busca input { flex: 1; }
+.busca select { max-width: 45%; }
+
+.status { color: var(--muted); font-size: .9rem; margin: 14px 0 4px; }
+.grade { display: grid; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); gap: 16px; padding: 8px 0 32px; }
+.card { background: var(--card); border: 1px solid var(--line); border-radius: 18px; overflow: hidden; display: flex; flex-direction: column; box-shadow: var(--shadow); }
+.foto { aspect-ratio: 16/9; background: var(--soft) center/cover no-repeat; display: grid; place-items: center; font-size: 2.6rem; }
+.corpo { padding: 14px 16px 16px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
+.onde { font-size: .82rem; color: var(--muted); font-weight: 700; text-transform: uppercase; letter-spacing: .04em; }
+.card h2 { text-wrap: balance; font-size: 1.12rem; line-height: 1.25; margin: 0; font-weight: 800; }
+.quando { font-weight: 700; color: var(--accent); }
+.quando small { color: var(--muted); font-weight: 600; }
+.selos { display: flex; flex-wrap: wrap; gap: 6px; }
+.selo { font-size: .78rem; font-weight: 700; padding: 3px 9px; border-radius: 999px; background: var(--soft); }
+.selo.natal { background: var(--natal-soft); color: var(--natal); }
+.selo.agenda { background: var(--agenda-soft); color: var(--agenda); }
+.selo.gratis { background: var(--gratis-soft); color: var(--gratis); }
+.resumo { color: var(--muted); font-size: .94rem; margin: 0; }
+.dica { font-size: .88rem; background: var(--agenda-soft); color: var(--agenda); padding: 8px 10px; border-radius: 10px; margin: 0; }
+.acoes { display: flex; gap: 8px; flex-wrap: wrap; margin-top: auto; padding-top: 6px; }
+.btn { font: inherit; font-size: .9rem; font-weight: 700; text-decoration: none; padding: 8px 14px; border-radius: 12px; border: 1px solid var(--line); background: transparent; color: var(--ink); cursor: pointer; }
+.btn:focus-visible, .chip:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+.btn.forte { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+
+.vazio { text-align: center; padding: 48px 16px; color: var(--muted); grid-column: 1/-1; }
+footer { border-top: 1px solid var(--line); padding-block: 24px 40px; color: var(--muted); font-size: .9rem; }
+footer details summary { cursor: pointer; font-weight: 700; color: var(--ink); }
+footer ul { padding-left: 18px; }
+footer .erro { color: var(--accent); }
+</style>
+</head>
+<body>
+<header class="wrap">
+  <h1>Agenda <span>Kids</span> SP</h1>
+  <p class="sub">Oficinas, teatro, Papai Noel e outras atividades para crianças nos shoppings de São Paulo, em um só lugar e atualizadas todo dia.</p>
+</header>
+
+<section class="filtros" aria-label="Filtros">
+  <div class="wrap">
+    <div class="linha" id="periodos" role="group" aria-label="Período"></div>
+    <div class="linha" role="group" aria-label="Tipo">
+      <button class="chip natal" data-flag="natal" aria-pressed="false">🎄 Natal</button>
+      <button class="chip agenda" data-flag="agendamento" aria-pressed="false">📝 Precisa agendar</button>
+      <button class="chip gratis" data-flag="gratuito" aria-pressed="false">Grátis</button>
+      <span id="regioes" style="display:contents"></span>
+    </div>
+    <div class="linha busca">
+      <input id="q" type="search" placeholder="Buscar: oficina, teatro, Noel…" aria-label="Buscar">
+      <select id="shopping" aria-label="Shopping"><option value="">Todos os shoppings</option></select>
+    </div>
+  </div>
+</section>
+
+<main class="wrap">
+  <p class="status" id="status">Carregando atividades…</p>
+  <div class="grade" id="grade"></div>
+</main>
+
+<footer class="wrap">
+  <p id="atualizado"></p>
+  <details>
+    <summary>Shoppings monitorados</summary>
+    <ul id="fontes"></ul>
+  </details>
+  <p>As informações vêm dos sites oficiais de cada shopping. Confirme datas, horários e regras de inscrição no link do evento antes de sair de casa.</p>
+</footer>
+
+<script>
+const MESES = ["jan", "fev", "mar", "abr", "mai", "jun", "jul", "ago", "set", "out", "nov", "dez"];
+const DIAS = ["dom", "seg", "ter", "qua", "qui", "sex", "sáb"];
+const PERIODOS = [
+  ["todos", "Tudo"], ["hoje", "Hoje"], ["fds", "Este fim de semana"], ["7", "Próximos 7 dias"], ["30", "Próximos 30 dias"],
+];
+const estado = { periodo: "todos", natal: false, agendamento: false, gratuito: false, regiao: "", shopping: "", q: "" };
+let eventos = [];
+
+const d = (s) => (s ? new Date(s + "T12:00:00") : null);
+const hoje = () => { const h = new Date(); h.setHours(12, 0, 0, 0); return h; };
+const somaDias = (dt, n) => { const r = new Date(dt); r.setDate(r.getDate() + n); return r; };
+const fmt = (dt) => `${dt.getDate()} ${MESES[dt.getMonth()]}`;
+const semAcento = (s) => (s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+
+function janela(periodo) {
+  const h = hoje();
+  if (periodo === "hoje") return [h, h];
+  if (periodo === "fds") {
+    const dow = h.getDay();
+    const sab = dow === 0 ? somaDias(h, -1) : somaDias(h, 6 - dow);
+    return [dow === 0 ? h : (dow === 6 ? h : sab), somaDias(sab, 1)];
+  }
+  if (periodo === "7" || periodo === "30") return [h, somaDias(h, +periodo)];
+  return [h, null];
+}
+
+function quando(e) {
+  const i = d(e.inicio), f = d(e.fim), h = hoje();
+  if (i && f && +i === +f) return `${DIAS[i.getDay()]}, ${fmt(i)}`;
+  if (i && f && i <= h) return `Até ${fmt(f)} <small>· em andamento</small>`;
+  if (i && f) return `${fmt(i)} a ${fmt(f)}`;
+  if (i) return `A partir de ${fmt(i)}`;
+  if (f) return `Até ${fmt(f)}`;
+  return `Data a confirmar <small>· veja no site</small>`;
+}
+
+function passa(e) {
+  if (estado.natal && !e.natal) return false;
+  if (estado.agendamento && !e.agendamento) return false;
+  if (estado.gratuito && e.gratuito !== true) return false;
+  if (estado.regiao && e.regiao !== estado.regiao) return false;
+  if (estado.shopping && e.shopping !== estado.shopping) return false;
+  if (estado.q) {
+    const alvo = semAcento([e.titulo, e.resumo, e.shopping, e.bairro, e.faixa_etaria].join(" "));
+    if (!semAcento(estado.q).split(/\s+/).every((p) => alvo.includes(p))) return false;
+  }
+  const [ini, fim] = janela(estado.periodo);
+  const ei = d(e.inicio) || d(e.fim) || ini, ef = d(e.fim) || d(e.inicio) || ei;
+  if (ef < ini) return false;
+  if (fim && ei > fim) return false;
+  return true;
+}
+
+function ics(e) {
+  const i = d(e.inicio) || d(e.fim) || hoje(), f = somaDias(d(e.fim) || i, 1);
+  const dt = (x) => x.toISOString().slice(0, 10).replace(/-/g, "");
+  const txt = (s) => String(s || "").replace(/[,;\\]/g, (c) => "\\" + c).replace(/\n/g, "\\n");
+  const corpo = [
+    "BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Agenda Kids SP//PT-BR", "BEGIN:VEVENT",
+    `UID:${e.id}@agendakidssp`, `DTSTAMP:${dt(new Date())}T000000Z`, `DTSTART;VALUE=DATE:${dt(i)}`, `DTEND;VALUE=DATE:${dt(f)}`,
+    `SUMMARY:${txt(e.titulo)} (${txt(e.shopping)})`, `LOCATION:${txt(e.shopping + ", " + e.bairro + ", São Paulo")}`,
+    `DESCRIPTION:${txt([e.horario, e.resumo, e.url].filter(Boolean).join("\n"))}`, `URL:${e.url}`,
+    "END:VEVENT", "END:VCALENDAR",
+  ].join("\r\n");
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(new Blob([corpo], { type: "text/calendar" }));
+  a.download = `${semAcento(e.titulo).replace(/[^a-z0-9]+/g, "-").slice(0, 40)}.ics`;
+  a.click();
+  setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+}
+
+function card(e) {
+  const selos = [
+    e.natal && `<span class="selo natal">🎄 Natal</span>`,
+    e.agendamento && `<span class="selo agenda">📝 Precisa agendar</span>`,
+    e.gratuito === true && `<span class="selo gratis">Grátis</span>`,
+    e.gratuito === false && `<span class="selo">Pago</span>`,
+    e.faixa_etaria && `<span class="selo">👶 ${esc(e.faixa_etaria)}</span>`,
+  ].filter(Boolean).join("");
+  const foto = e.imagem
+    ? `<div class="foto" style="background-image:url('${esc(e.imagem)}')" role="img" aria-label="${esc(e.titulo)}"></div>`
+    : `<div class="foto">${e.natal ? "🎅" : "🎈"}</div>`;
+  const inscricao = e.link_inscricao && e.link_inscricao !== e.url
+    ? `<a class="btn forte" href="${esc(e.link_inscricao)}" target="_blank" rel="noopener">Inscrever-se</a>` : "";
+  return `<article class="card">
+    ${foto}
+    <div class="corpo">
+      <div class="onde">${esc(e.shopping)} · ${esc(e.regiao)}</div>
+      <h2>${esc(e.titulo)}</h2>
+      <div class="quando">${quando(e)}${e.horario ? ` <small>· ${esc(e.horario)}</small>` : ""}</div>
+      ${selos ? `<div class="selos">${selos}</div>` : ""}
+      ${e.resumo ? `<p class="resumo">${esc(e.resumo)}</p>` : ""}
+      ${e.como_agendar ? `<p class="dica">📝 ${esc(e.como_agendar)}</p>` : ""}
+      <div class="acoes">
+        ${inscricao}
+        <a class="btn ${inscricao ? "" : "forte"}" href="${esc(e.url)}" target="_blank" rel="noopener">Ver no site</a>
+        <button class="btn" data-ics="${esc(e.id)}">+ Agenda</button>
+      </div>
+    </div>
+  </article>`;
+}
+
+function render() {
+  const lista = eventos.filter(passa);
+  document.getElementById("grade").innerHTML = lista.length
+    ? lista.map(card).join("")
+    : `<div class="vazio">Nenhuma atividade com esses filtros.<br>Tente outro período ou limpe os filtros.</div>`;
+  const natal = lista.filter((e) => e.natal).length, agendar = lista.filter((e) => e.agendamento).length;
+  document.getElementById("status").textContent =
+    `${lista.length} atividade${lista.length === 1 ? "" : "s"}` +
+    (natal ? ` · ${natal} de Natal` : "") + (agendar ? ` · ${agendar} pedem inscrição` : "");
+}
+
+function chips() {
+  document.getElementById("periodos").innerHTML = PERIODOS
+    .map(([v, t]) => `<button class="chip" data-periodo="${v}" aria-pressed="${estado.periodo === v}">${t}</button>`).join("");
+  const regioes = [...new Set(eventos.map((e) => e.regiao))].sort();
+  document.getElementById("regioes").innerHTML = regioes
+    .map((r) => `<button class="chip" data-regiao="${esc(r)}" aria-pressed="${estado.regiao === r}">${esc(r)}</button>`).join("");
+}
+
+document.addEventListener("click", (ev) => {
+  const b = ev.target.closest("button");
+  if (!b) return;
+  if (b.dataset.periodo) { estado.periodo = b.dataset.periodo; chips(); }
+  else if (b.dataset.regiao !== undefined) { estado.regiao = estado.regiao === b.dataset.regiao ? "" : b.dataset.regiao; chips(); }
+  else if (b.dataset.flag) { estado[b.dataset.flag] = !estado[b.dataset.flag]; b.setAttribute("aria-pressed", estado[b.dataset.flag]); }
+  else if (b.dataset.ics) { ics(eventos.find((e) => e.id === b.dataset.ics)); return; }
+  else return;
+  render();
+});
+document.getElementById("q").addEventListener("input", (ev) => { estado.q = ev.target.value.trim(); render(); });
+document.getElementById("shopping").addEventListener("change", (ev) => { estado.shopping = ev.target.value; render(); });
+
+fetch("dados/eventos.json", { cache: "no-cache" })
+  .then((r) => r.json())
+  .then((dados) => {
+    const h = hoje();
+    eventos = dados.eventos.filter((e) => (d(e.fim) || d(e.inicio) || h) >= h);
+    const sel = document.getElementById("shopping");
+    [...new Set(eventos.map((e) => e.shopping))].sort().forEach((s) => sel.add(new Option(s, s)));
+    const quando = new Date(dados.gerado_em);
+    document.getElementById("atualizado").textContent =
+      `Atualizado em ${quando.toLocaleDateString("pt-BR")} às ${quando.toLocaleTimeString("pt-BR", { hour: "2-digit", minute: "2-digit" })}.`;
+    document.getElementById("fontes").innerHTML = dados.fontes.map((f) =>
+      `<li><a href="${esc(f.url)}" target="_blank" rel="noopener">${esc(f.shopping)}</a> — ${f.status === "ok"
+        ? `${f.eventos} atividade${f.eventos === 1 ? "" : "s"}` : `<span class="erro">fora do ar nesta coleta</span>`}</li>`).join("");
+    chips();
+    render();
+  })
+  .catch(() => { document.getElementById("status").textContent = "Não foi possível carregar as atividades agora."; });
+</script>
+</body>
+</html>
