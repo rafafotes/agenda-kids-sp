@@ -241,6 +241,9 @@ _NEGATIVO = [
     "doacao de sangue", "sorteio", "numero da sorte", "numeros da sorte", "notas fiscais", "cadastre suas notas",
     "ganhador", "ganhadora", "resultado da promocao", "black friday", "vagas de emprego", "cashback",
     "nubank parque", "vias alternativas", "happy hour", "degustacao de vinho",
+    "seu pet", "tutores", "pet fantasiado",
+    "recebe doacoes", "doacoes de", "arrecadacao", "ponto de coleta",
+    "como foi", "foi repleta", "foi um sucesso", "agradecemos a todos", "obrigado a todos", "obrigada a todos",
 ]
 # negativos de contexto: só no título, porque aparecem como rodapé dentro de eventos legítimos
 _NEGATIVO_TITULO = [

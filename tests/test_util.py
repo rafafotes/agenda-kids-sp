@@ -34,6 +34,10 @@ class TestClassificadores(unittest.TestCase):
     def test_promocao_nao_e_infantil(self):
         self.assertLess(util.pontuacao_infantil("Aniversário Premiado", "cadastre suas notas fiscais e concorra no sorteio"), 2)
 
+    def test_pet_e_retrospectiva(self):
+        self.assertLess(util.pontuacao_infantil("Caça aos Biscoitos", "convida pets e seus tutores, traga seu pet fantasiado"), 2)
+        self.assertLess(util.pontuacao_infantil("Voltinha", "A Voltinha foi repleta de momentos especiais com as crianças"), 4)
+
     def test_rodape_nao_penaliza(self):
         texto = "Oficina de pintura para crianças. Horário de funcionamento: domingos e feriados 14h"
         self.assertGreaterEqual(util.pontuacao_infantil("Vamos fazer arte", texto), 2)

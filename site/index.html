@@ -67,6 +67,7 @@ h1 span { color: var(--accent); }
 .selo.natal { background: var(--natal-soft); color: var(--natal); }
 .selo.agenda { background: var(--agenda-soft); color: var(--agenda); }
 .selo.gratis { background: var(--gratis-soft); color: var(--gratis); }
+.selo.esgotado { background: var(--line); color: var(--muted); text-decoration: line-through; }
 .resumo { color: var(--muted); font-size: .94rem; margin: 0; }
 .dica { font-size: .88rem; background: var(--agenda-soft); color: var(--agenda); padding: 8px 10px; border-radius: 10px; margin: 0; }
 .acoes { display: flex; gap: 8px; flex-wrap: wrap; margin-top: auto; padding-top: 6px; }
@@ -193,7 +194,8 @@ function ics(e) {
 function card(e) {
   const selos = [
     e.natal && `<span class="selo natal">🎄 Natal</span>`,
-    e.agendamento && `<span class="selo agenda">📝 Precisa agendar</span>`,
+    e.esgotado && `<span class="selo esgotado">Esgotado</span>`,
+    e.agendamento && !e.esgotado && `<span class="selo agenda">📝 Precisa agendar</span>`,
     e.gratuito === true && `<span class="selo gratis">Grátis</span>`,
     e.gratuito === false && `<span class="selo">Pago</span>`,
     e.faixa_etaria && `<span class="selo">👶 ${esc(e.faixa_etaria)}</span>`,
@@ -211,6 +213,7 @@ function card(e) {
       <div class="quando">${quando(e)}${e.horario ? ` <small>· ${esc(e.horario)}</small>` : ""}</div>
       ${selos ? `<div class="selos">${selos}</div>` : ""}
       ${e.resumo ? `<p class="resumo">${esc(e.resumo)}</p>` : ""}
+      ${e.inscricoes_abrem ? `<p class="dica">⏰ Inscrições abrem em ${fmt(d(e.inscricoes_abrem))}. Anote para não perder a vaga.</p>` : ""}
       ${e.como_agendar ? `<p class="dica">📝 ${esc(e.como_agendar)}</p>` : ""}
       <div class="acoes">
         ${inscricao}

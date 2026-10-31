@@ -16,6 +16,8 @@ FONTES = [
      "tipo": "multiplan", "url": "https://www.morumbishopping.com.br/eventos/"},
     {"shopping": "Shopping Anália Franco", "bairro": "Anália Franco", "regiao": "Zona Leste",
      "tipo": "multiplan", "url": "https://www.shoppinganaliafranco.com.br/eventos/"},
+    {"shopping": "Shopping Vila Olímpia", "bairro": "Vila Olímpia", "regiao": "Zona Sul",
+     "tipo": "multiplan", "url": "https://www.shoppingvilaolimpia.com.br/eventos/"},
 
     # --- Iguatemi
     {"shopping": "JK Iguatemi", "bairro": "Vila Olímpia", "regiao": "Zona Sul",
@@ -59,11 +61,37 @@ FONTES = [
      "tipo": "detalhes", "url": "https://www.shoppingd.com.br/acontece",
      "padrao_link": r"shoppingd\.com\.br/acontece/[a-z0-9-]+$"},
 
+    {"shopping": "Shopping West Plaza", "bairro": "Água Branca", "regiao": "Zona Oeste",
+     "tipo": "detalhes", "url": "https://www.westplaza.com.br/",
+     "padrao_link": r"westplaza\.com\.br/evento/\?evento=[a-z0-9-]+$"},
+    {"shopping": "Shopping União", "bairro": "Osasco", "regiao": "Grande SP",
+     "tipo": "detalhes", "url": "https://www.shoppinguniao.com.br/",
+     "padrao_link": r"shoppinguniao\.com\.br/evento_\d{4}_[a-z0-9_-]+\.php$"},
+    {"shopping": "Shopping União", "bairro": "Osasco", "regiao": "Grande SP",
+     "tipo": "feed_instagram", "url": "https://www.shoppinguniao.com.br/"},
+    {"shopping": "Open Mall The Square", "bairro": "Granja Viana (Cotia)", "regiao": "Grande SP",
+     "tipo": "eventos_manager", "url": "https://openmallthesquare.com.br/eventos-nova/"},
+
     # --- Cards na própria página
     {"shopping": "Shopping Cidade Jardim", "bairro": "Cidade Jardim", "regiao": "Zona Oeste",
      "tipo": "cards", "url": "https://www.shoppingcidadejardim.com/acontece-no-cj"},
 
-    # --- Plataforma de inscrições Be Sistemas
+    # --- Plataforma de inscrições Be Sistemas: lê a página "Acontece" do shopping e cada evento
     {"shopping": "Shopping Penha", "bairro": "Penha", "regiao": "Zona Leste",
-     "tipo": "besistemas", "url": "https://eventos.besistemas.com.br/penha"},
+     "tipo": "besistemas", "url": "https://www.shoppingpenha.com.br/pt-BR/acontece"},
+    {"shopping": "Shopping Frei Caneca", "bairro": "Consolação", "regiao": "Centro",
+     "tipo": "besistemas", "url": "https://freicanecashopping.com.br/pt-BR/acontece"},
+
+    # --- Sites que carregam a agenda por script, lidos pela mesma API pública que a página usa
+    {"shopping": "Shopping Partage Santana", "bairro": "Santana", "regiao": "Zona Norte",
+     "tipo": "madnezz", "empreendimento_id": 11, "pagina": "https://www.partagesantana.com.br/eventos"},
+    {"shopping": "Shopping Center Norte", "bairro": "Vila Guilherme", "regiao": "Zona Norte",
+     "tipo": "api_json", "url": "https://apisite.cidadecenternorte.com.br/v1/site/scn/news",
+     "pagina": "https://www.centernorte.com.br/novidades"},
+
+    # --- Shoppings que recusam acesso automatizado (HTTP 403): eventos buscados nas notícias
+    {"shopping": "Shopping Eldorado", "bairro": "Pinheiros", "regiao": "Zona Oeste",
+     "tipo": "noticias", "url": "https://www.shoppingeldorado.com.br/", "termos": ["Shopping Eldorado"]},
+    {"shopping": "Shopping Tamboré", "bairro": "Barueri", "regiao": "Grande SP",
+     "tipo": "noticias", "url": "https://shoppingtambore.com.br", "termos": ["Shopping Tamboré"]},
 ]

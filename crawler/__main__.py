@@ -48,6 +48,8 @@ def normalizar(fonte: dict, c: Candidato, agente: Agente) -> dict | None:
         "link_inscricao": c.get("link_inscricao"),
         "natal": util.eh_natal(tudo),
         "categorias": c.get("categorias") or [],
+        "inscricoes_abrem": c.get("inscricoes_abrem"),
+        "esgotado": bool(c.get("esgotado")),
         "analisado_por": "heuristica",
     }
     para_criancas = pontos >= LIMIAR_INFANTIL
@@ -119,8 +121,15 @@ def principal(filtro: str | None = None) -> None:
             for e in antigos:
                 if (e.get("fim") or e.get("inicio") or hoje) >= hoje:
                     eventos[e["id"]] = e
-        relatorio.append({"shopping": fonte["shopping"], "url": fonte["url"], "status": status,
-                          "eventos": sum(1 for e in eventos.values() if e["shopping"] == fonte["shopping"])})
+        # um shopping pode ter mais de uma fonte (site + feed): uma linha só no relatório
+        anterior_rel = next((r for r in relatorio if r["shopping"] == fonte["shopping"]), None)
+        if anterior_rel is None:
+            relatorio.append({"shopping": fonte["shopping"], "url": fonte.get("pagina") or fonte["url"],
+                              "status": status, "eventos": 0})
+            anterior_rel = relatorio[-1]
+        elif status != "ok":
+            anterior_rel["status"] = status
+        anterior_rel["eventos"] = sum(1 for e in eventos.values() if e["shopping"] == fonte["shopping"])
 
     if filtro:  # rodada parcial: preserva as demais fontes
         rodadas = {r["shopping"] for r in relatorio}

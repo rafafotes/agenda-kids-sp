@@ -10,10 +10,14 @@ filtros por período, Natal, "precisa agendar", gratuito, região e shopping.
 ```
 crawler/fontes.py       lista de shoppings monitorados (URL da agenda + tipo de site)
 crawler/adaptadores.py  um leitor por tipo de site:
-                          multiplan   JSON embutido (datas, inscrição, categoria "Infantil")
-                          detalhes    segue os links da agenda e lê cada página de evento
-                          cards       eventos listados como cards na própria página
-                          besistemas  plataforma de inscrições Be Sistemas
+                          multiplan        JSON embutido (datas, inscrição, categoria "Infantil")
+                          detalhes         segue os links da agenda e lê cada página de evento
+                          cards            eventos listados como cards na própria página
+                          besistemas       plataforma de inscrições (vagas, esgotado, abertura)
+                          madnezz/api_json API pública que o próprio site consulta no navegador
+                          eventos_manager  agenda WordPress com aba "Para crianças"
+                          feed_instagram   legendas do Instagram que o site embute na home
+                          noticias         releases publicados em sites de notícias (WordPress)
 crawler/util.py         HTTP educado (robots.txt, 1 req/s por site), datas em português,
                         classificadores (infantil, Natal, agendamento, gratuito, faixa etária)
 crawler/agente.py       agente opcional com Claude que relê cada evento e refina o veredito
@@ -69,10 +73,15 @@ página de eventos e uma regex para os links de cada evento, por exemplo:
 
 Teste com `python3 -m crawler "Shopping X"`.
 
+### Shoppings que bloqueiam robôs
+
+Eldorado e Tamboré respondem HTTP 403 a qualquer acesso automatizado. O crawler não se disfarça de
+navegador para contornar isso: busca os eventos deles em sites de notícias que publicam os releases
+(`SITES_NOTICIAS` em `adaptadores.py`), usando só o trecho que fala do shopping. A cobertura é menor
+que a do site oficial; o caminho completo seria pedir ao shopping acesso ou um feed.
+
 ### Ainda não cobertos
 
-- **Bloqueiam robôs (HTTP 403):** Eldorado, Villa-Lobos, Tamboré, Mooca Plaza, Metrópole, Campo Limpo.
-- **Agenda montada por JavaScript:** Butantã, SP Market, Santana Parque, Continental, Center Norte,
-  Morumbi Town, Aricanduva, Raposo, West Plaza, Interlagos. Dá para cobri-los descobrindo a API
-  que a página chama ou com um navegador headless.
-- **Sem página de eventos ativa no momento:** Shopping Vila Olímpia.
+- **Bloqueiam robôs (HTTP 403):** Villa-Lobos, Mooca Plaza, Metrópole, Campo Limpo.
+- **Agenda montada por JavaScript:** Morumbi Town, SP Market, Butantã, Santana Parque, Aricanduva,
+  Raposo, Interlagos. Em geral dá para achar a API que a página chama (veja `madnezz` e `api_json`).
