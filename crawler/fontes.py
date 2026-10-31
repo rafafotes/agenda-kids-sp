@@ -16,8 +16,6 @@ FONTES = [
      "tipo": "multiplan", "url": "https://www.morumbishopping.com.br/eventos/"},
     {"shopping": "Shopping Anália Franco", "bairro": "Anália Franco", "regiao": "Zona Leste",
      "tipo": "multiplan", "url": "https://www.shoppinganaliafranco.com.br/eventos/"},
-    {"shopping": "ParkShopping São Caetano", "bairro": "São Caetano do Sul", "regiao": "ABC",
-     "tipo": "multiplan", "url": "https://www.parkshoppingsaocaetano.com.br/lazer-e-eventos/"},
 
     # --- Iguatemi
     {"shopping": "JK Iguatemi", "bairro": "Vila Olímpia", "regiao": "Zona Sul",
@@ -60,9 +58,6 @@ FONTES = [
     {"shopping": "Shopping D", "bairro": "Canindé", "regiao": "Centro",
      "tipo": "detalhes", "url": "https://www.shoppingd.com.br/acontece",
      "padrao_link": r"shoppingd\.com\.br/acontece/[a-z0-9-]+$"},
-    {"shopping": "Golden Square Shopping", "bairro": "São Bernardo do Campo", "regiao": "ABC",
-     "tipo": "detalhes", "url": "https://www.goldensquareshopping.com.br/novidades",
-     "padrao_link": r"goldensquareshopping\.com\.br/novidade/[a-z0-9-]+$"},
 
     # --- Cards na própria página
     {"shopping": "Shopping Cidade Jardim", "bairro": "Cidade Jardim", "regiao": "Zona Oeste",
@@ -71,6 +66,4 @@ FONTES = [
     # --- Plataforma de inscrições Be Sistemas
     {"shopping": "Shopping Penha", "bairro": "Penha", "regiao": "Zona Leste",
      "tipo": "besistemas", "url": "https://eventos.besistemas.com.br/penha"},
-    {"shopping": "Shopping Praça da Moça", "bairro": "Diadema", "regiao": "ABC",
-     "tipo": "besistemas", "url": "https://eventos.besistemas.com.br/pracadamoca"},
 ]

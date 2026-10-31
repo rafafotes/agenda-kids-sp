@@ -14,12 +14,6 @@
    "eventos": 2
   },
   {
-   "shopping": "ParkShopping São Caetano",
-   "url": "https://www.parkshoppingsaocaetano.com.br/lazer-e-eventos/",
-   "status": "ok",
-   "eventos": 2
-  },
-  {
    "shopping": "JK Iguatemi",
    "url": "https://iguatemi.com.br/jkiguatemi/eventos",
    "status": "ok",
@@ -92,12 +86,6 @@
    "eventos": 0
   },
   {
-   "shopping": "Golden Square Shopping",
-   "url": "https://www.goldensquareshopping.com.br/novidades",
-   "status": "ok",
-   "eventos": 5
-  },
-  {
    "shopping": "Shopping Cidade Jardim",
    "url": "https://www.shoppingcidadejardim.com/acontece-no-cj",
    "status": "ok",
@@ -106,12 +94,6 @@
   {
    "shopping": "Shopping Penha",
    "url": "https://eventos.besistemas.com.br/penha",
-   "status": "ok",
-   "eventos": 0
-  },
-  {
-   "shopping": "Shopping Praça da Moça",
-   "url": "https://eventos.besistemas.com.br/pracadamoca",
    "status": "ok",
    "eventos": 0
   }
@@ -139,29 +121,6 @@
    "regiao": "Zona Sul",
    "url": "https://www.morumbishopping.com.br/lazer-e-eventos/eventos/zzat1t1uf7-diversao-e-na-hotzone/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/12/2d/122df6c7-2d3d-4958-ac17-554ced8d647f/hubimage__0x650_subsampling-2.webp"
-  },
-  {
-   "titulo": "Faça sua festa na HotZone",
-   "resumo": "Faça sua ​Festa de Aniversário na HotZone: Que tal celebrar seu aniversário de maneira inesquecível? Venha para a HotZone e aproveite uma festa repleta de diversão, aventura e muita adrenalina para você, sua família e amigos! O HotZone é o lugar ideal para você celebrar em grande estilo. Ligue: (11) 91654-1616 Piso…",
-   "inicio": "2025-02-12",
-   "fim": "2026-12-31",
-   "horario": null,
-   "faixa_etaria": "Livre",
-   "gratuito": null,
-   "agendamento": true,
-   "como_agendar": null,
-   "link_inscricao": "https://wa.me/5511916541616?text=Vim do Multi e tenho interesse em fazer reserva para festa",
-   "natal": false,
-   "categorias": [
-    "Diversão"
-   ],
-   "analisado_por": "heuristica",
-   "id": "cc5e20004aaf",
-   "shopping": "ParkShopping São Caetano",
-   "bairro": "São Caetano do Sul",
-   "regiao": "ABC",
-   "url": "https://www.parkshoppingsaocaetano.com.br/eventos/yhpf3sznev-faca-sua-festa-na-hotzone/",
-   "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/43/ab/43ab56d9-f2ca-4a32-beae-40e200e5d99c/hubimage__0x650_subsampling-2.png"
   },
   {
    "titulo": "Parque Play City",
@@ -271,48 +230,6 @@
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/20/5d/205d2b53-5e07-4c0f-a11c-626d0e401d55/hubimage__0x650_subsampling-2.webp"
   },
   {
-   "titulo": "Noel Kids Run - 2° Edição",
-   "resumo": "Noel Kids Run está de volta ao Golden Square! 🎅🏃‍♀️🎄 O Papai Noel já está aquecendo os tênis para uma manhã especial de esporte, diversão e muita magia natalina! No dia 14 de novembro, o Golden Square Shopping recebe a 2ª edição da Noel Kids Run, uma corrida infantil preparada para proporcionar momentos de alegria e…",
-   "inicio": "2026-09-28",
-   "fim": "2026-11-14",
-   "horario": "9h",
-   "faixa_etaria": null,
-   "gratuito": null,
-   "agendamento": true,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": true,
-   "categorias": [],
-   "analisado_por": "heuristica",
-   "id": "46166f73503d",
-   "shopping": "Golden Square Shopping",
-   "bairro": "São Bernardo do Campo",
-   "regiao": "ABC",
-   "url": "https://www.goldensquareshopping.com.br/novidade/noel-kids-run-2deg-edicao",
-   "imagem": "https://www.goldensquareshopping.com.br/sites/golden-squere/files/shopping-media/Novidade/2026-10/BANNER_SITE_1238x500%20%2837%29.jpg"
-  },
-  {
-   "titulo": "Agenda Golden outubro",
-   "resumo": "Outubro chegou cheio de programação no Golden! 💛 Um novo mês começa e o Golden está com uma programação especial para toda a família! Tem música ao vivo, atrações para as crianças, encontros pet, esporte, cultura e muito mais. Confira a programação completa e programe sua visita: 🎶 SHOWS DO MÊS Todos às 20h, no Palco…",
-   "inicio": "2026-09-30",
-   "fim": "2026-10-31",
-   "horario": "das 10h às 12h",
-   "faixa_etaria": null,
-   "gratuito": null,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [],
-   "analisado_por": "heuristica",
-   "id": "6730dea73181",
-   "shopping": "Golden Square Shopping",
-   "bairro": "São Bernardo do Campo",
-   "regiao": "ABC",
-   "url": "https://www.goldensquareshopping.com.br/novidade/agenda-golden-outubro",
-   "imagem": "https://www.goldensquareshopping.com.br/sites/golden-squere/files/shopping-media/Novidade/2026-09/BANNER_SITE_1238x500%20%2832%29.jpg"
-  },
-  {
    "titulo": "Mês das Crianças",
    "resumo": "Mês das Crianças | Tietê Plaza 01/10 01/10 a 01/11 Mês das Crianças Um mês inteiro de diversão para toda a família! Outubro chegou cheio de atrações, experiências, eventos e benefícios especiais no Tietê Plaza! 🥳 Durante todo o mês, os pequenos poderão aproveitar uma programação especial pensada para garantir momentos…",
    "inicio": "2026-10-01",
@@ -334,29 +251,6 @@
    "imagem": "https://tieteplaza.com.br/wp-content/uploads/2026/09/Site_mes-das-criancas-acontece-banner.jpg"
   },
   {
-   "titulo": "Uma invasão de Arrepiar",
-   "resumo": "🎃 Uma invasão de arrepiar vai invadir o ParkShopping São Caetano! De 30/10 a 01/11, prepare-se para entrar no clima de uma invasão de arrepiar, com paradas especiais pelo shopping e maquiagem temática para deixar sua transformação ainda mais assustadora! 🕒 Programação CAMARIM ZUMBI - MAQUIAGEM Salão Hotzone – Piso L1…",
-   "inicio": "2026-10-21",
-   "fim": "2026-11-01",
-   "horario": "das 15h às 21h",
-   "faixa_etaria": "Livre",
-   "gratuito": true,
-   "agendamento": true,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Diversão"
-   ],
-   "analisado_por": "heuristica",
-   "id": "53ae3a3c36ef",
-   "shopping": "ParkShopping São Caetano",
-   "bairro": "São Caetano do Sul",
-   "regiao": "ABC",
-   "url": "https://www.parkshoppingsaocaetano.com.br/eventos/bfsbv7zla6-uma-invasao-de-arrepiar/",
-   "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/52/57/52579466-8723-430b-aaa8-7bf0d8aaa26a/hubimage__0x650_subsampling-2.webp"
-  },
-  {
    "titulo": "Nacional Kart",
    "resumo": "Nacional Kart | Tietê Plaza 23/10 sex. 23/10 a 31/03 Nacional Kart Acelere a diversão no Tietê Plaza! Prepare-se para viver uma experiência cheia de adrenalina e velocidade! O Tietê Plaza recebe o Nacional Kart , a primeira pista de kart indoor da região Noroeste de São Paulo, trazendo uma nova opção de lazer para os…",
    "inicio": "2026-10-23",
@@ -376,48 +270,6 @@
    "regiao": "Zona Oeste",
    "url": "https://tieteplaza.com.br/evento/nacional-kart/",
    "imagem": "https://tieteplaza.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-10-23-at-15.33.46.jpeg"
-  },
-  {
-   "titulo": "Caça aos Doces",
-   "resumo": "O Golden Square Shopping convida as famílias para uma experiência mágica e divertida em celebração ao Halloween. Nos dias 31 de outubro e 1º de novembro, a partir das 14h, os corredores do shopping se transformam no cenário da nossa tradicional Caça aos Doces, uma atração especial voltada para o público infantil. Para…",
-   "inicio": "2026-10-28",
-   "fim": "2026-11-01",
-   "horario": "14h, 12h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": true,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [],
-   "analisado_por": "heuristica",
-   "id": "a963271e2583",
-   "shopping": "Golden Square Shopping",
-   "bairro": "São Bernardo do Campo",
-   "regiao": "ABC",
-   "url": "https://www.goldensquareshopping.com.br/novidade/caca-aos-doces-halloween-golden-2026",
-   "imagem": "https://www.goldensquareshopping.com.br/sites/golden-squere/files/shopping-media/Novidade/2026-10/BANNER_SITE_1238x500%20%281%29.jpg"
-  },
-  {
-   "titulo": "Agenda Novembro",
-   "resumo": "Programação de Novembro no Golden: Música, Cultura e a Magia do Natal Novembro começa com uma agenda repleta de experiências especiais pensadas para toda a família. O mês traz grandes tributos musicais, eventos culturais, práticas esportivas e o clima natalino com atrações para todas as idades. Confira todos os…",
-   "inicio": "2026-10-29",
-   "fim": "2026-12-24",
-   "horario": "das 12h às 20h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": true,
-   "categorias": [],
-   "analisado_por": "heuristica",
-   "id": "d1462610b714",
-   "shopping": "Golden Square Shopping",
-   "bairro": "São Bernardo do Campo",
-   "regiao": "ABC",
-   "url": "https://www.goldensquareshopping.com.br/novidade/agenda-novembro",
-   "imagem": "https://www.goldensquareshopping.com.br/sites/golden-squere/files/shopping-media/Novidade/2026-10/BANNER_SITE_1238x500%20%282%29.jpg"
   },
   {
    "titulo": "Parada de Halloween",
@@ -693,27 +545,6 @@
    "regiao": "Zona Leste",
    "url": "https://www.shoppingitaquera.com.br/novidade/confira-nossas-iniciativas-dedicadas-para-pessoas-com-tea",
    "imagem": "https://www.shoppingitaquera.com.br/sites/metro-itaquera/files/shopping-media/Novidade/2023-04/KV_TEA_Card_Site.jpg"
-  },
-  {
-   "titulo": "Espaço Aconchego",
-   "resumo": "Conheça o nosso Espaço Aconchego, local dedicado para pessoas com TEA! ☁️? Você sabia que pessoas com Transtorno do Espectro Autista (TEA) podem apresentar crises ao receberem muitos estímulos sensoriais, como muito barulho e/ou luminosidade? Após conversarmos com diversas famílias que passavam por algumas situações…",
-   "inicio": null,
-   "fim": null,
-   "horario": null,
-   "faixa_etaria": null,
-   "gratuito": null,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [],
-   "analisado_por": "heuristica",
-   "id": "73bbf9e1af4d",
-   "shopping": "Golden Square Shopping",
-   "bairro": "São Bernardo do Campo",
-   "regiao": "ABC",
-   "url": "https://www.goldensquareshopping.com.br/novidade/espaco-aconchego",
-   "imagem": "https://www.goldensquareshopping.com.br/sites/golden-squere/files/shopping-media/Novidade/2023-03/Design%20sem%20nome%20%2845%29.jpg"
   }
  ]
 }
