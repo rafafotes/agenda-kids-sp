@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Agenda Kids SP</title>
-<meta name="description" content="Atividades para crianças nos shoppings de São Paulo, reunidas em um só lugar e atualizadas todo dia.">
+<meta name="description" content="Atividades para crianças nos shoppings e nas unidades do Sesc em São Paulo, reunidas em um só lugar e atualizadas todo dia.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎈</text></svg>">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
@@ -85,13 +85,15 @@ footer .erro { color: var(--accent); }
 <body>
 <header class="wrap">
   <h1>Agenda <span>Kids</span> SP</h1>
-  <p class="sub">Oficinas, teatro, Papai Noel e outras atividades para crianças nos shoppings de São Paulo, em um só lugar e atualizadas todo dia.</p>
+  <p class="sub">Oficinas, teatro, Papai Noel e outras atividades para crianças nos shoppings e no Sesc de São Paulo, em um só lugar e atualizadas todo dia.</p>
 </header>
 
 <section class="filtros" aria-label="Filtros">
   <div class="wrap">
     <div class="linha" id="periodos" role="group" aria-label="Período"></div>
     <div class="linha" role="group" aria-label="Tipo">
+      <button class="chip" data-local="Shopping" aria-pressed="false">Shoppings</button>
+      <button class="chip" data-local="Sesc" aria-pressed="false">Sesc</button>
       <button class="chip natal" data-flag="natal" aria-pressed="false">🎄 Natal</button>
       <button class="chip agenda" data-flag="agendamento" aria-pressed="false">📝 Precisa agendar</button>
       <button class="chip gratis" data-flag="gratuito" aria-pressed="false">Grátis</button>
@@ -99,7 +101,7 @@ footer .erro { color: var(--accent); }
     </div>
     <div class="linha busca">
       <input id="q" type="search" placeholder="Buscar: oficina, teatro, Noel…" aria-label="Buscar">
-      <select id="shopping" aria-label="Shopping"><option value="">Todos os shoppings</option></select>
+      <select id="shopping" aria-label="Local"><option value="">Todos os locais</option></select>
     </div>
   </div>
 </section>
@@ -112,10 +114,10 @@ footer .erro { color: var(--accent); }
 <footer class="wrap">
   <p id="atualizado"></p>
   <details>
-    <summary>Shoppings monitorados</summary>
+    <summary>Locais monitorados</summary>
     <ul id="fontes"></ul>
   </details>
-  <p>As informações vêm dos sites oficiais de cada shopping. Confirme datas, horários e regras de inscrição no link do evento antes de sair de casa.</p>
+  <p>As informações vêm dos sites oficiais de cada shopping e do Sesc SP. Confirme datas, horários e regras de inscrição no link do evento antes de sair de casa.</p>
 </footer>
 
 <script>
@@ -124,7 +126,7 @@ const DIAS = ["dom", "seg", "ter", "qua", "qui", "sex", "sáb"];
 const PERIODOS = [
   ["todos", "Tudo"], ["hoje", "Hoje"], ["fds", "Este fim de semana"], ["7", "Próximos 7 dias"], ["30", "Próximos 30 dias"],
 ];
-const estado = { periodo: "todos", natal: false, agendamento: false, gratuito: false, regiao: "", shopping: "", q: "" };
+const estado = { periodo: "todos", local: "", natal: false, agendamento: false, gratuito: false, regiao: "", shopping: "", q: "" };
 let eventos = [];
 
 const d = (s) => (s ? new Date(s + "T12:00:00") : null);
@@ -157,6 +159,7 @@ function quando(e) {
 }
 
 function passa(e) {
+  if (estado.local && (e.tipo_local || "Shopping") !== estado.local) return false;
   if (estado.natal && !e.natal) return false;
   if (estado.agendamento && !e.agendamento) return false;
   if (estado.gratuito && e.gratuito !== true) return false;
@@ -247,6 +250,10 @@ document.addEventListener("click", (ev) => {
   const b = ev.target.closest("button");
   if (!b) return;
   if (b.dataset.periodo) { estado.periodo = b.dataset.periodo; chips(); }
+  else if (b.dataset.local) {
+    estado.local = estado.local === b.dataset.local ? "" : b.dataset.local;
+    document.querySelectorAll("[data-local]").forEach((x) => x.setAttribute("aria-pressed", x.dataset.local === estado.local));
+  }
   else if (b.dataset.regiao !== undefined) { estado.regiao = estado.regiao === b.dataset.regiao ? "" : b.dataset.regiao; chips(); }
   else if (b.dataset.flag) { estado[b.dataset.flag] = !estado[b.dataset.flag]; b.setAttribute("aria-pressed", estado[b.dataset.flag]); }
   else if (b.dataset.ics) { ics(eventos.find((e) => e.id === b.dataset.ics)); return; }

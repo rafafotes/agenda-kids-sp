@@ -1,6 +1,6 @@
 # Agenda Kids SP
 
-Atividades para crianças nos shoppings de São Paulo, reunidas em um só lugar. Um crawler visita os
+Atividades para crianças nos shoppings e nas unidades do Sesc em São Paulo, reunidas em um só lugar. Um crawler visita os
 sites oficiais dos shoppings duas vezes por dia, separa o que é atividade infantil (oficinas, teatro,
 Papai Noel, parquinhos, exposições...) de promoções e avisos, e publica tudo num site estático com
 filtros por período, Natal, "precisa agendar", gratuito, região e shopping.
@@ -18,6 +18,7 @@ crawler/adaptadores.py  um leitor por tipo de site:
                           eventos_manager  agenda WordPress com aba "Para crianças"
                           feed_instagram   legendas do Instagram que o site embute na home
                           noticias         releases publicados em sites de notícias (WordPress)
+                          sesc             API pública do Sesc SP, unidades da cidade, público "Crianças"
 crawler/util.py         HTTP educado (robots.txt, 1 req/s por site), datas em português,
                         classificadores (infantil, Natal, agendamento, gratuito, faixa etária)
 crawler/agente.py       agente opcional com Claude que relê cada evento e refina o veredito

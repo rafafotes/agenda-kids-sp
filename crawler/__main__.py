@@ -40,7 +40,7 @@ def normalizar(fonte: dict, c: Candidato, agente: Agente) -> dict | None:
         "resumo": util.resumo(texto),
         "inicio": util.iso(inicio),
         "fim": util.iso(fim),
-        "horario": util.horario(texto),
+        "horario": c.get("horario") or util.horario(texto),
         "faixa_etaria": c.get("faixa_etaria") or util.faixa_etaria(tudo),
         "gratuito": c["gratuito"] if c.get("gratuito") is not None else util.gratuito(tudo),
         "agendamento": bool(c.get("agendamento")) or util.precisa_agendar(tudo),
@@ -56,7 +56,7 @@ def normalizar(fonte: dict, c: Candidato, agente: Agente) -> dict | None:
 
     # o agente só olha o que tem alguma chance de ser infantil, para não gastar à toa
     if pontos >= 0 or c.get("infantil_fonte"):
-        v = agente.analisar(fonte["shopping"], titulo, texto)
+        v = agente.analisar(c.get("local") or fonte["shopping"], titulo, texto)
         if v:
             para_criancas = v["para_criancas"]
             evento.update(
@@ -84,13 +84,20 @@ def normalizar(fonte: dict, c: Candidato, agente: Agente) -> dict | None:
 
     evento.update(
         id=hashlib.sha1(c["url"].encode()).hexdigest()[:12],
-        shopping=fonte["shopping"],
-        bairro=fonte["bairro"],
-        regiao=fonte["regiao"],
+        # fontes como o Sesc geram eventos de vários locais (unidades), cada um com bairro e região
+        shopping=c.get("local") or fonte["shopping"],
+        bairro=c.get("bairro") or fonte["bairro"],
+        regiao=c.get("regiao") or fonte["regiao"],
+        fonte=fonte["shopping"],
+        tipo_local=fonte.get("tipo_local", "Shopping"),
         url=c["url"],
         imagem=c.get("imagem"),
     )
     return evento
+
+
+def _fonte(evento: dict) -> str:
+    return evento.get("fonte") or evento["shopping"]  # eventos gravados antes do campo "fonte"
 
 
 def principal(filtro: str | None = None) -> None:
@@ -116,7 +123,7 @@ def principal(filtro: str | None = None) -> None:
             # mantém o que já tínhamos dessa fonte para o site não esvaziar por uma falha passageira
             status = f"erro: {type(erro).__name__}: {erro}"
             print(f"   ! {status}")
-            antigos = [e for e in anterior["eventos"] if e["shopping"] == fonte["shopping"]]
+            antigos = [e for e in anterior["eventos"] if _fonte(e) == fonte["shopping"]]
             hoje = util.hoje().isoformat()
             for e in antigos:
                 if (e.get("fim") or e.get("inicio") or hoje) >= hoje:
@@ -129,12 +136,12 @@ def principal(filtro: str | None = None) -> None:
             anterior_rel = relatorio[-1]
         elif status != "ok":
             anterior_rel["status"] = status
-        anterior_rel["eventos"] = sum(1 for e in eventos.values() if e["shopping"] == fonte["shopping"])
+        anterior_rel["eventos"] = sum(1 for e in eventos.values() if _fonte(e) == fonte["shopping"])
 
     if filtro:  # rodada parcial: preserva as demais fontes
         rodadas = {r["shopping"] for r in relatorio}
         for e in anterior["eventos"]:
-            if e["shopping"] not in rodadas:
+            if _fonte(e) not in rodadas:
                 eventos.setdefault(e["id"], e)
         relatorio += [r for r in anterior.get("fontes", []) if r["shopping"] not in rodadas]
 

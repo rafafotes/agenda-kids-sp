@@ -32,6 +32,10 @@ class Candidato(TypedDict, total=False):
     publicado: str | None  # data de publicação do post, quando a fonte é um blog/notícia
     inscricoes_abrem: str | None  # ISO; quando as inscrições ainda não abriram
     esgotado: bool | None  # todas as sessões sem vaga
+    horario: str | None  # quando a fonte já informa (ex.: próxima sessão)
+    local: str | None  # quando a fonte cobre vários locais (unidades do Sesc)
+    bairro: str | None
+    regiao: str | None
 
 
 # ---------------------------------------------------------------- Multiplan
@@ -453,6 +457,93 @@ def feed_instagram(fonte: dict) -> Iterator[Candidato]:
         )
 
 
+# ---------------------------------------------------------------- Sesc SP
+
+SESC = "https://www.sescsp.org.br"
+SESC_INFANTIL = re.compile(
+    r"crianc|infant|famili|brinc|bebe|kids|bailinho|circ|boneca|pequen|contacao|fantoche|"
+    r"teatro de sombras|historias|marionete|palhac")
+
+
+def sesc(fonte: dict) -> Iterator[Candidato]:
+    """Programação do Sesc SP pela mesma API pública que o site usa (/wp-json/wp/v1/atividades/filter).
+    Cobre o estado todo, então consulta unidade por unidade só as da cidade (`fonte["unidades"]`).
+    Entram atividades com público "Crianças" e, para a heurística decidir, as de "Diversas idades".
+    Programas contínuos (Curumim, turmas de esporte o ano todo) ficam de fora: são matrícula, não evento."""
+    unidades = {u["group_slug"]: u for u in json.loads(util.baixar(f"{SESC}/wp-json/wp/v1/unidades-atividades"))}
+    hoje = util.hoje()
+    ate = hoje + timedelta(days=fonte.get("dias", 60))
+    vistos = set()
+    for slug, (bairro, regiao) in fonte["unidades"].items():
+        unidade = unidades.get(slug)
+        if not unidade:
+            print(f"    ! unidade {slug} não encontrada na API")
+            continue
+        pagina = 1
+        while True:
+            url = (f"{SESC}/wp-json/wp/v1/atividades/filter?data_inicial={hoje}&data_final={ate}"
+                   f"&local={unidade['group_id']}&categoria=&source=&ppp=100&page={pagina}&tipo=atividade")
+            dados = json.loads(util.baixar(url, timeout=60))
+            lista = dados.get("atividade") or []
+            lista = lista if isinstance(lista, list) else list(lista.values())
+            for a in lista:
+                c = _sesc_atividade(a, unidade["name"], bairro, regiao, hoje, fonte)
+                if c and a["id"] not in vistos:
+                    vistos.add(a["id"])
+                    yield c
+            if len(lista) < 100:
+                break
+            pagina += 1
+
+
+def _sesc_atividade(a: dict, unidade: str, bairro: str, regiao: str, hoje, fonte: dict) -> Candidato | None:
+    publicos = {t.get("titulo") for t in a.get("publico_tag") or []}
+    categorias = [t.get("titulo") for t in (a.get("categorias") or []) + (a.get("tipos_linguagens") or [])]
+    infantil = "Crianças" in publicos or any("/criancas" in (t.get("link") or "") for t in a.get("categorias") or [])
+    if a.get("cancelado") or not (infantil or "Diversas idades" in publicos):
+        return None
+    if not infantil and not SESC_INFANTIL.search(util.sem_acento(f'{a["titulo"]} {a.get("complemento") or ""}')):
+        # "Diversas idades" inclui muita oficina adulta (no Sesc quase tudo é "oficina"); só entra
+        # com um termo claramente infantil no título ou no complemento
+        return None
+    primeira, ultima = util.data_iso(a.get("dataPrimeiraSessao")), util.data_iso(a.get("dataUltimaSessao"))
+    if primeira and ultima and (ultima - primeira).days > fonte.get("max_duracao_dias", 120):
+        return None  # programa contínuo com matrícula
+    proxima = a.get("dataProxSessao") or ""
+    horario = None
+    if "T" in proxima:
+        dia, hora = proxima.split("T")
+        d = util.data_iso(dia)
+        horario = f"próxima sessão {d.day}/{d.month} às {hora[:5].replace(':00', 'h').replace(':', 'h')}"
+    gratis = a.get("gratuito") or ""
+    vendas = a.get("qtdeIngressosWeb") is not None or a.get("qtdeIngressosRede") is not None
+    texto = "\n".join(filter(None, [
+        a.get("complemento"),
+        "Público: " + ", ".join(sorted(p for p in publicos if p)) if publicos else None,
+        "Categorias: " + ", ".join(c for c in categorias if c) if categorias else None,
+        gratis or None,
+        f"Unidade: Sesc {unidade}",
+    ]))
+    return Candidato(
+        titulo=util.texto_de_html(a["titulo"]),
+        texto=texto,
+        url=SESC + a["link"],
+        imagem=a.get("imagem"),
+        inicio=util.iso(max(primeira, hoje) if primeira else None),
+        fim=util.iso(ultima),
+        horario=horario,
+        gratuito=True if "gratuit" in gratis.lower() else (False if vendas else None),
+        agendamento=vendas or None,
+        link_inscricao=SESC + a["link"] if vendas else None,
+        esgotado=bool(a.get("esgotado")),
+        categorias=[c for c in categorias if c],
+        infantil_fonte=infantil,
+        local=f"Sesc {unidade}",
+        bairro=bairro,
+        regiao=regiao,
+    )
+
+
 ADAPTADORES = {
     "multiplan": multiplan,
     "detalhes": paginas_de_detalhe,
@@ -463,4 +554,5 @@ ADAPTADORES = {
     "noticias": noticias,
     "eventos_manager": eventos_manager,
     "feed_instagram": feed_instagram,
+    "sesc": sesc,
 }
