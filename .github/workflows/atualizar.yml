@@ -1,27 +1,26 @@
-name: Atualizar agenda
+name: Publicar site
+
+# A coleta roda no computador do mantenedor (scripts/coletar.sh, às 6h e 18h), porque alguns sites
+# recusam acessos vindos de servidores de nuvem. Cada coleta faz push dos dados; aqui só testamos e
+# publicamos o site no GitHub Pages.
 
 on:
-  schedule:
-    - cron: "0 9,21 * * *" # 6h e 18h em São Paulo
-  workflow_dispatch:
   push:
     branches: [main]
+  workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 
 concurrency:
-  group: atualizar-agenda
-  cancel-in-progress: false
+  group: publicar-site
+  cancel-in-progress: true
 
 jobs:
-  coletar:
+  testar:
     runs-on: ubuntu-latest
-    env:
-      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-      AGENDA_MODELO: ${{ vars.AGENDA_MODELO || 'claude-opus-5-5' }}
     steps:
       - uses: actions/checkout@v4
 
@@ -32,29 +31,12 @@ jobs:
       - name: Testes
         run: python -m unittest -v
 
-      - name: Instalar SDK da Anthropic (só se houver chave)
-        if: env.ANTHROPIC_API_KEY != ''
-        run: pip install -r requirements-agente.txt
-
-      - name: Coletar eventos
-        if: github.event_name != 'push'
-        run: python -m crawler
-
-      - name: Salvar dados no repositório
-        if: github.event_name != 'push'
-        run: |
-          git config user.name "agenda-bot"
-          git config user.email "agenda-bot@users.noreply.github.com"
-          git add site/dados/eventos.json crawler/cache_agente.json
-          git diff --cached --quiet || git commit -m "Atualiza agenda ($(TZ=America/Sao_Paulo date '+%d/%m %H:%M'))"
-          git push
-
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
 
   publicar:
-    needs: coletar
+    needs: testar
     runs-on: ubuntu-latest
     environment:
       name: github-pages

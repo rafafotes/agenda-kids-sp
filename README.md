@@ -53,13 +53,27 @@ python3 -m crawler
 O modelo padrão é `claude-opus-5-5`; troque com `AGENDA_MODELO`. As respostas ficam em
 `crawler/cache_agente.json`, então cada evento só é analisado de novo quando o texto muda.
 
-## Publicar (GitHub Pages)
+## Publicar
 
-1. Suba este diretório para um repositório no GitHub.
-2. Em *Settings → Pages*, escolha **GitHub Actions** como fonte.
-3. (Opcional) Em *Settings → Secrets and variables → Actions*, crie o secret `ANTHROPIC_API_KEY`.
-4. O workflow `.github/workflows/atualizar.yml` roda às 6h e às 18h, grava os dados no repositório
-   e publica o site. Para rodar na hora: aba *Actions → Atualizar agenda → Run workflow*.
+O site fica em https://rafafotes.github.io/agenda-kids-sp/ (GitHub Pages).
+
+A **coleta roda no computador do mantenedor**, não no GitHub Actions: Sesc SP, Jardim Sul e
+Itaquera respondem HTTP 403 a acessos vindos de servidores de nuvem, e o crawler não se disfarça
+para contornar isso. `scripts/coletar.sh` atualiza o repositório, roda os testes, coleta e faz
+push só dos dados; cada push dispara `.github/workflows/atualizar.yml`, que testa e publica.
+
+O agendamento é uma tarefa do Agendador de Tarefas do Windows ("Agenda Kids SP - coleta"), às 6h
+e às 18h, que chama o script dentro do WSL. Se o computador estiver desligado no horário, a coleta
+roda assim que ele voltar. Para recriar a tarefa:
+
+```bash
+powershell.exe -ExecutionPolicy Bypass -File "$(wslpath -w scripts/agendar-windows.ps1)" \
+  -Distro "$WSL_DISTRO_NAME" -Script "$PWD/scripts/coletar.sh"
+```
+
+- Rodar uma coleta agora: `scripts/coletar.sh` (log em `~/.local/state/agenda-kids/coleta.log`).
+- Agente com Claude (opcional): `ANTHROPIC_API_KEY=...` em `~/.config/agenda-kids/env`, mais
+  `pip install -r requirements-agente.txt`.
 
 ## Adicionar um shopping
 
