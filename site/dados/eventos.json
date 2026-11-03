@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-03T08:58-03:00",
+ "gerado_em": "2026-11-03T18:03-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -83,7 +83,7 @@
    "shopping": "Shopping Itaquera",
    "url": "https://www.shoppingitaquera.com.br/novidades",
    "status": "ok",
-   "eventos": 5
+   "eventos": 6
   },
   {
    "shopping": "Shopping D",
@@ -154,7 +154,7 @@
   {
    "shopping": "Sesc SP",
    "url": "https://www.sescsp.org.br/programacao/",
-   "status": "ok",
+   "status": "erro: AttributeError: 'NoneType' object has no attribute 'get'",
    "eventos": 146
   }
  ],
@@ -1008,6 +1008,31 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/leiturinha-vozes-negras-na-literatura",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Leiturinha_StephanyTiveron.jpg"
+  },
+  {
+   "titulo": "Made In Fogo - Música ao vivo e Gastronomia",
+   "resumo": "Nos dias 13, 14 e 15 de novembro, o Shopping Metrô Itaquera se transforma na capital do churrasco com a 22ª edição do Made in Fogo Festival BBQ. Depois de uma edição anterior na zona sul da capital, o evento chega a Itaquera com uma experiência completa de gastronomia, entretenimento e lazer para toda a família. O…",
+   "inicio": "2026-11-03",
+   "fim": "2026-11-15",
+   "horario": "das 17h às 22h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "f443818a8bbd",
+   "shopping": "Shopping Itaquera",
+   "bairro": "Itaquera",
+   "regiao": "Zona Leste",
+   "fonte": "Shopping Itaquera",
+   "tipo_local": "Shopping",
+   "url": "https://www.shoppingitaquera.com.br/novidade/made-fogo-musica-ao-vivo-e-gastronomia",
+   "imagem": "https://www.shoppingitaquera.com.br/sites/metro-itaquera/files/shopping-media/Novidade/2026-11/2937.3_Desdobramentos_Made_In_Fogo_Banner_app_1238x500.png"
   },
   {
    "titulo": "Mazzaropi - O Cineasta Das Platéias",
@@ -1870,31 +1895,6 @@
    "tipo_local": "Shopping",
    "url": "https://eventos.besistemas.com.br/freicaneca/event/0yzd6y8ysffij9ul/quinta+da+danca",
    "imagem": "https://eventos.besistemas.com.br/freicaneca/marketing/event/banners/5ozXbv2Ow6GQOWyx_banner.jpg"
-  },
-  {
-   "titulo": "Boi De Mamão Leva Tradição De Florianópolis A Espetáculo Infantil Gratuito Neste Domingo (01)",
-   "resumo": "Grupo Folclórico Alivanta Meu Boi apresenta tradição da cidade às 11h30, no Villa Romana Shopping, com versos, brincadeiras e participação do público Papai Noel chega ao Villa Romana Shopping em 6 de novembro com musical e decoração de Natal Programação terá apresentações de corais, encontros natalinos e a 20ª edição…",
-   "inicio": "2026-11-06",
-   "fim": "2026-11-06",
-   "horario": "11h30",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": true,
-   "categorias": [],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "e2dd6fbaaf51",
-   "shopping": "Villa Romana Shopping",
-   "bairro": "Vila Romana",
-   "regiao": "Zona Oeste",
-   "fonte": "Villa Romana Shopping",
-   "tipo_local": "Shopping",
-   "url": "https://villaromanashopping.com.br/novidades/boi-de-mamao-leva-tradicao-de-florianopolis-a-espetaculo-infantil-gratuito-neste-domingo-01/",
-   "imagem": "https://villaromanashopping.com.br/wp-content/uploads/2026/10/dct_maio_ads_01.09_site_desktop_1170x440-1.jpg"
   },
   {
    "titulo": "Papai Noel Chega Ao Villa Romana Shopping Em 6 De Novembro Com Musical E Decoração De Natal - Villa Romana Shopping",
@@ -2940,6 +2940,31 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/praticas-criativas-em-arte-e-natureza-local",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/fotos-prog-12.png"
+  },
+  {
+   "titulo": "Boi De Mamão Leva Tradição De Florianópolis A Espetáculo Infantil Gratuito Neste Domingo (01)",
+   "resumo": "Grupo Folclórico Alivanta Meu Boi apresenta tradição da cidade às 11h30, no Villa Romana Shopping, com versos, brincadeiras e participação do público",
+   "inicio": null,
+   "fim": "2026-11-10",
+   "horario": "11h30",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "e2dd6fbaaf51",
+   "shopping": "Villa Romana Shopping",
+   "bairro": "Vila Romana",
+   "regiao": "Zona Oeste",
+   "fonte": "Villa Romana Shopping",
+   "tipo_local": "Shopping",
+   "url": "https://villaromanashopping.com.br/novidades/boi-de-mamao-leva-tradicao-de-florianopolis-a-espetaculo-infantil-gratuito-neste-domingo-01/",
+   "imagem": "https://villaromanashopping.com.br/wp-content/uploads/2026/10/dct_maio_ads_01.09_site_desktop_1170x440-1.jpg"
   },
   {
    "titulo": "Luan Sodré Quarteto",
@@ -4632,7 +4657,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/DfQgCVkscJr/",
-   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=qN9_g1oop3kQ7kNvwEnJe6p&_nc_oc=AdorOGSmrg5OQ4MJgHtUKFSal_hcxE4hOyX0IF8vAsSTu-ayVqjEibayLPw0FvQrFLc&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=L0vtLo64W7sw4B5qvhDZjw&_nc_tpa=Q5bMBQJCpfeyuaDY52agIPZ7nkdjHeQ4sIISO0_QkFYgy05ci9mbpewjJQqHGKXj0DRxh9_qzuIAuvdy&oh=00_AQSDGIt8IapPQnIIoRPf39MlBDCmv_cChN39tNksl2Y7Fw&oe=6AEF9D85"
+   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=qN9_g1oop3kQ7kNvwEnJe6p&_nc_oc=AdorOGSmrg5OQ4MJgHtUKFSal_hcxE4hOyX0IF8vAsSTu-ayVqjEibayLPw0FvQrFLc&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=a4iHwTlJjsdyWUG0LahJZQ&_nc_tpa=Q5bMBQIm15DiYuWOl3RGX8Tsc8BLYc8ZaPj3pL6m3XWxBAG-RZf1Q8MeIH2kumx3By-gOeA1PJfl6RPf&oh=00_AQTs54Cm4v1DH6KqqXFAIyTbnLcMd_-E-ssh4B9ZVjIdSA&oe=6AF00E05"
   },
   {
    "titulo": "Cinematerna",
