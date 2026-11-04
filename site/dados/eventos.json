@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-04T06:04-03:00",
+ "gerado_em": "2026-11-04T18:03-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -16,7 +16,7 @@
   {
    "shopping": "Shopping Vila Olímpia",
    "url": "https://www.shoppingvilaolimpia.com.br/eventos/",
-   "status": "ok",
+   "status": "erro: HTTPError: HTTP Error 500: Internal Server Error",
    "eventos": 1
   },
   {
@@ -29,7 +29,7 @@
    "shopping": "Iguatemi São Paulo",
    "url": "https://iguatemi.com.br/saopaulo/eventos",
    "status": "ok",
-   "eventos": 0
+   "eventos": 1
   },
   {
    "shopping": "Shopping Pátio Higienópolis",
@@ -107,7 +107,7 @@
    "shopping": "Open Mall The Square",
    "url": "https://openmallthesquare.com.br/eventos-nova/",
    "status": "ok",
-   "eventos": 5
+   "eventos": 32
   },
   {
    "shopping": "Shopping Cidade Jardim",
@@ -154,7 +154,7 @@
   {
    "shopping": "Sesc SP",
    "url": "https://www.sescsp.org.br/programacao/",
-   "status": "ok",
+   "status": "erro: AttributeError: 'NoneType' object has no attribute 'get'",
    "eventos": 165
   }
  ],
@@ -1741,6 +1741,31 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2025/06/Foto-Divulgacao-16.png"
   },
   {
+   "titulo": "Trono do Papai Noel",
+   "resumo": "O Papai Noel recebe crianças e famílias no Piso Superior, em frente à UP+Casa, acomodado em sua tradicional poltrona vermelha para fotos, encontros especiais e para receber as cartinhas dos pequenos.",
+   "inicio": "2026-11-04",
+   "fim": null,
+   "horario": null,
+   "faixa_etaria": null,
+   "gratuito": null,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": true,
+   "categorias": [],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "3c52ebc9b79f",
+   "shopping": "Iguatemi São Paulo",
+   "bairro": "Jardim Paulistano",
+   "regiao": "Zona Oeste",
+   "fonte": "Iguatemi São Paulo",
+   "tipo_local": "Shopping",
+   "url": "https://iguatemi.com.br/saopaulo/eventos/trono-do-papai-noel",
+   "imagem": "https://storage.googleapis.com/strapi-igta/trono1_DESK_14c9b941e7/trono1_DESK_14c9b941e7.png"
+  },
+  {
    "titulo": "TÈTÈRÈGÚN: estação de escuta da criança",
    "resumo": "Com Onilé Produções Público: Diversas idades Categorias: Encontros e Palestras Atividade gratuita Unidade: Sesc Bom Retiro",
    "inicio": "2026-11-04",
@@ -2137,7 +2162,7 @@
    "fonte": "Shopping Itaquera",
    "tipo_local": "Shopping",
    "url": "https://www.shoppingitaquera.com.br/novidade/chegada-do-papai-noel",
-   "imagem": "https://www.shoppingitaquera.com.br/sites/metro-itaquera/files/shopping-media/Novidade/2026-10/2956.1_A_Chegada_do_papai_Noel_Banner_app_1238x500.png"
+   "imagem": "https://www.shoppingitaquera.com.br/sites/metro-itaquera/files/shopping-media/Novidade/2026-11/2956.1_A_Chegada_do_papai_Noel_Banner_app_1238x500.jpg"
   },
   {
    "titulo": "Chico Contador conta \"O Alfaiate Desatento\"",
@@ -2357,10 +2382,10 @@
   },
   {
    "titulo": "Dudu Machado",
-   "resumo": "Palco Praça Gratuito Horários: 14h Atividade infantil",
+   "resumo": "Palco Praça Gratuito Horários: 14h, 17h Atividade infantil",
    "inicio": "2026-11-07",
-   "fim": "2026-11-07",
-   "horario": "14h",
+   "fim": "2026-12-05",
+   "horario": "14h, 17h",
    "faixa_etaria": null,
    "gratuito": true,
    "agendamento": false,
@@ -2787,10 +2812,10 @@
   },
   {
    "titulo": "Rock Le Pop",
-   "resumo": "Palco Praça Gratuito Horários: 20h Atividade infantil",
+   "resumo": "Palco Praça Gratuito Horários: 20h, 14h Atividade infantil",
    "inicio": "2026-11-07",
-   "fim": "2026-11-07",
-   "horario": "20h",
+   "fim": "2026-12-13",
+   "horario": "20h, 14h",
    "faixa_etaria": null,
    "gratuito": true,
    "agendamento": false,
@@ -3165,7 +3190,7 @@
    "titulo": "Master Blaster",
    "resumo": "Palco Praça Gratuito Horários: 14h Atividade infantil",
    "inicio": "2026-11-08",
-   "fim": "2026-11-08",
+   "fim": "2026-11-22",
    "horario": "14h",
    "faixa_etaria": null,
    "gratuito": true,
@@ -3219,7 +3244,7 @@
    "titulo": "Old Chevy",
    "resumo": "Palco Praça Gratuito Horários: 17h Atividade infantil",
    "inicio": "2026-11-08",
-   "fim": "2026-11-08",
+   "fim": "2026-12-06",
    "horario": "17h",
    "faixa_etaria": null,
    "gratuito": true,
@@ -3295,6 +3320,33 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/traquitanas-sonoras",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/11/Trakitanas-Sonoras.jpg"
+  },
+  {
+   "titulo": "Sal Vincent",
+   "resumo": "Palco Praça Gratuito Horários: 14h Atividade infantil",
+   "inicio": "2026-11-09",
+   "fim": "2026-11-09",
+   "horario": "14h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "2eebdbcd57bd",
+   "shopping": "Open Mall The Square",
+   "bairro": "Granja Viana (Cotia)",
+   "regiao": "Grande SP",
+   "fonte": "Open Mall The Square",
+   "tipo_local": "Shopping",
+   "url": "https://openmallthesquare.com.br/eventos-nova/#sal-vincent",
+   "imagem": null
   },
   {
    "titulo": "Africanidades: Danças, músicas, cantos e brincadeiras",
@@ -3646,6 +3698,33 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/WhatsApp_Image_2026_07_16_at_00.35.52_2026-07-16-10-42-41.jpeg"
   },
   {
+   "titulo": "Joyce Roldan Quarteto",
+   "resumo": "Palco Praça Gratuito Horários: 17h Atividade infantil",
+   "inicio": "2026-11-14",
+   "fim": "2026-11-14",
+   "horario": "17h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "326d7520fd9c",
+   "shopping": "Open Mall The Square",
+   "bairro": "Granja Viana (Cotia)",
+   "regiao": "Grande SP",
+   "fonte": "Open Mall The Square",
+   "tipo_local": "Shopping",
+   "url": "https://openmallthesquare.com.br/eventos-nova/#joyce-roldan-quarteto",
+   "imagem": null
+  },
+  {
    "titulo": "Letreirando: Um Passeio Pela Caligrafia Popular do Brasil",
    "resumo": "Com Danise Eliom Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Avenida Paulista",
    "inicio": "2026-11-14",
@@ -3671,6 +3750,33 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/letreirando-um-passeio-pela-caligrafia-popular-do-brasil",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/WhatsApp_Image_2026_07_16_at_00.28.06_2026-07-16-10-45-5.jpeg"
+  },
+  {
+   "titulo": "Macropop",
+   "resumo": "Paulo Padilha Palco Praça Gratuito Horários: 20h Atividade infantil",
+   "inicio": "2026-11-14",
+   "fim": "2026-11-14",
+   "horario": "20h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "f6d580a59044",
+   "shopping": "Open Mall The Square",
+   "bairro": "Granja Viana (Cotia)",
+   "regiao": "Grande SP",
+   "fonte": "Open Mall The Square",
+   "tipo_local": "Shopping",
+   "url": "https://openmallthesquare.com.br/eventos-nova/#macropop",
+   "imagem": null
   },
   {
    "titulo": "Maré de Histórias",
@@ -3835,6 +3941,33 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/08/MesaEmFamilia_Portal.png"
   },
   {
+   "titulo": "Angélica Sansone",
+   "resumo": "Palco Praça Gratuito Horários: 14h Atividade infantil",
+   "inicio": "2026-11-15",
+   "fim": "2026-11-15",
+   "horario": "14h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "32c1aec1dc70",
+   "shopping": "Open Mall The Square",
+   "bairro": "Granja Viana (Cotia)",
+   "regiao": "Grande SP",
+   "fonte": "Open Mall The Square",
+   "tipo_local": "Shopping",
+   "url": "https://openmallthesquare.com.br/eventos-nova/#angelica-sansone",
+   "imagem": null
+  },
+  {
    "titulo": "Bolsas Impermeáveis de Lona - Domingos",
    "resumo": "com Érica Campanha, educadora em Tecnologias e Artes do Sesc Interlagos Público: Adulto, Crianças, Diversas idades Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Interlagos",
    "inicio": "2026-11-15",
@@ -3914,6 +4047,33 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/circo-de-quebra-na-zona-sul-me-alimenta",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/24.08.25___Circo_de_Quebra_78_2026-09-22-17-37-48.jpg"
+  },
+  {
+   "titulo": "Folk do Pântano",
+   "resumo": "Palco Praça Gratuito Horários: 17h Atividade infantil",
+   "inicio": "2026-11-15",
+   "fim": "2026-11-15",
+   "horario": "17h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "dcd10c6368e5",
+   "shopping": "Open Mall The Square",
+   "bairro": "Granja Viana (Cotia)",
+   "regiao": "Grande SP",
+   "fonte": "Open Mall The Square",
+   "tipo_local": "Shopping",
+   "url": "https://openmallthesquare.com.br/eventos-nova/#folk-do-pantano",
+   "imagem": null
   },
   {
    "titulo": "Jongo de Embu das Artes",
@@ -4078,6 +4238,33 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/mambembe_creditos_buriti_filmes_03_2025-12-05-15-50-38.jpg"
   },
   {
+   "titulo": "Trio Meio de Campo",
+   "resumo": "Palco Praça Gratuito Horários: 14h Atividade infantil",
+   "inicio": "2026-11-19",
+   "fim": "2026-11-19",
+   "horario": "14h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "a95045e7ffcb",
+   "shopping": "Open Mall The Square",
+   "bairro": "Granja Viana (Cotia)",
+   "regiao": "Grande SP",
+   "fonte": "Open Mall The Square",
+   "tipo_local": "Shopping",
+   "url": "https://openmallthesquare.com.br/eventos-nova/#trio-meio-de-campo",
+   "imagem": null
+  },
+  {
    "titulo": "Aguaceiro de Menino Bentu",
    "resumo": "com Cia Menina Fulô Público: Crianças Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc Pinheiros",
    "inicio": "2026-11-20",
@@ -4240,6 +4427,33 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/feirapreta.jpg"
   },
   {
+   "titulo": "Heloisa Lucas",
+   "resumo": "Palco Praça Gratuito Horários: 14h Atividade infantil",
+   "inicio": "2026-11-20",
+   "fim": "2026-11-20",
+   "horario": "14h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "0ce459977029",
+   "shopping": "Open Mall The Square",
+   "bairro": "Granja Viana (Cotia)",
+   "regiao": "Grande SP",
+   "fonte": "Open Mall The Square",
+   "tipo_local": "Shopping",
+   "url": "https://openmallthesquare.com.br/eventos-nova/#heloisa-lucas",
+   "imagem": null
+  },
+  {
    "titulo": "Hoje tem festa no céu",
    "resumo": "Com autoria de Cíntia Alves e direção de Eduardo Figueiredo Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc 24 de Maio",
    "inicio": "2026-11-20",
@@ -4375,6 +4589,33 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/teatro_de_sombras_2026-10-11-13-17-46.png"
   },
   {
+   "titulo": "Trio Meio do Campo",
+   "resumo": "Palco Praça Gratuito Horários: 17h Atividade infantil",
+   "inicio": "2026-11-20",
+   "fim": "2026-11-20",
+   "horario": "17h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "201a889d6331",
+   "shopping": "Open Mall The Square",
+   "bairro": "Granja Viana (Cotia)",
+   "regiao": "Grande SP",
+   "fonte": "Open Mall The Square",
+   "tipo_local": "Shopping",
+   "url": "https://openmallthesquare.com.br/eventos-nova/#trio-meio-do-campo",
+   "imagem": null
+  },
+  {
    "titulo": "Vivência de Impressão 3D para as famílias",
    "resumo": "com Bruno Fioreli Público: Diversas idades Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Vila Mariana",
    "inicio": "2026-11-20",
@@ -4454,6 +4695,33 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/ceramica-do-territorio-para-o-territorio-geracao-de-renda-e-empoderamento",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/ceramica2.jpeg"
+  },
+  {
+   "titulo": "Chinela Voadora",
+   "resumo": "Palco Praça Gratuito Horários: 20h Atividade infantil",
+   "inicio": "2026-11-21",
+   "fim": "2026-11-21",
+   "horario": "20h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "b158040934b5",
+   "shopping": "Open Mall The Square",
+   "bairro": "Granja Viana (Cotia)",
+   "regiao": "Grande SP",
+   "fonte": "Open Mall The Square",
+   "tipo_local": "Shopping",
+   "url": "https://openmallthesquare.com.br/eventos-nova/#chinela-voadora",
+   "imagem": null
   },
   {
    "titulo": "Feira Manualidades brasileiras",
@@ -4537,6 +4805,60 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2023/09/800x400-Larissa-Macedo-3.png"
   },
   {
+   "titulo": "Sampél Trio",
+   "resumo": "Palco Praça Gratuito Horários: 14h Atividade infantil",
+   "inicio": "2026-11-21",
+   "fim": "2026-11-21",
+   "horario": "14h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "5badcc1c484f",
+   "shopping": "Open Mall The Square",
+   "bairro": "Granja Viana (Cotia)",
+   "regiao": "Grande SP",
+   "fonte": "Open Mall The Square",
+   "tipo_local": "Shopping",
+   "url": "https://openmallthesquare.com.br/eventos-nova/#sampel-trio",
+   "imagem": null
+  },
+  {
+   "titulo": "Tributo Djavan",
+   "resumo": "Felipe Soul Palco Praça Gratuito Horários: 17h Atividade infantil",
+   "inicio": "2026-11-21",
+   "fim": "2026-11-21",
+   "horario": "17h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "aa8b16651bda",
+   "shopping": "Open Mall The Square",
+   "bairro": "Granja Viana (Cotia)",
+   "regiao": "Grande SP",
+   "fonte": "Open Mall The Square",
+   "tipo_local": "Shopping",
+   "url": "https://openmallthesquare.com.br/eventos-nova/#tributo-djavan",
+   "imagem": null
+  },
+  {
    "titulo": "Bailinho Diladim",
    "resumo": "Com Diladim Público: Diversas idades Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc Bom Retiro",
    "inicio": "2026-11-22",
@@ -4562,6 +4884,33 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/bailinho-diladim",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Bailinho-Diladim.png"
+  },
+  {
+   "titulo": "Divas 2000",
+   "resumo": "Mabi Palco Praça Gratuito Horários: 17h Atividade infantil",
+   "inicio": "2026-11-22",
+   "fim": "2026-11-22",
+   "horario": "17h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "4782722b0c3b",
+   "shopping": "Open Mall The Square",
+   "bairro": "Granja Viana (Cotia)",
+   "regiao": "Grande SP",
+   "fonte": "Open Mall The Square",
+   "tipo_local": "Shopping",
+   "url": "https://openmallthesquare.com.br/eventos-nova/#divas-2000",
+   "imagem": null
   },
   {
    "titulo": "Hip Hop Circus",
@@ -4861,6 +5210,33 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/SucatasambulantesSescGuarulhos_2_2026-07-31-11-46-5.jpg"
   },
   {
+   "titulo": "Dan Marques",
+   "resumo": "Palco Praça Gratuito Horários: 14h Atividade infantil",
+   "inicio": "2026-11-28",
+   "fim": "2026-11-28",
+   "horario": "14h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "37ebcec2d3b6",
+   "shopping": "Open Mall The Square",
+   "bairro": "Granja Viana (Cotia)",
+   "regiao": "Grande SP",
+   "fonte": "Open Mall The Square",
+   "tipo_local": "Shopping",
+   "url": "https://openmallthesquare.com.br/eventos-nova/#dan-marques",
+   "imagem": null
+  },
+  {
    "titulo": "FEIRA - Festival de Ideias e Realidades em Agroecologia - Floresta que Cresce",
    "resumo": "Com Mimos da Mata, Viveiro Escola, coletivo ÁguaFloresta, Sitio João de Barro, Trabalhadores de Gaia, Aldeia Indígena do Jaraguá e Associação de Pequenos Agricultores Público: Diversas idades Categorias: Encontros e Palestras Atividade gratuita Unidade: Sesc Itaquera",
    "inicio": "2026-11-28",
@@ -4969,6 +5345,33 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Jogos-e-Brincadeiras-Africanas.jpg"
   },
   {
+   "titulo": "Rock Band",
+   "resumo": "Eder Martins Palco Praça Gratuito Horários: 17h Atividade infantil",
+   "inicio": "2026-11-28",
+   "fim": "2026-11-28",
+   "horario": "17h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "3261e512a12e",
+   "shopping": "Open Mall The Square",
+   "bairro": "Granja Viana (Cotia)",
+   "regiao": "Grande SP",
+   "fonte": "Open Mall The Square",
+   "tipo_local": "Shopping",
+   "url": "https://openmallthesquare.com.br/eventos-nova/#rock-band",
+   "imagem": null
+  },
+  {
    "titulo": "Território e o Samba Cantado, Tocado e Escrito: apresentação artística",
    "resumo": "Com Jônatas Petróleo e Luana Bayô Público: Crianças, Diversas idades Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc Campo Limpo",
    "inicio": "2026-11-28",
@@ -4994,6 +5397,60 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/territorio-e-o-samba-cantado-tocado-e-escrito-apresentacao-artistica",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/fotos-prog-10.png"
+  },
+  {
+   "titulo": "Tributo Elvis Natal",
+   "resumo": "Memphis Palco Praça Gratuito Horários: 20h Atividade infantil",
+   "inicio": "2026-11-28",
+   "fim": "2026-11-28",
+   "horario": "20h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": true,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "04cc898e2a2f",
+   "shopping": "Open Mall The Square",
+   "bairro": "Granja Viana (Cotia)",
+   "regiao": "Grande SP",
+   "fonte": "Open Mall The Square",
+   "tipo_local": "Shopping",
+   "url": "https://openmallthesquare.com.br/eventos-nova/#tributo-elvis-natal",
+   "imagem": null
+  },
+  {
+   "titulo": "Banda Saracutaia",
+   "resumo": "Palco Praça Gratuito Horários: 17h Atividade infantil",
+   "inicio": "2026-11-29",
+   "fim": "2026-11-29",
+   "horario": "17h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "5c268dcab142",
+   "shopping": "Open Mall The Square",
+   "bairro": "Granja Viana (Cotia)",
+   "regiao": "Grande SP",
+   "fonte": "Open Mall The Square",
+   "tipo_local": "Shopping",
+   "url": "https://openmallthesquare.com.br/eventos-nova/#banda-saracutaia",
+   "imagem": null
   },
   {
    "titulo": "Curumininices: Desenho de Observação",
@@ -5075,6 +5532,87 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/11/Cidade-Brinquedo-FTSissyEiko.jpg"
   },
   {
+   "titulo": "Fundação Bradesco",
+   "resumo": "Palco Praça Gratuito Horários: 17h Atividade infantil",
+   "inicio": "2026-12-05",
+   "fim": "2026-12-05",
+   "horario": "17h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "f941cecfaf47",
+   "shopping": "Open Mall The Square",
+   "bairro": "Granja Viana (Cotia)",
+   "regiao": "Grande SP",
+   "fonte": "Open Mall The Square",
+   "tipo_local": "Shopping",
+   "url": "https://openmallthesquare.com.br/eventos-nova/#fundacao-bradesco",
+   "imagem": null
+  },
+  {
+   "titulo": "Giga Acústico",
+   "resumo": "Palco Praça Gratuito Horários: 14h Atividade infantil",
+   "inicio": "2026-12-05",
+   "fim": "2026-12-05",
+   "horario": "14h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "275369b1a573",
+   "shopping": "Open Mall The Square",
+   "bairro": "Granja Viana (Cotia)",
+   "regiao": "Grande SP",
+   "fonte": "Open Mall The Square",
+   "tipo_local": "Shopping",
+   "url": "https://openmallthesquare.com.br/eventos-nova/#giga-acustico",
+   "imagem": null
+  },
+  {
+   "titulo": "Erica Lira",
+   "resumo": "Palco Praça Gratuito Horários: 14h Atividade infantil",
+   "inicio": "2026-12-06",
+   "fim": "2026-12-06",
+   "horario": "14h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "ba9006f41b30",
+   "shopping": "Open Mall The Square",
+   "bairro": "Granja Viana (Cotia)",
+   "regiao": "Grande SP",
+   "fonte": "Open Mall The Square",
+   "tipo_local": "Shopping",
+   "url": "https://openmallthesquare.com.br/eventos-nova/#erica-lira",
+   "imagem": null
+  },
+  {
    "titulo": "Afetos e Prazer da População LGBTQIAPN+ não Tem Idade",
    "resumo": "Com Dr Vínicius Borges, Dr Fred Nicácio, Gracy Soares e Anderson Reis Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc Consolação",
    "inicio": "2026-12-08",
@@ -5102,6 +5640,60 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/11/Modelo-Portal-4.png"
   },
   {
+   "titulo": "Gaby Cunha",
+   "resumo": "Palco Praça Gratuito Horários: 14h Atividade infantil",
+   "inicio": "2026-12-12",
+   "fim": "2026-12-12",
+   "horario": "14h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "2768259b87ba",
+   "shopping": "Open Mall The Square",
+   "bairro": "Granja Viana (Cotia)",
+   "regiao": "Grande SP",
+   "fonte": "Open Mall The Square",
+   "tipo_local": "Shopping",
+   "url": "https://openmallthesquare.com.br/eventos-nova/#gaby-cunha",
+   "imagem": null
+  },
+  {
+   "titulo": "Parada das Luzes",
+   "resumo": "Palco Praça Gratuito Horários: 20h Atividade infantil",
+   "inicio": "2026-12-12",
+   "fim": "2026-12-19",
+   "horario": "20h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "f1213a085dde",
+   "shopping": "Open Mall The Square",
+   "bairro": "Granja Viana (Cotia)",
+   "regiao": "Grande SP",
+   "fonte": "Open Mall The Square",
+   "tipo_local": "Shopping",
+   "url": "https://openmallthesquare.com.br/eventos-nova/#parada-das-luzes",
+   "imagem": null
+  },
+  {
    "titulo": "Quintal de Vó",
    "resumo": "Coletivo Ajô-Arô Público: Crianças Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc Pompeia",
    "inicio": "2026-12-12",
@@ -5127,6 +5719,168 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/quintal-de-vo",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/fotoquintalnico1_2026-09-29-19-24-52.jpg"
+  },
+  {
+   "titulo": "Sabrina Saldanha Band",
+   "resumo": "Palco Praça Gratuito Horários: 17h Atividade infantil",
+   "inicio": "2026-12-12",
+   "fim": "2026-12-12",
+   "horario": "17h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "eb52df57cda2",
+   "shopping": "Open Mall The Square",
+   "bairro": "Granja Viana (Cotia)",
+   "regiao": "Grande SP",
+   "fonte": "Open Mall The Square",
+   "tipo_local": "Shopping",
+   "url": "https://openmallthesquare.com.br/eventos-nova/#sabrina-saldanha-band",
+   "imagem": null
+  },
+  {
+   "titulo": "Samuel Mousse Trio",
+   "resumo": "Show gratuito Horários: 17h Atividade infantil",
+   "inicio": "2026-12-13",
+   "fim": "2026-12-13",
+   "horario": "17h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "d2fa3910a471",
+   "shopping": "Open Mall The Square",
+   "bairro": "Granja Viana (Cotia)",
+   "regiao": "Grande SP",
+   "fonte": "Open Mall The Square",
+   "tipo_local": "Shopping",
+   "url": "https://openmallthesquare.com.br/eventos-nova/#samuel-mousse-trio",
+   "imagem": null
+  },
+  {
+   "titulo": "The Fisches",
+   "resumo": "Palco Praça Gratuito Horários: 17h Atividade infantil",
+   "inicio": "2026-12-19",
+   "fim": "2026-12-19",
+   "horario": "17h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "8f97c36ded8b",
+   "shopping": "Open Mall The Square",
+   "bairro": "Granja Viana (Cotia)",
+   "regiao": "Grande SP",
+   "fonte": "Open Mall The Square",
+   "tipo_local": "Shopping",
+   "url": "https://openmallthesquare.com.br/eventos-nova/#the-fisches",
+   "imagem": null
+  },
+  {
+   "titulo": "Garçons Cantores",
+   "resumo": "Palco Praça Gratuito Horários: 17h Atividade infantil",
+   "inicio": "2026-12-20",
+   "fim": "2026-12-20",
+   "horario": "17h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "253624a42e4f",
+   "shopping": "Open Mall The Square",
+   "bairro": "Granja Viana (Cotia)",
+   "regiao": "Grande SP",
+   "fonte": "Open Mall The Square",
+   "tipo_local": "Shopping",
+   "url": "https://openmallthesquare.com.br/eventos-nova/#garcons-cantores",
+   "imagem": null
+  },
+  {
+   "titulo": "Soul Sou",
+   "resumo": "Palco Praça Gratuito Horários: 14h Atividade infantil",
+   "inicio": "2026-12-20",
+   "fim": "2026-12-20",
+   "horario": "14h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "ebc0ac8e251b",
+   "shopping": "Open Mall The Square",
+   "bairro": "Granja Viana (Cotia)",
+   "regiao": "Grande SP",
+   "fonte": "Open Mall The Square",
+   "tipo_local": "Shopping",
+   "url": "https://openmallthesquare.com.br/eventos-nova/#soul-sou",
+   "imagem": null
+  },
+  {
+   "titulo": "Papai Noel e Quarteto Jazz",
+   "resumo": "Show gratuito Atividade infantil",
+   "inicio": "2026-12-23",
+   "fim": "2026-12-24",
+   "horario": null,
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": true,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "08808a5072f1",
+   "shopping": "Open Mall The Square",
+   "bairro": "Granja Viana (Cotia)",
+   "regiao": "Grande SP",
+   "fonte": "Open Mall The Square",
+   "tipo_local": "Shopping",
+   "url": "https://openmallthesquare.com.br/eventos-nova/#papai-noel-e-quarteto-jazz",
+   "imagem": null
   },
   {
    "titulo": "Ernest & Celestine",
@@ -5255,7 +6009,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/DfQgCVkscJr/",
-   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=qN9_g1oop3kQ7kNvwEnJe6p&_nc_oc=AdorOGSmrg5OQ4MJgHtUKFSal_hcxE4hOyX0IF8vAsSTu-ayVqjEibayLPw0FvQrFLc&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=RDUJT8UkMinkQRl8joCBNA&_nc_tpa=Q5bMBQKDX_v4LCdD2ROJD0w0thC7Ob4ZxX18kqYzd1hmIX4Fn4anpgA99mnBCzO16pXzKrElEtEe5G82&oh=00_AQTB2gOGChRUSrjpt7HTakoPhUL4AE_0WWPcsQ52txRK-Q&oe=6AF07E85"
+   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=cUfZ4xzRs7MQ7kNvwEAXyN6&_nc_oc=Adr5zPKjE3rPfIEezbPWR0dR9yo1pbwpWmS-cvqzHbYIShW_Wri9d5boqyjEj2quAe8&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=9JyYeufdNRcsEnde2Z-8mQ&_nc_tpa=Q5bMBQKn7LGuatBe7MOVD4yf3G1OqP6IA4huyhlvDTq2IZkrKWtkWb7V-UDagcQUQvQ3W64Ul7ihXreu&oh=00_AQTCZMtyt1rGP-YI5dKqZu8lVN7RfhgH-nlpW_WX-xTLGQ&oe=6AF15F85"
   },
   {
    "titulo": "Cinematerna",
