@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-05T06:05-03:00",
+ "gerado_em": "2026-11-05T18:03-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -11,12 +11,12 @@
    "shopping": "Shopping Anália Franco",
    "url": "https://www.shoppinganaliafranco.com.br/eventos/",
    "status": "ok",
-   "eventos": 1
+   "eventos": 2
   },
   {
    "shopping": "Shopping Vila Olímpia",
    "url": "https://www.shoppingvilaolimpia.com.br/eventos/",
-   "status": "erro: HTTPError: HTTP Error 500: Internal Server Error",
+   "status": "ok",
    "eventos": 1
   },
   {
@@ -101,7 +101,7 @@
    "shopping": "Shopping União",
    "url": "https://www.shoppinguniao.com.br/",
    "status": "ok",
-   "eventos": 1
+   "eventos": 2
   },
   {
    "shopping": "Open Mall The Square",
@@ -154,7 +154,7 @@
   {
    "shopping": "Sesc SP",
    "url": "https://www.sescsp.org.br/programacao/",
-   "status": "ok",
+   "status": "erro: HTTPError: HTTP Error 403: Forbidden",
    "eventos": 172
   }
  ],
@@ -177,13 +177,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "add0858f046e",
+   "id": "6ffe604a9d31",
    "shopping": "MorumbiShopping",
    "bairro": "Morumbi",
    "regiao": "Zona Sul",
    "fonte": "MorumbiShopping",
    "tipo_local": "Shopping",
-   "url": "https://www.morumbishopping.com.br/eventos/zzat1t1uf7-diversao-e-na-hotzone/",
+   "url": "https://www.morumbishopping.com.br/lazer-e-eventos/eventos/zzat1t1uf7-diversao-e-na-hotzone/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/12/2d/122df6c7-2d3d-4958-ac17-554ced8d647f/hubimage__0x650_subsampling-2.webp"
   },
   {
@@ -383,13 +383,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "3430db30f326",
+   "id": "7a3c96917aeb",
    "shopping": "Shopping Vila Olímpia",
    "bairro": "Vila Olímpia",
    "regiao": "Zona Sul",
    "fonte": "Shopping Vila Olímpia",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppingvilaolimpia.com.br/eventos/cnlhvumbjh-natal-no-bosque/",
+   "url": "https://www.shoppingvilaolimpia.com.br/lazer-e-eventos/eventos/cnlhvumbjh-natal-no-bosque/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/90/aa/90aadf61-2995-4eda-adbf-6000c1af6342/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -740,6 +740,33 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/charivari-circo-15",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/charivari.png"
+  },
+  {
+   "titulo": "Chegada do Papai Noel",
+   "resumo": "Ele está chegando! 🎅❤️ No dia 11 de novembro, o Papai Noel desembarca por aqui para marcar o início da temporada mais mágica do ano. Prepare-se para uma noite especial para toda a família! 🗓 11 de novembro 🕢 19h30 📍 Estacionamento externo G1 Estacionamento externo G1",
+   "inicio": "2026-11-05",
+   "fim": "2026-11-11",
+   "horario": "19h30",
+   "faixa_etaria": "Livre",
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": true,
+   "categorias": [
+    "Evento"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "df477521c3da",
+   "shopping": "Shopping Anália Franco",
+   "bairro": "Anália Franco",
+   "regiao": "Zona Leste",
+   "fonte": "Shopping Anália Franco",
+   "tipo_local": "Shopping",
+   "url": "https://www.shoppinganaliafranco.com.br/eventos/gsxb5kgwag-chegada-do-papai-noel/",
+   "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/ea/f8/eaf8496f-f721-4772-89d9-f2d18a6ad368/hubimage__0x650_subsampling-2.webp"
   },
   {
    "titulo": "Confecção de Bonecas Abayomi",
@@ -1474,7 +1501,7 @@
    "titulo": "Quinta da Dança",
    "resumo": "Venha dançar com a gente! 💃 O Shopping Frei Caneca, em parceria com o Instituto de Ensino de Musicalidade na Dança, convida você para participar das aulas de dança de salão, um projeto criado para promover saúde, bem-estar, diversão e novas conexões. As aulas acontecerão todas as quintas-feiras, em um ambiente…",
    "inicio": "2026-11-05",
-   "fim": "2027-01-29",
+   "fim": "2026-11-05",
    "horario": "19h, 22h",
    "faixa_etaria": null,
    "gratuito": true,
@@ -1978,6 +2005,31 @@
    "tipo_local": "Shopping",
    "url": "https://villaromanashopping.com.br/novidades/papai-noel-chega-ao-villa-romana-shopping-em-6-de-novembro-com-musical-e-decoracao-de-natal/",
    "imagem": "https://villaromanashopping.com.br/wp-content/uploads/2026/10/CABECALHO-SITE-VILLApapainoel.png"
+  },
+  {
+   "titulo": "A magia do Natal mais fantástico da cidade entrou em contagem regressiva!",
+   "resumo": "A magia do Natal mais fantástico da cidade entrou em contagem regressiva! ✨ Prepare o coração, pois você e sua família terão registros para lá de especiais e que certamente ficarão guardados não apenas na galeria do seu celular, mas nas memórias também.⭐ 📅A partir deste sábado, 07/11, todas as nossas luzes vão se…",
+   "inicio": "2026-11-07",
+   "fim": "2026-11-07",
+   "horario": null,
+   "faixa_etaria": null,
+   "gratuito": null,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": true,
+   "categorias": [],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "5f50f3f6e77d",
+   "shopping": "Shopping União",
+   "bairro": "Osasco",
+   "regiao": "Grande SP",
+   "fonte": "Shopping União",
+   "tipo_local": "Shopping",
+   "url": "https://www.instagram.com/reel/DfXus9zJVJG/",
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/883571444_1439062638342255_1372319557972861513_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=n_RUzzGOH4sQ7kNvwH-6HN_&_nc_oc=AdqgGE3aD8MRC8sgTXgFzYdgvPFhrkMpsY1iOasRtYd35NtvvHs5glun-7PmUmRRoik&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=kzTN2ebXAB7JOsEOGkalsg&_nc_tpa=Q5bMBQLNwrTlTEO6L-AcDIxmLLcxnRDCVXrmvpRTxBV-P8CRuMtK_Xf601peKbxb2JLKlEKoVjpp6XoO&oh=00_AQTCjgoRn111ZkHiZjlH6Yg-jnSGvr-opXOXK34PFn00uw&oe=6AF2D611"
   },
   {
    "titulo": "Arte Brasileira em Feltragem a Seco",
@@ -4402,6 +4454,33 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2023/05/Banzo_Sofia_Calabria_2_2023-01-03-13-01-55.jpg"
   },
   {
+   "titulo": "Beto Ribeiro",
+   "resumo": "Palco Praça Gratuito Horários: 14h Atividade infantil",
+   "inicio": "2026-11-20",
+   "fim": "2026-11-20",
+   "horario": "14h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "b4cfa98c8c00",
+   "shopping": "Open Mall The Square",
+   "bairro": "Granja Viana (Cotia)",
+   "regiao": "Grande SP",
+   "fonte": "Open Mall The Square",
+   "tipo_local": "Shopping",
+   "url": "https://openmallthesquare.com.br/eventos-nova/#beto-ribeiro",
+   "imagem": null
+  },
+  {
    "titulo": "Curumininices: Muitas Formas de Desenhar",
    "resumo": "Com educadores(as) do Programa Curumim Público: Crianças Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Ipiranga",
    "inicio": "2026-11-20",
@@ -4511,10 +4590,10 @@
   },
   {
    "titulo": "Heloisa Lucas",
-   "resumo": "Palco Praça Gratuito Horários: 14h Atividade infantil",
+   "resumo": "Palco Praça Gratuito Horários: 17h Atividade infantil",
    "inicio": "2026-11-20",
    "fim": "2026-11-20",
-   "horario": "14h",
+   "horario": "17h",
    "faixa_etaria": null,
    "gratuito": true,
    "agendamento": false,
@@ -4697,33 +4776,6 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/teatro-de-sombras-itas-e-tecnologias-ancestrais",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/teatro_de_sombras_2026-10-11-13-17-46.png"
-  },
-  {
-   "titulo": "Trio Meio do Campo",
-   "resumo": "Palco Praça Gratuito Horários: 17h Atividade infantil",
-   "inicio": "2026-11-20",
-   "fim": "2026-11-20",
-   "horario": "17h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Infantil"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "201a889d6331",
-   "shopping": "Open Mall The Square",
-   "bairro": "Granja Viana (Cotia)",
-   "regiao": "Grande SP",
-   "fonte": "Open Mall The Square",
-   "tipo_local": "Shopping",
-   "url": "https://openmallthesquare.com.br/eventos-nova/#trio-meio-do-campo",
-   "imagem": null
   },
   {
    "titulo": "Vivência de Impressão 3D para as famílias",
@@ -6021,8 +6073,8 @@
   },
   {
    "titulo": "Papai Noel e Quarteto Jazz",
-   "resumo": "Show gratuito Atividade infantil",
-   "inicio": "2026-12-23",
+   "resumo": "Palco Praça Gratuito Atividade infantil",
+   "inicio": "2026-12-21",
    "fim": "2026-12-24",
    "horario": null,
    "faixa_etaria": null,
@@ -6173,7 +6225,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/DfQgCVkscJr/",
-   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=cUfZ4xzRs7MQ7kNvwEAXyN6&_nc_oc=Adr5zPKjE3rPfIEezbPWR0dR9yo1pbwpWmS-cvqzHbYIShW_Wri9d5boqyjEj2quAe8&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=DXnKeh7MCAq7zBDlA78w-w&_nc_tpa=Q5bMBQKpN_GMWIIA7-5HxJV-k8lbuukxUHg5ixEnyFz5bvsWJd8FTZRcO5C04TwSpokUV2GusSJufJKu&oh=00_AQT-kNqiuaH9cAJF3uNFm7cpRNzQllmidtPWyuPDYaalSA&oe=6AF1D005"
+   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=cUfZ4xzRs7MQ7kNvwEAXyN6&_nc_oc=Adr5zPKjE3rPfIEezbPWR0dR9yo1pbwpWmS-cvqzHbYIShW_Wri9d5boqyjEj2quAe8&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=kzTN2ebXAB7JOsEOGkalsg&_nc_tpa=Q5bMBQKmTx22LsoyxYXKXMH2pOYh6BivtOWIA9BxI476U_-q4RjsbCNFOoSxmUq8W3AKssO02yBGVefc&oh=00_AQT9mkllyYs7P46-DnPaix1r-dhAAlTxcfnw-QNC80034w&oe=6AF2B105"
   },
   {
    "titulo": "Cinematerna",
