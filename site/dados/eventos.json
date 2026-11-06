@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-05T18:03-03:00",
+ "gerado_em": "2026-11-06T06:03-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -125,7 +125,7 @@
    "shopping": "Shopping Frei Caneca",
    "url": "https://freicanecashopping.com.br/pt-BR/acontece",
    "status": "ok",
-   "eventos": 1
+   "eventos": 0
   },
   {
    "shopping": "Shopping Partage Santana",
@@ -155,7 +155,7 @@
    "shopping": "Sesc SP",
    "url": "https://www.sescsp.org.br/programacao/",
    "status": "erro: HTTPError: HTTP Error 403: Forbidden",
-   "eventos": 172
+   "eventos": 171
   }
  ],
  "eventos": [
@@ -177,20 +177,20 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "6ffe604a9d31",
+   "id": "add0858f046e",
    "shopping": "MorumbiShopping",
    "bairro": "Morumbi",
    "regiao": "Zona Sul",
    "fonte": "MorumbiShopping",
    "tipo_local": "Shopping",
-   "url": "https://www.morumbishopping.com.br/lazer-e-eventos/eventos/zzat1t1uf7-diversao-e-na-hotzone/",
+   "url": "https://www.morumbishopping.com.br/eventos/zzat1t1uf7-diversao-e-na-hotzone/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/12/2d/122df6c7-2d3d-4958-ac17-554ced8d647f/hubimage__0x650_subsampling-2.webp"
   },
   {
    "titulo": "Parque Play City",
    "resumo": "Play City: A diversão que você e sua família merecem! O Play City acaba de chegar aqui no Shopping Metrô Itaquera, trazendo muita emoção e diversão para toda a família! Com uma variedade de atrações para todas as idades, é o lugar perfeito para passar um dia em família ou amigos. Atrações No PlayCity, você encontrará…",
    "inicio": "2025-04-17",
-   "fim": "2026-12-31",
+   "fim": "2027-09-02",
    "horario": "das 18h às 22h",
    "faixa_etaria": null,
    "gratuito": false,
@@ -383,13 +383,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "7a3c96917aeb",
+   "id": "3430db30f326",
    "shopping": "Shopping Vila Olímpia",
    "bairro": "Vila Olímpia",
    "regiao": "Zona Sul",
    "fonte": "Shopping Vila Olímpia",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppingvilaolimpia.com.br/lazer-e-eventos/eventos/cnlhvumbjh-natal-no-bosque/",
+   "url": "https://www.shoppingvilaolimpia.com.br/eventos/cnlhvumbjh-natal-no-bosque/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/90/aa/90aadf61-2995-4eda-adbf-6000c1af6342/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -958,33 +958,6 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2022/03/28jul_FeiraOrganicos.jpg"
   },
   {
-   "titulo": "Foto-pintura: Imagens para recontar histórias",
-   "resumo": "com Danirampe Público: Adulto, Diversas idades, Jovens, Pessoas idosas Categorias: Cursos e Oficinas Atividade paga Unidade: Sesc 14 Bis",
-   "inicio": "2026-11-05",
-   "fim": "2026-11-05",
-   "horario": "próxima sessão 5/11 às 18h",
-   "faixa_etaria": null,
-   "gratuito": null,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Cursos e Oficinas"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "a7db2f7da2dc",
-   "shopping": "Sesc 14 Bis",
-   "bairro": "Bela Vista",
-   "regiao": "Centro",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/foto-pintura-imagens-para-recontar-historias",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/09/fotopinturaaaa.jpg"
-  },
-  {
    "titulo": "Histórias à Mesa",
    "resumo": "Público: Adulto, Crianças Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Belenzinho",
    "inicio": "2026-11-05",
@@ -1498,31 +1471,6 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/07/dd-1.png"
   },
   {
-   "titulo": "Quinta da Dança",
-   "resumo": "Venha dançar com a gente! 💃 O Shopping Frei Caneca, em parceria com o Instituto de Ensino de Musicalidade na Dança, convida você para participar das aulas de dança de salão, um projeto criado para promover saúde, bem-estar, diversão e novas conexões. As aulas acontecerão todas as quintas-feiras, em um ambiente…",
-   "inicio": "2026-11-05",
-   "fim": "2026-11-05",
-   "horario": "19h, 22h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": true,
-   "como_agendar": null,
-   "link_inscricao": "https://eventos.besistemas.com.br/freicaneca/event/0yzd6y8ysffij9ul/quinta+da+danca",
-   "natal": false,
-   "categorias": [],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "04bcf3b28e78",
-   "shopping": "Shopping Frei Caneca",
-   "bairro": "Consolação",
-   "regiao": "Centro",
-   "fonte": "Shopping Frei Caneca",
-   "tipo_local": "Shopping",
-   "url": "https://eventos.besistemas.com.br/freicaneca/event/0yzd6y8ysffij9ul/quinta+da+danca",
-   "imagem": "https://eventos.besistemas.com.br/freicaneca/marketing/event/banners/5ozXbv2Ow6GQOWyx_banner.jpg"
-  },
-  {
    "titulo": "Quintal do Curumim - Brinquedos e Brincadeiras",
    "resumo": "Com Equipe Educativa do Programa Curumim Público: Crianças Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Itaquera",
    "inicio": "2026-11-05",
@@ -2029,7 +1977,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/DfXus9zJVJG/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/883571444_1439062638342255_1372319557972861513_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=n_RUzzGOH4sQ7kNvwH-6HN_&_nc_oc=AdqgGE3aD8MRC8sgTXgFzYdgvPFhrkMpsY1iOasRtYd35NtvvHs5glun-7PmUmRRoik&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=kzTN2ebXAB7JOsEOGkalsg&_nc_tpa=Q5bMBQLNwrTlTEO6L-AcDIxmLLcxnRDCVXrmvpRTxBV-P8CRuMtK_Xf601peKbxb2JLKlEKoVjpp6XoO&oh=00_AQTCjgoRn111ZkHiZjlH6Yg-jnSGvr-opXOXK34PFn00uw&oe=6AF2D611"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/883571444_1439062638342255_1372319557972861513_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=n_RUzzGOH4sQ7kNvwH-6HN_&_nc_oc=AdqgGE3aD8MRC8sgTXgFzYdgvPFhrkMpsY1iOasRtYd35NtvvHs5glun-7PmUmRRoik&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=jZQv0Yb2GNWvBdaMvaPnSA&_nc_tpa=Q5bMBQJ_-IdqRS1P-GVAQda7R0UrfeHA-qDgjSo35bH_vSn1o5YDJQAvtWmKkLs6jjk39sI0BRSfCtKN&oh=00_AQSJCmR-1bdwuVtyi8GM7jxxTDNBovTyOxZDlQSVQABENw&oe=6AF30E51"
   },
   {
    "titulo": "Arte Brasileira em Feltragem a Seco",
@@ -6225,7 +6173,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/DfQgCVkscJr/",
-   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=cUfZ4xzRs7MQ7kNvwEAXyN6&_nc_oc=Adr5zPKjE3rPfIEezbPWR0dR9yo1pbwpWmS-cvqzHbYIShW_Wri9d5boqyjEj2quAe8&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=kzTN2ebXAB7JOsEOGkalsg&_nc_tpa=Q5bMBQKmTx22LsoyxYXKXMH2pOYh6BivtOWIA9BxI476U_-q4RjsbCNFOoSxmUq8W3AKssO02yBGVefc&oh=00_AQT9mkllyYs7P46-DnPaix1r-dhAAlTxcfnw-QNC80034w&oe=6AF2B105"
+   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=cUfZ4xzRs7MQ7kNvwEAXyN6&_nc_oc=Adr5zPKjE3rPfIEezbPWR0dR9yo1pbwpWmS-cvqzHbYIShW_Wri9d5boqyjEj2quAe8&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=jZQv0Yb2GNWvBdaMvaPnSA&_nc_tpa=Q5bMBQKeMo62DsULrDOKDS274VuYZJ1Iitp4oeUhTffKzlaSgu-k9iETqbzecTPYKyXKSHRkD1mzLDYK&oh=00_AQRdrJS1Cjba5b2-lPNvY-rHVvHgtHbsmRvJgYPZcOYIKg&oe=6AF32185"
   },
   {
    "titulo": "Cinematerna",
