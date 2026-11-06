@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-06T06:03-03:00",
+ "gerado_em": "2026-11-06T18:03-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -131,7 +131,7 @@
    "shopping": "Shopping Partage Santana",
    "url": "https://www.partagesantana.com.br/eventos",
    "status": "ok",
-   "eventos": 2
+   "eventos": 3
   },
   {
    "shopping": "Shopping Center Norte",
@@ -149,7 +149,7 @@
    "shopping": "Shopping Tamboré",
    "url": "https://shoppingtambore.com.br",
    "status": "ok",
-   "eventos": 0
+   "eventos": 1
   },
   {
    "shopping": "Sesc SP",
@@ -383,13 +383,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "3430db30f326",
+   "id": "7a3c96917aeb",
    "shopping": "Shopping Vila Olímpia",
    "bairro": "Vila Olímpia",
    "regiao": "Zona Sul",
    "fonte": "Shopping Vila Olímpia",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppingvilaolimpia.com.br/eventos/cnlhvumbjh-natal-no-bosque/",
+   "url": "https://www.shoppingvilaolimpia.com.br/lazer-e-eventos/eventos/cnlhvumbjh-natal-no-bosque/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/90/aa/90aadf61-2995-4eda-adbf-6000c1af6342/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -1930,6 +1930,31 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/08/Feira-de-qualquer-maneira-1.png"
   },
   {
+   "titulo": "Chegada do Papai Noel",
+   "resumo": "Ho, ho, ho! O Papai Noel está chegando ao Partage Santana! No dia 14 de novembro , venha celebrar a chegada do bom velhinho e a inauguração da nossa decoração de Natal com uma programação especial para toda a família! Teremos cortejo natalino com banda e personagens temáticos pelos corredores do shopping, além de uma…",
+   "inicio": "2026-11-06",
+   "fim": "2026-11-14",
+   "horario": "das 13h às 22h",
+   "faixa_etaria": null,
+   "gratuito": null,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": true,
+   "categorias": [],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "347b7a429349",
+   "shopping": "Shopping Partage Santana",
+   "bairro": "Santana",
+   "regiao": "Zona Norte",
+   "fonte": "Shopping Partage Santana",
+   "tipo_local": "Shopping",
+   "url": "https://www.partagesantana.com.br/eventos?novidade_id=54765",
+   "imagem": "https://sites.madnezz.com.br/api/site/upload/Novidade/202611061714161.png"
+  },
+  {
    "titulo": "Papai Noel Chega Ao Villa Romana Shopping Em 6 De Novembro Com Musical E Decoração De Natal - Villa Romana Shopping",
    "resumo": "Programação terá apresentações de corais, encontros natalinos e a 20ª edição da Árvore dos Sonhos, que pretende presentear mais de 200 crianças",
    "inicio": "2026-11-06",
@@ -1977,7 +2002,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/DfXus9zJVJG/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/883571444_1439062638342255_1372319557972861513_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=n_RUzzGOH4sQ7kNvwH-6HN_&_nc_oc=AdqgGE3aD8MRC8sgTXgFzYdgvPFhrkMpsY1iOasRtYd35NtvvHs5glun-7PmUmRRoik&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=jZQv0Yb2GNWvBdaMvaPnSA&_nc_tpa=Q5bMBQJ_-IdqRS1P-GVAQda7R0UrfeHA-qDgjSo35bH_vSn1o5YDJQAvtWmKkLs6jjk39sI0BRSfCtKN&oh=00_AQSJCmR-1bdwuVtyi8GM7jxxTDNBovTyOxZDlQSVQABENw&oe=6AF30E51"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/883571444_1439062638342255_1372319557972861513_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=n_RUzzGOH4sQ7kNvwH-6HN_&_nc_oc=AdqgGE3aD8MRC8sgTXgFzYdgvPFhrkMpsY1iOasRtYd35NtvvHs5glun-7PmUmRRoik&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ALI_XsQVhz5QTWhEybA3MA&_nc_tpa=Q5bMBQLXR1fOHERw168XgXLkjwsvjo6cmMCxUXAi1nDcpqs3yLwSMZ3i-f-OwjqZ_Mt-bOvbXnI6uYkt&oh=00_AQTWVpk4wjvyCgRsWIFFiaobLHKU8kH8m_Rf9-I5Cdx2lw&oe=6AF42791"
   },
   {
    "titulo": "Arte Brasileira em Feltragem a Seco",
@@ -4213,6 +4238,31 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/LiliFlor_PauloPixu_JPSaraiva.jpg"
   },
   {
+   "titulo": "Tributo K-pop no Shopping Tamboré tem show inspirado nas guerreiras do pop coreano",
+   "resumo": "Quem gosta de música, dança e personagens vai encontrar um programa diferente para curtir em família! No dia 15 de novembro, o Shopping Tamboré, em Barueri, recebe o Tributo K-pop, um espetáculo inspirado no universo das guerreiras do K-pop, com coreografias envolventes, figurinos marcantes e muita energia da música…",
+   "inicio": "2026-11-15",
+   "fim": "2026-11-15",
+   "horario": "15h",
+   "faixa_etaria": null,
+   "gratuito": null,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "2d56eabe6c56",
+   "shopping": "Shopping Tamboré",
+   "bairro": "Barueri",
+   "regiao": "Grande SP",
+   "fonte": "Shopping Tamboré",
+   "tipo_local": "Shopping",
+   "url": "https://saopauloparacriancas.com.br/k-pop-sp/",
+   "imagem": null
+  },
+  {
    "titulo": "História na Janela, Boca sem Tramela: Contos de Oralidade Afro- Brasileira",
    "resumo": "com Cia. Alcina da Palavra Público: Crianças, Diversas idades Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc 24 de Maio",
    "inicio": "2026-11-17",
@@ -6173,7 +6223,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/DfQgCVkscJr/",
-   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=cUfZ4xzRs7MQ7kNvwEAXyN6&_nc_oc=Adr5zPKjE3rPfIEezbPWR0dR9yo1pbwpWmS-cvqzHbYIShW_Wri9d5boqyjEj2quAe8&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=jZQv0Yb2GNWvBdaMvaPnSA&_nc_tpa=Q5bMBQKeMo62DsULrDOKDS274VuYZJ1Iitp4oeUhTffKzlaSgu-k9iETqbzecTPYKyXKSHRkD1mzLDYK&oh=00_AQRdrJS1Cjba5b2-lPNvY-rHVvHgtHbsmRvJgYPZcOYIKg&oe=6AF32185"
+   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=cUfZ4xzRs7MQ7kNvwEAXyN6&_nc_oc=Adr5zPKjE3rPfIEezbPWR0dR9yo1pbwpWmS-cvqzHbYIShW_Wri9d5boqyjEj2quAe8&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ALI_XsQVhz5QTWhEybA3MA&_nc_tpa=Q5bMBQLuRpYyzn84gwK4tPFdrGYV5k_YAKmyxhBgFrRLGMI4rofNpUrbZnYzo0GT1zLbX6qePLq4VbgS&oh=00_AQTo1OyZrl8Oaw5MpRotioxiH_1EwbtqoVAXBudDPwWM4g&oe=6AF40285"
   },
   {
    "titulo": "Cinematerna",
