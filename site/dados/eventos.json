@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-06T18:03-03:00",
+ "gerado_em": "2026-11-07T06:03-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -77,7 +77,7 @@
    "shopping": "Villa Romana Shopping",
    "url": "https://villaromanashopping.com.br/novidades/",
    "status": "ok",
-   "eventos": 2
+   "eventos": 1
   },
   {
    "shopping": "Shopping Itaquera",
@@ -155,7 +155,7 @@
    "shopping": "Sesc SP",
    "url": "https://www.sescsp.org.br/programacao/",
    "status": "erro: HTTPError: HTTP Error 403: Forbidden",
-   "eventos": 171
+   "eventos": 170
   }
  ],
  "eventos": [
@@ -383,13 +383,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "7a3c96917aeb",
+   "id": "3430db30f326",
    "shopping": "Shopping Vila Olímpia",
    "bairro": "Vila Olímpia",
    "regiao": "Zona Sul",
    "fonte": "Shopping Vila Olímpia",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppingvilaolimpia.com.br/lazer-e-eventos/eventos/cnlhvumbjh-natal-no-bosque/",
+   "url": "https://www.shoppingvilaolimpia.com.br/eventos/cnlhvumbjh-natal-no-bosque/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/90/aa/90aadf61-2995-4eda-adbf-6000c1af6342/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -524,33 +524,6 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/atelie-para-a-familia-criando-com-material-reciclavel-3",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/AtelieFamiliaMAterialReciclavel_StephanyTiveron.jpg"
-  },
-  {
-   "titulo": "Batalha Oroboro",
-   "resumo": "Com O pequeno teatro do mundo Público: Diversas idades, Jovens Categorias: Shows, Espetáculos e Performances Unidade: Sesc 24 de Maio",
-   "inicio": "2026-11-05",
-   "fim": "2026-11-06",
-   "horario": "próxima sessão 5/11 às 18h",
-   "faixa_etaria": null,
-   "gratuito": false,
-   "agendamento": true,
-   "como_agendar": null,
-   "link_inscricao": "https://www.sescsp.org.br/programacao/batalha-oroboro",
-   "natal": false,
-   "categorias": [
-    "Shows, Espetáculos e Performances"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "4ee7b99a0d04",
-   "shopping": "Sesc 24 de Maio",
-   "bairro": "República",
-   "regiao": "Centro",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/batalha-oroboro",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/09/OROBORO_196_2026-06-16-13-20-18.jpg"
   },
   {
    "titulo": "Brincadeiras da Mata Encantada",
@@ -1955,31 +1928,6 @@
    "imagem": "https://sites.madnezz.com.br/api/site/upload/Novidade/202611061714161.png"
   },
   {
-   "titulo": "Papai Noel Chega Ao Villa Romana Shopping Em 6 De Novembro Com Musical E Decoração De Natal - Villa Romana Shopping",
-   "resumo": "Programação terá apresentações de corais, encontros natalinos e a 20ª edição da Árvore dos Sonhos, que pretende presentear mais de 200 crianças",
-   "inicio": "2026-11-06",
-   "fim": "2026-11-06",
-   "horario": null,
-   "faixa_etaria": null,
-   "gratuito": null,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": true,
-   "categorias": [],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "ee0ea9caabfc",
-   "shopping": "Villa Romana Shopping",
-   "bairro": "Vila Romana",
-   "regiao": "Zona Oeste",
-   "fonte": "Villa Romana Shopping",
-   "tipo_local": "Shopping",
-   "url": "https://villaromanashopping.com.br/novidades/papai-noel-chega-ao-villa-romana-shopping-em-6-de-novembro-com-musical-e-decoracao-de-natal/",
-   "imagem": "https://villaromanashopping.com.br/wp-content/uploads/2026/10/CABECALHO-SITE-VILLApapainoel.png"
-  },
-  {
    "titulo": "A magia do Natal mais fantástico da cidade entrou em contagem regressiva!",
    "resumo": "A magia do Natal mais fantástico da cidade entrou em contagem regressiva! ✨ Prepare o coração, pois você e sua família terão registros para lá de especiais e que certamente ficarão guardados não apenas na galeria do seu celular, mas nas memórias também.⭐ 📅A partir deste sábado, 07/11, todas as nossas luzes vão se…",
    "inicio": "2026-11-07",
@@ -2002,7 +1950,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/DfXus9zJVJG/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/883571444_1439062638342255_1372319557972861513_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=n_RUzzGOH4sQ7kNvwH-6HN_&_nc_oc=AdqgGE3aD8MRC8sgTXgFzYdgvPFhrkMpsY1iOasRtYd35NtvvHs5glun-7PmUmRRoik&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ALI_XsQVhz5QTWhEybA3MA&_nc_tpa=Q5bMBQLXR1fOHERw168XgXLkjwsvjo6cmMCxUXAi1nDcpqs3yLwSMZ3i-f-OwjqZ_Mt-bOvbXnI6uYkt&oh=00_AQTWVpk4wjvyCgRsWIFFiaobLHKU8kH8m_Rf9-I5Cdx2lw&oe=6AF42791"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/883571444_1439062638342255_1372319557972861513_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=n_RUzzGOH4sQ7kNvwH-6HN_&_nc_oc=AdqgGE3aD8MRC8sgTXgFzYdgvPFhrkMpsY1iOasRtYd35NtvvHs5glun-7PmUmRRoik&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=T4OtdPE8GZzkngVBFo_N8Q&_nc_tpa=Q5bMBQISwukYTYHp46FABUb0B7swjbuW__Fxan6bW-20gLL_C60BTIMDbaM5hlfB5V9u4gAx2vzDCi3K&oh=00_AQSAT-WYOowYhnWJHtjNdTfeO-Olmb8sh4auqyzeaDtl-A&oe=6AF45FD1"
   },
   {
    "titulo": "Arte Brasileira em Feltragem a Seco",
@@ -6223,7 +6171,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/DfQgCVkscJr/",
-   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=cUfZ4xzRs7MQ7kNvwEAXyN6&_nc_oc=Adr5zPKjE3rPfIEezbPWR0dR9yo1pbwpWmS-cvqzHbYIShW_Wri9d5boqyjEj2quAe8&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ALI_XsQVhz5QTWhEybA3MA&_nc_tpa=Q5bMBQLuRpYyzn84gwK4tPFdrGYV5k_YAKmyxhBgFrRLGMI4rofNpUrbZnYzo0GT1zLbX6qePLq4VbgS&oh=00_AQTo1OyZrl8Oaw5MpRotioxiH_1EwbtqoVAXBudDPwWM4g&oe=6AF40285"
+   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=cUfZ4xzRs7MQ7kNvwEAXyN6&_nc_oc=Adr5zPKjE3rPfIEezbPWR0dR9yo1pbwpWmS-cvqzHbYIShW_Wri9d5boqyjEj2quAe8&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=T4OtdPE8GZzkngVBFo_N8Q&_nc_tpa=Q5bMBQJblyRXn5pgSAcPbpEEOl_bRMXMSrZpo2E7VBLQ0uAEbqmemFHLpTVkgF3pZoTqNqB77slb0gJB&oh=00_AQQkrihjSOnKY4spmDOnkfOZVmabSuxInXMRWugn1BmH6A&oe=6AF47305"
   },
   {
    "titulo": "Cinematerna",
