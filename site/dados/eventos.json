@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-07T18:02-03:00",
+ "gerado_em": "2026-11-08T06:03-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -83,7 +83,7 @@
    "shopping": "Shopping Itaquera",
    "url": "https://www.shoppingitaquera.com.br/novidades",
    "status": "ok",
-   "eventos": 6
+   "eventos": 5
   },
   {
    "shopping": "Shopping D",
@@ -101,13 +101,13 @@
    "shopping": "Shopping União",
    "url": "https://www.shoppinguniao.com.br/",
    "status": "ok",
-   "eventos": 2
+   "eventos": 1
   },
   {
    "shopping": "Open Mall The Square",
    "url": "https://openmallthesquare.com.br/eventos-nova/",
    "status": "ok",
-   "eventos": 32
+   "eventos": 31
   },
   {
    "shopping": "Shopping Cidade Jardim",
@@ -155,7 +155,7 @@
    "shopping": "Sesc SP",
    "url": "https://www.sescsp.org.br/programacao/",
    "status": "erro: HTTPError: HTTP Error 403: Forbidden",
-   "eventos": 170
+   "eventos": 157
   }
  ],
  "eventos": [
@@ -1525,33 +1525,6 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/08/Quintal-do-Curumim-Entre-folhas-e-historias-Divulgacao.png"
   },
   {
-   "titulo": "Quintal do Curumim: Ateliê de Brincadeiras",
-   "resumo": "Com Educadores do Programa Curumim Público: Crianças Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Itaquera",
-   "inicio": "2026-11-05",
-   "fim": "2026-11-07",
-   "horario": "próxima sessão 7/11 às 12h30",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Cursos e Oficinas"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "9ee8732828a2",
-   "shopping": "Sesc Itaquera",
-   "bairro": "Itaquera",
-   "regiao": "Zona Leste",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/quintal-do-curumim-atelie-de-brincadeiras",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/08/Quintal-do-Curumim-Brinquedos-e-Brincadeiras-Divulgacao.jpg"
-  },
-  {
    "titulo": "Quintal do Curumim: Brincadeiras na Praça",
    "resumo": "Com educadores do Programa Curumim Público: Crianças Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Itaquera",
    "inicio": "2026-11-05",
@@ -1928,31 +1901,6 @@
    "imagem": "https://sites.madnezz.com.br/api/site/upload/Novidade/202611061714161.png"
   },
   {
-   "titulo": "A magia do Natal mais fantástico da cidade entrou em contagem regressiva!",
-   "resumo": "A magia do Natal mais fantástico da cidade entrou em contagem regressiva! ✨ Prepare o coração, pois você e sua família terão registros para lá de especiais e que certamente ficarão guardados não apenas na galeria do seu celular, mas nas memórias também.⭐ 📅A partir deste sábado, 07/11, todas as nossas luzes vão se…",
-   "inicio": "2026-11-07",
-   "fim": "2026-11-07",
-   "horario": null,
-   "faixa_etaria": null,
-   "gratuito": null,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": true,
-   "categorias": [],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "5f50f3f6e77d",
-   "shopping": "Shopping União",
-   "bairro": "Osasco",
-   "regiao": "Grande SP",
-   "fonte": "Shopping União",
-   "tipo_local": "Shopping",
-   "url": "https://www.instagram.com/reel/DfXus9zJVJG/",
-   "imagem": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/890236970_18496327684108869_6043712762046451565_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=235onKR8kAkQ7kNvwH4ocEO&_nc_oc=AdrbftqXnQ6I0PXNhANnDPpP7G4_jBY9nxPcAKBeJgrVt8S3IwmQ8HIXOl-HGSsXyXs&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=V1uyUPYWKrS2HLJeq06vhA&_nc_tpa=Q5bMBQLTO6geVKn4x-mK86DRjgq1MQ9HbvzwTslJyPBLJpFU83FPrnvVLbiy9gayHtKcC9cKhFVRHPFK&oh=00_AQQ5bdURAKSWSCTf90EOtrPKrOxJ_SMctgtzY1RWAzejzg&oe=6AF54C10"
-  },
-  {
    "titulo": "Arte Brasileira em Feltragem a Seco",
    "resumo": "Com Guta Moraes Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Avenida Paulista",
    "inicio": "2026-11-07",
@@ -2061,33 +2009,6 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/skate.jpg"
   },
   {
-   "titulo": "Banda Feelz",
-   "resumo": "Palco Praça Gratuito Horários: 17h Atividade infantil",
-   "inicio": "2026-11-07",
-   "fim": "2026-11-07",
-   "horario": "17h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Infantil"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "68855732c724",
-   "shopping": "Open Mall The Square",
-   "bairro": "Granja Viana (Cotia)",
-   "regiao": "Grande SP",
-   "fonte": "Open Mall The Square",
-   "tipo_local": "Shopping",
-   "url": "https://openmallthesquare.com.br/eventos-nova/#banda-feelz",
-   "imagem": null
-  },
-  {
    "titulo": "Barulhos",
    "resumo": "Com 28 patas furiosas Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Shows, Espetáculos e Performances Unidade: Sesc Consolação",
    "inicio": "2026-11-07",
@@ -2142,58 +2063,6 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Atelie_Afro_Cultural___2026-09-06-11-05-31.jpg"
   },
   {
-   "titulo": "Chegada do Papai Noel",
-   "resumo": "🎅✨ A Magia do Natal Vai Começar! O momento mais esperado do ano finalmente chegou! Prepare-se para vivenciar um dia repleto de encanto, sorrisos e muita emoção com a grande Chegada do Papai Noel no Shopping Metrô Itaquera. Traga toda a sua família para receber o Velhinho mais querido do mundo e sua turma de braços…",
-   "inicio": "2026-11-07",
-   "fim": "2026-11-07",
-   "horario": "das 10h às 22h",
-   "faixa_etaria": null,
-   "gratuito": null,
-   "agendamento": true,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": true,
-   "categorias": [],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "30dfa61fbe68",
-   "shopping": "Shopping Itaquera",
-   "bairro": "Itaquera",
-   "regiao": "Zona Leste",
-   "fonte": "Shopping Itaquera",
-   "tipo_local": "Shopping",
-   "url": "https://www.shoppingitaquera.com.br/novidade/chegada-do-papai-noel",
-   "imagem": "https://www.shoppingitaquera.com.br/sites/metro-itaquera/files/shopping-media/Novidade/2026-11/2956.1_A_Chegada_do_papai_Noel_Banner_app_1238x500.jpg"
-  },
-  {
-   "titulo": "Chico Contador conta \"O Alfaiate Desatento\"",
-   "resumo": "Público: Crianças, Diversas idades Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc Santo Amaro",
-   "inicio": "2026-11-07",
-   "fim": "2026-11-07",
-   "horario": "próxima sessão 7/11 às 15h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Shows, Espetáculos e Performances"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "dbf4fe17a37c",
-   "shopping": "Sesc Santo Amaro",
-   "bairro": "Santo Amaro",
-   "regiao": "Zona Sul",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/chico-contador-conta-o-alfaiate-desatento",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/ChicoContador_DouglasFontes.jpg"
-  },
-  {
    "titulo": "Cidade Brinquedo",
    "resumo": "com Grupo Esparrama Público: Crianças, Diversas idades Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc 14 Bis",
    "inicio": "2026-11-07",
@@ -2219,60 +2088,6 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/cidade-brinquedo-13",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/cidadebrinquedo.png"
-  },
-  {
-   "titulo": "Circo Secreto",
-   "resumo": "Com Cia Mevitevendo Público: Crianças, Diversas idades Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc Ipiranga",
-   "inicio": "2026-11-07",
-   "fim": "2026-11-07",
-   "horario": "próxima sessão 7/11 às 17h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Shows, Espetáculos e Performances"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "4619780510d1",
-   "shopping": "Sesc Ipiranga",
-   "bairro": "Ipiranga",
-   "regiao": "Zona Sul",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/circo-secreto-2",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Circo-Secreto-5.jpeg"
-  },
-  {
-   "titulo": "Conversas públicas no Bulevar: O que é saúde mental?",
-   "resumo": "Com Coletivo Margens Clínicas Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Encontros e Palestras Atividade gratuita Unidade: Sesc Avenida Paulista",
-   "inicio": "2026-11-07",
-   "fim": "2026-11-07",
-   "horario": "próxima sessão 7/11 às 13h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Encontros e Palestras"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "3257c7416ecc",
-   "shopping": "Sesc Avenida Paulista",
-   "bairro": "Bela Vista",
-   "regiao": "Centro",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/conversas-publicas-no-bulevar-o-que-e-saude-mental-8",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2025/11/25-11_800x400px_conversas-publicas-no-bulevar.png"
   },
   {
    "titulo": "Corpo brincante: brincadeiras e cantigas",
@@ -2327,33 +2142,6 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/corpo-que-brinca-e-equilibra",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/naturalizados.png"
-  },
-  {
-   "titulo": "Criançarias em Livros de Artista - Inventário dos medos extraordinários",
-   "resumo": "com Raquel Rodrigues Público: Crianças Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Vila Mariana",
-   "inicio": "2026-11-07",
-   "fim": "2026-11-07",
-   "horario": "próxima sessão 7/11 às 13h30",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Cursos e Oficinas"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "9a290b64bb2e",
-   "shopping": "Sesc Vila Mariana",
-   "bairro": "Vila Mariana",
-   "regiao": "Zona Sul",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/criancarias-em-livros-de-artista-inventario-dos-medos-extraordinarios",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/09/CRIANCARIAS_1_copiar_2026-06-25-14-50-4.png"
   },
   {
    "titulo": "Dança e Balança",
@@ -2437,33 +2225,6 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/ereaye.png"
   },
   {
-   "titulo": "Escova Neném",
-   "resumo": "Com odontopediatras do Sesc 24 de Maio e educadores do Espaço de Brincar Público: Crianças Categorias: Encontros e Palestras Atividade gratuita Unidade: Sesc 24 de Maio",
-   "inicio": "2026-11-07",
-   "fim": "2026-11-07",
-   "horario": "próxima sessão 7/11 às 12h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Encontros e Palestras"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "3b78b07477ab",
-   "shopping": "Sesc 24 de Maio",
-   "bairro": "República",
-   "regiao": "Centro",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/escova-nenem-5",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Fotos-para-Portal-28.png"
-  },
-  {
    "titulo": "Esporte Jovem Consciente",
    "resumo": "Diversidade, equidade e inclusão no esporte Público: Adulto, Crianças, Jovens, Pessoas idosas Categorias: Esporte e Atividade Física Atividade gratuita Unidade: Sesc Consolação",
    "inicio": "2026-11-07",
@@ -2489,33 +2250,6 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/esporte-jovem-consciente",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Masterclass-Diego-Perez-e-Gonzalo-Gravinacom-Diogo-Kauptez-1-1.png"
-  },
-  {
-   "titulo": "Eu Griot",
-   "resumo": "com Ateliê Afrocultural Público: Crianças, Diversas idades Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc Interlagos",
-   "inicio": "2026-11-07",
-   "fim": "2026-11-07",
-   "horario": "próxima sessão 7/11 às 15h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Shows, Espetáculos e Performances"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "8988faa28a52",
-   "shopping": "Sesc Interlagos",
-   "bairro": "Interlagos",
-   "regiao": "Zona Sul",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/eu-griot-2",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2023/03/eu_griot_2023-01-04-14-41-00.jpg"
   },
   {
    "titulo": "Festejo do Sol e da Lua",
@@ -2705,87 +2439,6 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Moviolab_oficina_Divulgacao.jpg"
   },
   {
-   "titulo": "Passeio Tropical",
-   "resumo": "Com Sheyla Ayo Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc Avenida Paulista",
-   "inicio": "2026-11-07",
-   "fim": "2026-11-07",
-   "horario": "próxima sessão 7/11 às 12h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Shows, Espetáculos e Performances"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "de4177d75082",
-   "shopping": "Sesc Avenida Paulista",
-   "bairro": "Bela Vista",
-   "regiao": "Centro",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/passeio-tropical-2",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/09/WhatsApp_Image_2026_06_06_at_14.08.15_2_2026-06-06-14-40-32.jpeg"
-  },
-  {
-   "titulo": "Pequenos invasores (Head space)",
-   "resumo": "Dir. Paul Louis Meyer, Gerhard Painter, 2023, África do Sul, Animação, 85 min Público: Crianças Categorias: Cinema Unidade: Sesc Santana",
-   "inicio": "2026-11-07",
-   "fim": "2026-11-07",
-   "horario": "próxima sessão 7/11 às 12h",
-   "faixa_etaria": null,
-   "gratuito": false,
-   "agendamento": true,
-   "como_agendar": null,
-   "link_inscricao": "https://www.sescsp.org.br/programacao/pequenos-invasores-head-space-2",
-   "natal": false,
-   "categorias": [
-    "Cinema"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "9170ed451153",
-   "shopping": "Sesc Santana",
-   "bairro": "Santana",
-   "regiao": "Zona Norte",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/pequenos-invasores-head-space-2",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Design-sem-nome-3-1.png"
-  },
-  {
-   "titulo": "Pequenos invasores (Head space)",
-   "resumo": "Dir. Paul Louis Meyer, Gerhard Painter, 2023, África do Sul, Animação, 85 min, Livre Público: Crianças Categorias: Cinema Atividade gratuita Unidade: Sesc Santana",
-   "inicio": "2026-11-07",
-   "fim": "2026-11-07",
-   "horario": "próxima sessão 7/11 às 13h30",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Cinema"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "5d73ff1801b3",
-   "shopping": "Sesc Santana",
-   "bairro": "Santana",
-   "regiao": "Zona Norte",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/pequenos-invasores-head-space",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Design-sem-nome-3-1.png"
-  },
-  {
    "titulo": "Planeta Pelúcia",
    "resumo": "Dramaturgia: Bruno Canabarro com CASCA Coletivo de Criação Público: Crianças Categorias: Shows, Espetáculos e Performances Unidade: Sesc Belenzinho",
    "inicio": "2026-11-07",
@@ -2840,33 +2493,6 @@
    "imagem": null
   },
   {
-   "titulo": "Roolmance: Dois Sóis na Noite",
-   "resumo": "Dramartugia e Direção de Sidney Santiago Kuanza Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc Interlagos",
-   "inicio": "2026-11-07",
-   "fim": "2026-11-07",
-   "horario": "próxima sessão 7/11 às 15h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Shows, Espetáculos e Performances"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "c9852a54b13e",
-   "shopping": "Sesc Interlagos",
-   "bairro": "Interlagos",
-   "regiao": "Zona Sul",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/roolmance-dois-sois-na-noite",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/11/Roolmance_Dois_Sois_na_Noite__credito___Fredo_Peixoto_2026-10-28-15-02-05.jpg"
-  },
-  {
    "titulo": "Sábados brincantes: brincadeiras tradicionais, do pião ao corre cotia",
    "resumo": "com Recreart Brincar Público: Crianças, Diversas idades Categorias: Esporte e Atividade Física Atividade gratuita Unidade: Sesc 24 de Maio",
    "inicio": "2026-11-07",
@@ -2892,60 +2518,6 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/sabados-brincantes-brincadeiras-tradicionais-do-piao-ao-corre-cotia",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Sabados-brincantes_peao-ao-corre-cotia.jpg"
-  },
-  {
-   "titulo": "Terno Moçambique Estrela Guia",
-   "resumo": "Uberlândia (MG) Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc Interlagos",
-   "inicio": "2026-11-07",
-   "fim": "2026-11-07",
-   "horario": "próxima sessão 7/11 às 14h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Shows, Espetáculos e Performances"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "e79708c6eb37",
-   "shopping": "Sesc Interlagos",
-   "bairro": "Interlagos",
-   "regiao": "Zona Sul",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/terno-mocambique-estrela-guia",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Torne-Mocambique-Estrela-Guia-Fabiano_Maranhao_10_2026-10-20-11-16-12.jpg"
-  },
-  {
-   "titulo": "Trilha do Campestre à Floresta",
-   "resumo": "com agentes de Educação Ambiental do Sesc Interlagos Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Encontros e Palestras Atividade gratuita Unidade: Sesc Interlagos",
-   "inicio": "2026-11-07",
-   "fim": "2026-11-07",
-   "horario": "próxima sessão 7/11 às 11h30",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Encontros e Palestras"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "41e1c6618ec0",
-   "shopping": "Sesc Interlagos",
-   "bairro": "Interlagos",
-   "regiao": "Zona Sul",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/trilha-do-campeste-a-floresta",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2025/08/800x400-22.png"
   },
   {
    "titulo": "Vivência em RPG para família",
@@ -6171,7 +5743,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/DfQgCVkscJr/",
-   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=UiV38PU0p5QQ7kNvwFojDq3&_nc_oc=Adr_aPFSPF9Pot4_GrPDszSk1FdyK96SpdZYjq2C3Wz9w7gTurWEEK1VJ2jwGe8ZSPs&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=V1uyUPYWKrS2HLJeq06vhA&_nc_tpa=Q5bMBQKuIsOrB47RHSkwUjSbARJ0fIdEHdjCBn5ruKtlvRiq_AHfbZcW8hHqMOkNYPLC9A3TtBN30QWB&oh=00_AQTOUASFhlRKM8UJ-EqBj5ZN8EcllU5-_W5l2ixKUVLrSQ&oe=6AF55405"
+   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=UiV38PU0p5QQ7kNvwFojDq3&_nc_oc=Adr_aPFSPF9Pot4_GrPDszSk1FdyK96SpdZYjq2C3Wz9w7gTurWEEK1VJ2jwGe8ZSPs&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=TM9DIJdB36JvkucV529NEA&_nc_tpa=Q5bMBQJbM9qK9eg9h0zMf5Tr_zUXRpEYcoMjA2JEfIIJSjr29SAV6ksfxngIKQmjbpqBSzZNP15XNmFd&oh=00_AQQoDl8_alc6v_-FHxUUmbPdjNcdEVu4k6f0sN7rd2WSUA&oe=6AF5C485"
   },
   {
    "titulo": "Cinematerna",
