@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-08T06:03-03:00",
+ "gerado_em": "2026-11-08T18:03-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -11,7 +11,7 @@
    "shopping": "Shopping Anália Franco",
    "url": "https://www.shoppinganaliafranco.com.br/eventos/",
    "status": "ok",
-   "eventos": 2
+   "eventos": 3
   },
   {
    "shopping": "Shopping Vila Olímpia",
@@ -2171,33 +2171,6 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/01/Diiiii.png"
   },
   {
-   "titulo": "Dudu Machado",
-   "resumo": "Palco Praça Gratuito Horários: 14h, 17h Atividade infantil",
-   "inicio": "2026-11-07",
-   "fim": "2026-12-05",
-   "horario": "14h, 17h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Infantil"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "1ee5d7263d22",
-   "shopping": "Open Mall The Square",
-   "bairro": "Granja Viana (Cotia)",
-   "regiao": "Grande SP",
-   "fonte": "Open Mall The Square",
-   "tipo_local": "Shopping",
-   "url": "https://openmallthesquare.com.br/eventos-nova/#dudu-machado",
-   "imagem": null
-  },
-  {
    "titulo": "Erê Ayê",
    "resumo": "Direção: Marina Esteves | Dramaturgia: Luz Ribeiro Público: Crianças, Diversas idades Categorias: Shows, Espetáculos e Performances Unidade: Sesc Campo Limpo",
    "inicio": "2026-11-07",
@@ -2464,33 +2437,6 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/planeta-pelucia-5",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/09/palucia.jpg.png"
-  },
-  {
-   "titulo": "Rock Le Pop",
-   "resumo": "Palco Praça Gratuito Horários: 20h, 14h Atividade infantil",
-   "inicio": "2026-11-07",
-   "fim": "2026-12-13",
-   "horario": "20h, 14h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Infantil"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "242928c86498",
-   "shopping": "Open Mall The Square",
-   "bairro": "Granja Viana (Cotia)",
-   "regiao": "Grande SP",
-   "fonte": "Open Mall The Square",
-   "tipo_local": "Shopping",
-   "url": "https://openmallthesquare.com.br/eventos-nova/#rock-le-pop",
-   "imagem": null
   },
   {
    "titulo": "Sábados brincantes: brincadeiras tradicionais, do pião ao corre cotia",
@@ -2813,6 +2759,33 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/musicalizacao-para-bebes-4",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Image_2026_09_08_at_21.57.34_2026-09-09-10-39-12.jpeg"
+  },
+  {
+   "titulo": "Oficina Solidária de Natal",
+   "resumo": "Dois bonecos de neve. Um deles tem uma missão especial! ☃️❤️ De 11 de novembro a 6 de dezembro, os pequenos poderão colocar a criatividade em prática na Oficina Solidária de Natal. A brincadeira começa com a criação de dois bonecos de neve feitos com meia: um para levar para casa e outro para ser doado pelo Papai Noel…",
+   "inicio": "2026-11-08",
+   "fim": "2026-12-06",
+   "horario": "das 14h às 22h",
+   "faixa_etaria": "+3 anos",
+   "gratuito": true,
+   "agendamento": true,
+   "como_agendar": null,
+   "link_inscricao": "https://bileto.sympla.com.br/event/129744",
+   "natal": true,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "d279d3bddbdf",
+   "shopping": "Shopping Anália Franco",
+   "bairro": "Anália Franco",
+   "regiao": "Zona Leste",
+   "fonte": "Shopping Anália Franco",
+   "tipo_local": "Shopping",
+   "url": "https://www.shoppinganaliafranco.com.br/eventos/3gg1agadlh-oficina-solidaria-de-natal/",
+   "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/94/4e/944eec43-a065-4114-a13f-7c9df03a7857/hubimage__0x650_subsampling-2.png"
   },
   {
    "titulo": "Old Chevy",
@@ -5187,6 +5160,33 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/11/ampliando-imagens.jpg"
   },
   {
+   "titulo": "Rock Le Pop",
+   "resumo": "Palco Praça Gratuito Horários: 14h Atividade infantil",
+   "inicio": "2026-11-29",
+   "fim": "2026-12-13",
+   "horario": "14h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "242928c86498",
+   "shopping": "Open Mall The Square",
+   "bairro": "Granja Viana (Cotia)",
+   "regiao": "Grande SP",
+   "fonte": "Open Mall The Square",
+   "tipo_local": "Shopping",
+   "url": "https://openmallthesquare.com.br/eventos-nova/#rock-le-pop",
+   "imagem": null
+  },
+  {
    "titulo": "Arena Saúde",
    "resumo": "Arena Saúde | Tietê Plaza 01/01 a 01/12 Arena Saúde Como forma de incentivar o público a praticar atividades físicas, a iniciativa conta com professores especializados em aulas de ioga, pilates, ritbox e ritmos, além de exercícios para crianças, adultos e idosos melhorarem o condicionamento físico e desempenho da…",
    "inicio": "2026-12-01",
@@ -5237,6 +5237,33 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/cidade-brinquedo-14",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/11/Cidade-Brinquedo-FTSissyEiko.jpg"
+  },
+  {
+   "titulo": "Dudu Machado",
+   "resumo": "Palco Praça Gratuito Horários: 17h Atividade infantil",
+   "inicio": "2026-12-05",
+   "fim": "2026-12-05",
+   "horario": "17h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "1ee5d7263d22",
+   "shopping": "Open Mall The Square",
+   "bairro": "Granja Viana (Cotia)",
+   "regiao": "Grande SP",
+   "fonte": "Open Mall The Square",
+   "tipo_local": "Shopping",
+   "url": "https://openmallthesquare.com.br/eventos-nova/#dudu-machado",
+   "imagem": null
   },
   {
    "titulo": "Explorando a Natureza com as Mãos",
@@ -5743,7 +5770,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/DfQgCVkscJr/",
-   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=UiV38PU0p5QQ7kNvwFojDq3&_nc_oc=Adr_aPFSPF9Pot4_GrPDszSk1FdyK96SpdZYjq2C3Wz9w7gTurWEEK1VJ2jwGe8ZSPs&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=TM9DIJdB36JvkucV529NEA&_nc_tpa=Q5bMBQJbM9qK9eg9h0zMf5Tr_zUXRpEYcoMjA2JEfIIJSjr29SAV6ksfxngIKQmjbpqBSzZNP15XNmFd&oh=00_AQQoDl8_alc6v_-FHxUUmbPdjNcdEVu4k6f0sN7rd2WSUA&oe=6AF5C485"
+   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=UiV38PU0p5QQ7kNvwFojDq3&_nc_oc=Adr_aPFSPF9Pot4_GrPDszSk1FdyK96SpdZYjq2C3Wz9w7gTurWEEK1VJ2jwGe8ZSPs&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=_TtdBjZfb9P93nrP1kKusg&_nc_tpa=Q5bMBQIuLNLyEwhRCAyBYQ9bNmRTgqpnLQD9COUuiLC20jRdGsqa3mk4LTowvGd2j95R1NXwMBnU_DGH&oh=00_AQQfKEm2cpbEp546i0-9x6G2aMJkJORBTNBsejo45HUjeA&oe=6AF6A585"
   },
   {
    "titulo": "Cinematerna",
