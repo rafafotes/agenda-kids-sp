@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-09T18:02-03:00",
+ "gerado_em": "2026-11-10T06:03-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -59,7 +59,7 @@
    "shopping": "Shopping Pátio Paulista",
    "url": "https://iguatemi.com.br/shoppingpatiopaulista/eventos",
    "status": "ok",
-   "eventos": 1
+   "eventos": 0
   },
   {
    "shopping": "Tietê Plaza Shopping",
@@ -177,13 +177,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "6ffe604a9d31",
+   "id": "add0858f046e",
    "shopping": "MorumbiShopping",
    "bairro": "Morumbi",
    "regiao": "Zona Sul",
    "fonte": "MorumbiShopping",
    "tipo_local": "Shopping",
-   "url": "https://www.morumbishopping.com.br/lazer-e-eventos/eventos/zzat1t1uf7-diversao-e-na-hotzone/",
+   "url": "https://www.morumbishopping.com.br/eventos/zzat1t1uf7-diversao-e-na-hotzone/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/12/2d/122df6c7-2d3d-4958-ac17-554ced8d647f/hubimage__0x650_subsampling-2.webp"
   },
   {
@@ -304,13 +304,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "8cb91728c4e0",
+   "id": "936026f6e48e",
    "shopping": "Shopping Anália Franco",
    "bairro": "Anália Franco",
    "regiao": "Zona Leste",
    "fonte": "Shopping Anália Franco",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppinganaliafranco.com.br/eventos/omat9gclyx-human-bodies-maravilhas-do-corpo-humano/",
+   "url": "https://www.shoppinganaliafranco.com.br/lazer-e-eventos/eventos/omat9gclyx-human-bodies-maravilhas-do-corpo-humano/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/20/5d/205d2b53-5e07-4c0f-a11c-626d0e401d55/hubimage__0x650_subsampling-2.webp"
   },
   {
@@ -333,13 +333,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "3aaaa72c86d0",
+   "id": "6d9b4725f0bd",
    "shopping": "Shopping Vila Olímpia",
    "bairro": "Vila Olímpia",
    "regiao": "Zona Sul",
    "fonte": "Shopping Vila Olímpia",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppingvilaolimpia.com.br/eventos/fjigfnncop-vr-land/",
+   "url": "https://www.shoppingvilaolimpia.com.br/lazer-e-eventos/eventos/fjigfnncop-vr-land/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/cc/29/cc29a88f-42c3-4ace-ba0f-7c63a127302f/hubimage__0x650_subsampling-2.webp"
   },
   {
@@ -678,13 +678,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "df477521c3da",
+   "id": "18d7439f85ec",
    "shopping": "Shopping Anália Franco",
    "bairro": "Anália Franco",
    "regiao": "Zona Leste",
    "fonte": "Shopping Anália Franco",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppinganaliafranco.com.br/eventos/gsxb5kgwag-chegada-do-papai-noel/",
+   "url": "https://www.shoppinganaliafranco.com.br/lazer-e-eventos/eventos/gsxb5kgwag-chegada-do-papai-noel/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/ea/f8/eaf8496f-f721-4772-89d9-f2d18a6ad368/hubimage__0x650_subsampling-2.webp"
   },
   {
@@ -2456,13 +2456,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "d279d3bddbdf",
+   "id": "4042c7c59a4e",
    "shopping": "Shopping Anália Franco",
    "bairro": "Anália Franco",
    "regiao": "Zona Leste",
    "fonte": "Shopping Anália Franco",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppinganaliafranco.com.br/eventos/3gg1agadlh-oficina-solidaria-de-natal/",
+   "url": "https://www.shoppinganaliafranco.com.br/lazer-e-eventos/eventos/3gg1agadlh-oficina-solidaria-de-natal/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/94/4e/944eec43-a065-4114-a13f-7c9df03a7857/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2516,31 +2516,6 @@
    "tipo_local": "Shopping",
    "url": "https://www.shoppingjardimsul.com.br/evento/chegada-papai-noel-2026",
    "imagem": "https://www.shoppingjardimsul.com.br/sites/shopping-jardim-sul/files/shopping-media/Evento/2026-11/Banner%20Interno%20App%20-%201238%20x%20500%20px_ALT2.jpg"
-  },
-  {
-   "titulo": "Festa de Natal",
-   "resumo": "No dia 15 de novembro, o Pátio Paulista dá início às comemorações natalinas com um evento gratuito e encantador para toda a família.",
-   "inicio": "2026-11-09",
-   "fim": null,
-   "horario": null,
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": true,
-   "categorias": [],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "a9acc7a9ad7d",
-   "shopping": "Shopping Pátio Paulista",
-   "bairro": "Bela Vista",
-   "regiao": "Centro",
-   "fonte": "Shopping Pátio Paulista",
-   "tipo_local": "Shopping",
-   "url": "https://iguatemi.com.br/shoppingpatiopaulista/eventos/festa-de-natal",
-   "imagem": "https://storage.googleapis.com/strapi-igta/BANNER_SITE_1440x422_dbe6f4992f/BANNER_SITE_1440x422_dbe6f4992f.png"
   },
   {
    "titulo": "Natal de Ouro - 50 anos para celebrar!",
@@ -5548,7 +5523,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/DfQgCVkscJr/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=UiV38PU0p5QQ7kNvwFojDq3&_nc_oc=Adr_aPFSPF9Pot4_GrPDszSk1FdyK96SpdZYjq2C3Wz9w7gTurWEEK1VJ2jwGe8ZSPs&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=dtYOEQIxzU-fYRwPKaQssQ&_nc_tpa=Q5bMBQLA0mhy1-8fa3rFvlAcqw5zJm4gwn6o6KifCr5rk8RqDvk8M6ljmfBF3hFMwV_tGsE-A8sACCPY&oh=00_AQRjXaQ3bV4TkRJTIIJZMYXgpiNKqJG93xAk59ys3H2KPQ&oe=6AF7F705"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=UiV38PU0p5QQ7kNvwFojDq3&_nc_oc=Adr_aPFSPF9Pot4_GrPDszSk1FdyK96SpdZYjq2C3Wz9w7gTurWEEK1VJ2jwGe8ZSPs&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=CBQIrsB81EqPE-g4X--ytQ&_nc_tpa=Q5bMBQKQMMwX9UNPgVpTSIq4UsvHT6zoss_I6xbudnG6qBHM5Ok3MYsAvop9P25i7wkRIf8qi3xH9i_o&oh=00_AQSG36P6wYdZ071lsV9fxqmTa8ZbDwmF95s6TrEysanBeg&oe=6AF86785"
   },
   {
    "titulo": "Cinematerna",
