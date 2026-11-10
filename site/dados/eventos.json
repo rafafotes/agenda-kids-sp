@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-10T06:03-03:00",
+ "gerado_em": "2026-11-10T18:02-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -149,7 +149,7 @@
    "shopping": "Shopping Tamboré",
    "url": "https://shoppingtambore.com.br",
    "status": "ok",
-   "eventos": 1
+   "eventos": 0
   },
   {
    "shopping": "Sesc SP",
@@ -304,13 +304,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "936026f6e48e",
+   "id": "8cb91728c4e0",
    "shopping": "Shopping Anália Franco",
    "bairro": "Anália Franco",
    "regiao": "Zona Leste",
    "fonte": "Shopping Anália Franco",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppinganaliafranco.com.br/lazer-e-eventos/eventos/omat9gclyx-human-bodies-maravilhas-do-corpo-humano/",
+   "url": "https://www.shoppinganaliafranco.com.br/eventos/omat9gclyx-human-bodies-maravilhas-do-corpo-humano/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/20/5d/205d2b53-5e07-4c0f-a11c-626d0e401d55/hubimage__0x650_subsampling-2.webp"
   },
   {
@@ -333,13 +333,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "6d9b4725f0bd",
+   "id": "3aaaa72c86d0",
    "shopping": "Shopping Vila Olímpia",
    "bairro": "Vila Olímpia",
    "regiao": "Zona Sul",
    "fonte": "Shopping Vila Olímpia",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppingvilaolimpia.com.br/lazer-e-eventos/eventos/fjigfnncop-vr-land/",
+   "url": "https://www.shoppingvilaolimpia.com.br/eventos/fjigfnncop-vr-land/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/cc/29/cc29a88f-42c3-4ace-ba0f-7c63a127302f/hubimage__0x650_subsampling-2.webp"
   },
   {
@@ -678,13 +678,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "18d7439f85ec",
+   "id": "df477521c3da",
    "shopping": "Shopping Anália Franco",
    "bairro": "Anália Franco",
    "regiao": "Zona Leste",
    "fonte": "Shopping Anália Franco",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppinganaliafranco.com.br/lazer-e-eventos/eventos/gsxb5kgwag-chegada-do-papai-noel/",
+   "url": "https://www.shoppinganaliafranco.com.br/eventos/gsxb5kgwag-chegada-do-papai-noel/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/ea/f8/eaf8496f-f721-4772-89d9-f2d18a6ad368/hubimage__0x650_subsampling-2.webp"
   },
   {
@@ -2456,13 +2456,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "4042c7c59a4e",
+   "id": "d279d3bddbdf",
    "shopping": "Shopping Anália Franco",
    "bairro": "Anália Franco",
    "regiao": "Zona Leste",
    "fonte": "Shopping Anália Franco",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppinganaliafranco.com.br/lazer-e-eventos/eventos/3gg1agadlh-oficina-solidaria-de-natal/",
+   "url": "https://www.shoppinganaliafranco.com.br/eventos/3gg1agadlh-oficina-solidaria-de-natal/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/94/4e/944eec43-a065-4114-a13f-7c9df03a7857/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2565,7 +2565,7 @@
    "fonte": "Shopping Ibirapuera",
    "tipo_local": "Shopping",
    "url": "https://ibirapuera.com.br/novidades/arvore-solidaria/",
-   "imagem": "https://ibirapuera.com.br/wp-content/uploads/2026/11/Ibira_Natal_Arvore_Solidaria_Site_Novidades_1920x1080px-1.jpg"
+   "imagem": "https://ibirapuera.com.br/wp-content/uploads/2026/11/Ibira_Natal_Arvore_Solidaria_Site_Novidades_1920x1080px.jpg.jpeg"
   },
   {
    "titulo": "Africanidades: Danças, músicas, cantos e brincadeiras",
@@ -3428,31 +3428,6 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/lili-flor-paulo-pixu-3",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/LiliFlor_PauloPixu_JPSaraiva.jpg"
-  },
-  {
-   "titulo": "Tributo K-pop no Shopping Tamboré tem show inspirado nas guerreiras do pop coreano",
-   "resumo": "Quem gosta de música, dança e personagens vai encontrar um programa diferente para curtir em família! No dia 15 de novembro, o Shopping Tamboré, em Barueri, recebe o Tributo K-pop, um espetáculo inspirado no universo das guerreiras do K-pop, com coreografias envolventes, figurinos marcantes e muita energia da música…",
-   "inicio": "2026-11-15",
-   "fim": "2026-11-15",
-   "horario": "15h",
-   "faixa_etaria": null,
-   "gratuito": null,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "2d56eabe6c56",
-   "shopping": "Shopping Tamboré",
-   "bairro": "Barueri",
-   "regiao": "Grande SP",
-   "fonte": "Shopping Tamboré",
-   "tipo_local": "Shopping",
-   "url": "https://saopauloparacriancas.com.br/k-pop-sp/",
-   "imagem": null
   },
   {
    "titulo": "História na Janela, Boca sem Tramela: Contos de Oralidade Afro- Brasileira",
@@ -5523,7 +5498,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/DfQgCVkscJr/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=UiV38PU0p5QQ7kNvwFojDq3&_nc_oc=Adr_aPFSPF9Pot4_GrPDszSk1FdyK96SpdZYjq2C3Wz9w7gTurWEEK1VJ2jwGe8ZSPs&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=CBQIrsB81EqPE-g4X--ytQ&_nc_tpa=Q5bMBQKQMMwX9UNPgVpTSIq4UsvHT6zoss_I6xbudnG6qBHM5Ok3MYsAvop9P25i7wkRIf8qi3xH9i_o&oh=00_AQSG36P6wYdZ071lsV9fxqmTa8ZbDwmF95s6TrEysanBeg&oe=6AF86785"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=NZ2JZMI6OTUQ7kNvwE1QITn&_nc_oc=AdoLqdel8Fzd0mLuGgq9kyWch0I5k9yOEGvjU1RIMTmn3LiiK8eZFWN-vmQb4RjvgyU&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=W13c_ikvLseYsZ2ULa7vrA&_nc_tpa=Q5bMBQKX0cHDIj5UbOtLNajOWe47vIsZXMXEsoQCLHw74VEQ4xtxJX-0TyNoCCLnIQojMU3WxzIGHcsK&oh=00_AQTEP_8SUgaDwW8Tgt01M96VRcdShxOx4HUhlANb3NlN7g&oe=6AF94885"
   },
   {
    "titulo": "Cinematerna",
