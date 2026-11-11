@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-10T18:02-03:00",
+ "gerado_em": "2026-11-11T06:03-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -77,7 +77,7 @@
    "shopping": "Villa Romana Shopping",
    "url": "https://villaromanashopping.com.br/novidades/",
    "status": "ok",
-   "eventos": 1
+   "eventos": 0
   },
   {
    "shopping": "Shopping Itaquera",
@@ -155,7 +155,7 @@
    "shopping": "Sesc SP",
    "url": "https://www.sescsp.org.br/programacao/",
    "status": "erro: HTTPError: HTTP Error 403: Forbidden",
-   "eventos": 146
+   "eventos": 143
   }
  ],
  "eventos": [
@@ -333,13 +333,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "3aaaa72c86d0",
+   "id": "6d9b4725f0bd",
    "shopping": "Shopping Vila Olímpia",
    "bairro": "Vila Olímpia",
    "regiao": "Zona Sul",
    "fonte": "Shopping Vila Olímpia",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppingvilaolimpia.com.br/eventos/fjigfnncop-vr-land/",
+   "url": "https://www.shoppingvilaolimpia.com.br/lazer-e-eventos/eventos/fjigfnncop-vr-land/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/cc/29/cc29a88f-42c3-4ace-ba0f-7c63a127302f/hubimage__0x650_subsampling-2.webp"
   },
   {
@@ -1199,33 +1199,6 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/orquestra-de-cordas-2",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/07/Violino_e_Viola_Erudita___Iniciante_FT_JoanaGrigorio.jpg"
-  },
-  {
-   "titulo": "Palco de Brincar",
-   "resumo": "com a educadora Tathiana Valério Público: Crianças Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Casa Verde",
-   "inicio": "2026-11-05",
-   "fim": "2026-11-10",
-   "horario": "próxima sessão 5/11 às 17h30",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Cursos e Oficinas"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "3a18561b3be0",
-   "shopping": "Sesc Casa Verde",
-   "bairro": "Casa Verde",
-   "regiao": "Zona Norte",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/palco-de-brincar-3",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/07/TATHI_.png"
   },
   {
    "titulo": "Pequenos Sons, Grandes Encontros",
@@ -2566,85 +2539,6 @@
    "tipo_local": "Shopping",
    "url": "https://ibirapuera.com.br/novidades/arvore-solidaria/",
    "imagem": "https://ibirapuera.com.br/wp-content/uploads/2026/11/Ibira_Natal_Arvore_Solidaria_Site_Novidades_1920x1080px.jpg.jpeg"
-  },
-  {
-   "titulo": "Africanidades: Danças, músicas, cantos e brincadeiras",
-   "resumo": "Com Silvana de Jesus Público: Diversas idades Categorias: Encontros e Palestras Atividade gratuita Unidade: Sesc Pompeia",
-   "inicio": "2026-11-10",
-   "fim": "2026-11-10",
-   "horario": "próxima sessão 10/11 às 21h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Encontros e Palestras"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "e246e91f8f0a",
-   "shopping": "Sesc Pompeia",
-   "bairro": "Pompeia",
-   "regiao": "Zona Oeste",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/africanidades-dancas-musicas-cantos-e-brincadeiras",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/1000477081.jpg"
-  },
-  {
-   "titulo": "Boi De Mamão Leva Tradição De Florianópolis A Espetáculo Infantil Gratuito Neste Domingo (01)",
-   "resumo": "Grupo Folclórico Alivanta Meu Boi apresenta tradição da cidade às 11h30, no Villa Romana Shopping, com versos, brincadeiras e participação do público",
-   "inicio": null,
-   "fim": "2026-11-10",
-   "horario": "11h30",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "e2dd6fbaaf51",
-   "shopping": "Villa Romana Shopping",
-   "bairro": "Vila Romana",
-   "regiao": "Zona Oeste",
-   "fonte": "Villa Romana Shopping",
-   "tipo_local": "Shopping",
-   "url": "https://villaromanashopping.com.br/novidades/boi-de-mamao-leva-tradicao-de-florianopolis-a-espetaculo-infantil-gratuito-neste-domingo-01/",
-   "imagem": "https://villaromanashopping.com.br/wp-content/uploads/2026/10/dct_maio_ads_01.09_site_desktop_1170x440-1.jpg"
-  },
-  {
-   "titulo": "Luan Sodré Quarteto",
-   "resumo": "Trama Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Shows, Espetáculos e Performances Unidade: Sesc Consolação",
-   "inicio": "2026-11-10",
-   "fim": "2026-11-10",
-   "horario": "próxima sessão 10/11 às 19h",
-   "faixa_etaria": null,
-   "gratuito": false,
-   "agendamento": true,
-   "como_agendar": null,
-   "link_inscricao": "https://www.sescsp.org.br/programacao/luan-sodre-quarteto",
-   "natal": false,
-   "categorias": [
-    "Shows, Espetáculos e Performances"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "112b9ff37bce",
-   "shopping": "Sesc Consolação",
-   "bairro": "Consolação",
-   "regiao": "Centro",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/luan-sodre-quarteto",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Luan-Sodre-Quarteto.jpg"
   },
   {
    "titulo": "Entrelaços: Cuidar de quem Cuida",
@@ -5498,7 +5392,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/DfQgCVkscJr/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=NZ2JZMI6OTUQ7kNvwE1QITn&_nc_oc=AdoLqdel8Fzd0mLuGgq9kyWch0I5k9yOEGvjU1RIMTmn3LiiK8eZFWN-vmQb4RjvgyU&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=W13c_ikvLseYsZ2ULa7vrA&_nc_tpa=Q5bMBQKX0cHDIj5UbOtLNajOWe47vIsZXMXEsoQCLHw74VEQ4xtxJX-0TyNoCCLnIQojMU3WxzIGHcsK&oh=00_AQTEP_8SUgaDwW8Tgt01M96VRcdShxOx4HUhlANb3NlN7g&oe=6AF94885"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=NZ2JZMI6OTUQ7kNvwE1QITn&_nc_oc=AdoLqdel8Fzd0mLuGgq9kyWch0I5k9yOEGvjU1RIMTmn3LiiK8eZFWN-vmQb4RjvgyU&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=VvhbnQj-HSqtosffMqG-Qw&_nc_tpa=Q5bMBQK7teXhwkFkNgUuUA4tqhGGXLUwYTcjhUAVKn-hL9nEXvbLWUXUAElI0fD4-YKu6Lkk9utHs8NV&oh=00_AQTgNgCoILtM0rOmN65o6V7m-gEjukRl2_OcHsktQLqINQ&oe=6AF9B905"
   },
   {
    "titulo": "Cinematerna",
