@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-11T06:03-03:00",
+ "gerado_em": "2026-11-11T18:03-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -11,7 +11,7 @@
    "shopping": "Shopping Anália Franco",
    "url": "https://www.shoppinganaliafranco.com.br/eventos/",
    "status": "ok",
-   "eventos": 3
+   "eventos": 6
   },
   {
    "shopping": "Shopping Vila Olímpia",
@@ -35,7 +35,7 @@
    "shopping": "Shopping Pátio Higienópolis",
    "url": "https://iguatemi.com.br/patiohigienopolis/eventos",
    "status": "ok",
-   "eventos": 0
+   "eventos": 1
   },
   {
    "shopping": "Shopping Jardim Sul",
@@ -77,7 +77,7 @@
    "shopping": "Villa Romana Shopping",
    "url": "https://villaromanashopping.com.br/novidades/",
    "status": "ok",
-   "eventos": 0
+   "eventos": 1
   },
   {
    "shopping": "Shopping Itaquera",
@@ -125,7 +125,7 @@
    "shopping": "Shopping Frei Caneca",
    "url": "https://freicanecashopping.com.br/pt-BR/acontece",
    "status": "ok",
-   "eventos": 0
+   "eventos": 1
   },
   {
    "shopping": "Shopping Partage Santana",
@@ -154,7 +154,7 @@
   {
    "shopping": "Sesc SP",
    "url": "https://www.sescsp.org.br/programacao/",
-   "status": "erro: HTTPError: HTTP Error 403: Forbidden",
+   "status": "erro: PermissionError: robots.txt não permite https://www.sescsp.org.br/wp-json/wp/v1/unidades-atividades",
    "eventos": 143
   }
  ],
@@ -391,6 +391,31 @@
    "tipo_local": "Shopping",
    "url": "https://tieteplaza.com.br/evento/nacional-kart/",
    "imagem": "https://tieteplaza.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-10-23-at-15.33.46.jpeg"
+  },
+  {
+   "titulo": "Feriado De 15 De Novembro Terá Teatro Infantil E Encontro Com Personagens No Villa Romana Shopping - Villa Romana Shopping",
+   "resumo": "Espetáculo gratuito sobre lendas da Ilha será apresentado às 11h30; programação de domingo inclui atrações natalinas e horário especial de funcionamento Jantar ou almoço romântico? Guia para um passeio a dois em Florianópolis Um encontro a dois pode começar com um jantar planejado, uma entrada para compartilhar ou…",
+   "inicio": "2026-11-03",
+   "fim": "2026-11-15",
+   "horario": "11h30",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": true,
+   "categorias": [],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "11cb06b95a91",
+   "shopping": "Villa Romana Shopping",
+   "bairro": "Vila Romana",
+   "regiao": "Zona Oeste",
+   "fonte": "Villa Romana Shopping",
+   "tipo_local": "Shopping",
+   "url": "https://villaromanashopping.com.br/novidades/feriado-de-15-de-novembro-tera-teatro-infantil-e-encontro-com-personagens-no-villa-romana-shopping/",
+   "imagem": "https://villaromanashopping.com.br/wp-content/uploads/2026/11/dct_novembro_ads_15.11_site_desktop_1170x440-1.jpg"
   },
   {
    "titulo": "Made In Fogo - Música ao vivo e Gastronomia",
@@ -2541,6 +2566,33 @@
    "imagem": "https://ibirapuera.com.br/wp-content/uploads/2026/11/Ibira_Natal_Arvore_Solidaria_Site_Novidades_1920x1080px.jpg.jpeg"
   },
   {
+   "titulo": "Carrossel do Anália",
+   "resumo": "O Carrossel do Anália chegou à Praça de Eventos para deixar a temporada de Natal ainda mais divertida. Escolha seu cavalinho, entre na brincadeira e aproveite um programa especial para curtir em família. 🎠 E participar é simples: de 11 de novembro a 31 de dezembro, cadastre no app Multi uma nota fiscal com CPF, de…",
+   "inicio": "2026-11-11",
+   "fim": "2026-12-31",
+   "horario": null,
+   "faixa_etaria": "até 3 anos",
+   "gratuito": false,
+   "agendamento": true,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": true,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "5e9ad836faf9",
+   "shopping": "Shopping Anália Franco",
+   "bairro": "Anália Franco",
+   "regiao": "Zona Leste",
+   "fonte": "Shopping Anália Franco",
+   "tipo_local": "Shopping",
+   "url": "https://www.shoppinganaliafranco.com.br/eventos/dim8nzgpnx-carrossel-do-analia/",
+   "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/30/01/30018bb9-0d89-4897-89ba-b1314f51b36b/hubimage__0x650_subsampling-2.png"
+  },
+  {
    "titulo": "Entrelaços: Cuidar de quem Cuida",
    "resumo": "Com Fabiana Neves e Raian Vidal Público: Crianças Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Vila Mariana",
    "inicio": "2026-11-11",
@@ -2568,6 +2620,33 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/04/4.png"
   },
   {
+   "titulo": "Fotos com o Papai Noel",
+   "resumo": "Prepare a cartinha e capriche no sorriso! A partir de 12 de novembro, é hora de encontrar o Bom Velhinho, entregar a cartinha, contar os pedidos e garantir aquela foto clássica para guardar com carinho. E os pets também estão convidados! 🐾 Com um trono reservado só para eles, toda a família pode fazer parte desse…",
+   "inicio": "2026-11-11",
+   "fim": "2026-12-24",
+   "horario": "das 10h às 22h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": true,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": true,
+   "categorias": [
+    "Evento"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "5befef14cae3",
+   "shopping": "Shopping Anália Franco",
+   "bairro": "Anália Franco",
+   "regiao": "Zona Leste",
+   "fonte": "Shopping Anália Franco",
+   "tipo_local": "Shopping",
+   "url": "https://www.shoppinganaliafranco.com.br/eventos/roa5zkqp6b-fotos-com-o-papai-noel/",
+   "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/f4/99/f49904a6-9e5e-4286-881d-894d7f509d90/hubimage__0x650_subsampling-2.png"
+  },
+  {
    "titulo": "Herança Sagrada",
    "resumo": "com Sandro Ayê Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc Interlagos",
    "inicio": "2026-11-11",
@@ -2593,6 +2672,58 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/heranca-sagrada",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/11/IMG_7332_2026-10-27-18-41-36.jpeg"
+  },
+  {
+   "titulo": "O Mundo Mágico de Natal",
+   "resumo": "Atravesse as estrelas com os ursos astronautas e embarque em uma jornada mágica rumo ao Trono do Papai Noel.",
+   "inicio": "2026-11-11",
+   "fim": null,
+   "horario": null,
+   "faixa_etaria": null,
+   "gratuito": null,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": true,
+   "categorias": [],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "de88f8e3b6b0",
+   "shopping": "Shopping Pátio Higienópolis",
+   "bairro": "Higienópolis",
+   "regiao": "Centro",
+   "fonte": "Shopping Pátio Higienópolis",
+   "tipo_local": "Shopping",
+   "url": "https://iguatemi.com.br/patiohigienopolis/eventos/o-mundo-magico-de-natal-1",
+   "imagem": "https://storage.googleapis.com/strapi-igta/mundo_magico_de_natal_desk_0e407f4d4b/mundo_magico_de_natal_desk_0e407f4d4b.jpg"
+  },
+  {
+   "titulo": "Teatrinho de Natal",
+   "resumo": "O que será que está acontecendo na oficina do Papai Noel? Em dezembro, dois ajudantes do Papai Noel embarcam em uma missão cheia de descobertas na oficina de brinquedos mais encantadora do Polo Norte. Entre preparativos, desafios e situações divertidas, eles mostram que os presentes mais valiosos são aqueles feitos…",
+   "inicio": "2026-11-11",
+   "fim": "2026-12-23",
+   "horario": null,
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": true,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "693e4f68a95f",
+   "shopping": "Shopping Anália Franco",
+   "bairro": "Anália Franco",
+   "regiao": "Zona Leste",
+   "fonte": "Shopping Anália Franco",
+   "tipo_local": "Shopping",
+   "url": "https://www.shoppinganaliafranco.com.br/eventos/tgodyan9fh-teatrinho-de-natal/",
+   "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/66/42/66424d84-26b0-44a8-9b81-7b54c9b56152/hubimage__0x650_subsampling-2.png"
   },
   {
    "titulo": "Laboratório de Impressão 3D e Reciclagem",
@@ -4782,6 +4913,31 @@
    "imagem": null
   },
   {
+   "titulo": "Café com o Noel",
+   "resumo": "Evento em produção",
+   "inicio": "2026-11-30",
+   "fim": "2026-12-13",
+   "horario": null,
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": true,
+   "como_agendar": null,
+   "link_inscricao": "https://eventos.besistemas.com.br/freicaneca/event/78xcjhvx24kfcgq6/cafe+com+o+noel",
+   "natal": true,
+   "categorias": [],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "06b1ac9a49e1",
+   "shopping": "Shopping Frei Caneca",
+   "bairro": "Consolação",
+   "regiao": "Centro",
+   "fonte": "Shopping Frei Caneca",
+   "tipo_local": "Shopping",
+   "url": "https://eventos.besistemas.com.br/freicaneca/event/78xcjhvx24kfcgq6/cafe+com+o+noel",
+   "imagem": "https://eventos.besistemas.com.br/freicaneca/marketing/event/banners/_banner.jpg"
+  },
+  {
    "titulo": "Arena Saúde",
    "resumo": "Arena Saúde | Tietê Plaza 01/01 a 01/12 Arena Saúde Como forma de incentivar o público a praticar atividades físicas, a iniciativa conta com professores especializados em aulas de ioga, pilates, ritbox e ritmos, além de exercícios para crianças, adultos e idosos melhorarem o condicionamento físico e desempenho da…",
    "inicio": "2026-12-01",
@@ -5392,7 +5548,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/DfQgCVkscJr/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=NZ2JZMI6OTUQ7kNvwE1QITn&_nc_oc=AdoLqdel8Fzd0mLuGgq9kyWch0I5k9yOEGvjU1RIMTmn3LiiK8eZFWN-vmQb4RjvgyU&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=VvhbnQj-HSqtosffMqG-Qw&_nc_tpa=Q5bMBQK7teXhwkFkNgUuUA4tqhGGXLUwYTcjhUAVKn-hL9nEXvbLWUXUAElI0fD4-YKu6Lkk9utHs8NV&oh=00_AQTgNgCoILtM0rOmN65o6V7m-gEjukRl2_OcHsktQLqINQ&oe=6AF9B905"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=NZ2JZMI6OTUQ7kNvwE1QITn&_nc_oc=AdoLqdel8Fzd0mLuGgq9kyWch0I5k9yOEGvjU1RIMTmn3LiiK8eZFWN-vmQb4RjvgyU&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=_KYyGVMK4UV1Y2xYdQ2NNg&_nc_tpa=Q5bMBQJu3wOamOHa-y_J0mFH3lKKI6QsSaijfdf4p_s2zUIz9tO02GMA8VarKo1uDbR6WF68lzr8tyHD&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRjFA6KQDjlS3qKqPc9PMKsBrpZ_GzKj5Fu7TUBThh_WQ&oe=6AFA9A05"
   },
   {
    "titulo": "Cinematerna",
