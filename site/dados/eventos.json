@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-12T06:04-03:00",
+ "gerado_em": "2026-11-12T18:02-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -16,7 +16,7 @@
   {
    "shopping": "Shopping Vila Olímpia",
    "url": "https://www.shoppingvilaolimpia.com.br/eventos/",
-   "status": "erro: HTTPError: HTTP Error 500: Internal Server Error",
+   "status": "ok",
    "eventos": 1
   },
   {
@@ -65,25 +65,25 @@
    "shopping": "Tietê Plaza Shopping",
    "url": "https://tieteplaza.com.br/eventos/",
    "status": "ok",
-   "eventos": 4
+   "eventos": 5
   },
   {
    "shopping": "Shopping Cidade São Paulo",
    "url": "https://shoppingcidadesp.com.br/eventos/",
    "status": "ok",
-   "eventos": 2
+   "eventos": 3
   },
   {
    "shopping": "Villa Romana Shopping",
    "url": "https://villaromanashopping.com.br/novidades/",
    "status": "ok",
-   "eventos": 1
+   "eventos": 3
   },
   {
    "shopping": "Shopping Itaquera",
    "url": "https://www.shoppingitaquera.com.br/novidades",
    "status": "ok",
-   "eventos": 5
+   "eventos": 6
   },
   {
    "shopping": "Shopping D",
@@ -154,7 +154,7 @@
   {
    "shopping": "Sesc SP",
    "url": "https://www.sescsp.org.br/programacao/",
-   "status": "erro: PermissionError: robots.txt não permite https://www.sescsp.org.br/wp-json/wp/v1/unidades-atividades",
+   "status": "erro: HTTPError: HTTP Error 403: Forbidden",
    "eventos": 140
   }
  ],
@@ -333,13 +333,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "6d9b4725f0bd",
+   "id": "3aaaa72c86d0",
    "shopping": "Shopping Vila Olímpia",
    "bairro": "Vila Olímpia",
    "regiao": "Zona Sul",
    "fonte": "Shopping Vila Olímpia",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppingvilaolimpia.com.br/lazer-e-eventos/eventos/fjigfnncop-vr-land/",
+   "url": "https://www.shoppingvilaolimpia.com.br/eventos/fjigfnncop-vr-land/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/cc/29/cc29a88f-42c3-4ace-ba0f-7c63a127302f/hubimage__0x650_subsampling-2.webp"
   },
   {
@@ -391,31 +391,6 @@
    "tipo_local": "Shopping",
    "url": "https://tieteplaza.com.br/evento/nacional-kart/",
    "imagem": "https://tieteplaza.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-10-23-at-15.33.46.jpeg"
-  },
-  {
-   "titulo": "Feriado De 15 De Novembro Terá Teatro Infantil E Encontro Com Personagens No Villa Romana Shopping - Villa Romana Shopping",
-   "resumo": "Espetáculo gratuito sobre lendas da Ilha será apresentado às 11h30; programação de domingo inclui atrações natalinas e horário especial de funcionamento Jantar ou almoço romântico? Guia para um passeio a dois em Florianópolis Um encontro a dois pode começar com um jantar planejado, uma entrada para compartilhar ou…",
-   "inicio": "2026-11-03",
-   "fim": "2026-11-15",
-   "horario": "11h30",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": true,
-   "categorias": [],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "11cb06b95a91",
-   "shopping": "Villa Romana Shopping",
-   "bairro": "Vila Romana",
-   "regiao": "Zona Oeste",
-   "fonte": "Villa Romana Shopping",
-   "tipo_local": "Shopping",
-   "url": "https://villaromanashopping.com.br/novidades/feriado-de-15-de-novembro-tera-teatro-infantil-e-encontro-com-personagens-no-villa-romana-shopping/",
-   "imagem": "https://villaromanashopping.com.br/wp-content/uploads/2026/11/dct_novembro_ads_15.11_site_desktop_1170x440-1.jpg"
   },
   {
    "titulo": "Made In Fogo - Música ao vivo e Gastronomia",
@@ -2593,6 +2568,31 @@
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/66/42/66424d84-26b0-44a8-9b81-7b54c9b56152/hubimage__0x650_subsampling-2.png"
   },
   {
+   "titulo": "Encontro com o Papai Noel no Shopping Metrô Itaquera",
+   "resumo": "A magia do Natal chegou ao Shopping Metrô Itaquera, e o bom velhinho já está esperando por você e toda a sua família para celebrar essa época tão especial! Traga as crianças, prepare a lista de pedidos e venha viver momentos inesquecíveis, tirar lindas fotos e sentir de perto todo o encanto natalino. Dias e Horários…",
+   "inicio": "2026-11-12",
+   "fim": "2026-12-27",
+   "horario": "das 10h às 22h",
+   "faixa_etaria": null,
+   "gratuito": null,
+   "agendamento": true,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": true,
+   "categorias": [],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "0c8fa5fa4947",
+   "shopping": "Shopping Itaquera",
+   "bairro": "Itaquera",
+   "regiao": "Zona Leste",
+   "fonte": "Shopping Itaquera",
+   "tipo_local": "Shopping",
+   "url": "https://www.shoppingitaquera.com.br/novidade/encontro-com-o-papai-noel-no-shopping-metro-itaquera",
+   "imagem": "https://www.shoppingitaquera.com.br/sites/metro-itaquera/files/shopping-media/Novidade/2026-11/2956.5_Ita_NatalBrinquedos_BannerSite_App_1238x500px%20%281%29.jpg"
+  },
+  {
    "titulo": "Laboratório de Impressão 3D e Reciclagem",
    "resumo": "Com Daniel Seda, educador de Tecnologias e Artes Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Avenida Paulista",
    "inicio": "2026-11-12",
@@ -2618,6 +2618,31 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/laboratorio-de-impressao-3d-e-reciclagem-2",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/20260512_213238_2026-08-29-16-01-06.jpg"
+  },
+  {
+   "titulo": "Os Smurfs",
+   "resumo": "Os Smurfs | Tietê Plaza 12/11 12/11 a 03/01 Os Smurfs Prepare-se para viver uma aventura mágica ao lado dos personagens mais queridos da Vila dos Smurfs! 💙🍄 Os Smurfs chegaram ao Tietê Plaza com uma atração temática que promete muita diversão, brincadeiras e momentos especiais para toda a família. Em um ambiente…",
+   "inicio": "2026-11-12",
+   "fim": "2027-01-03",
+   "horario": null,
+   "faixa_etaria": "até 13 anos",
+   "gratuito": false,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "6ca9ab23f9f3",
+   "shopping": "Tietê Plaza Shopping",
+   "bairro": "Jardim Íris / Pirituba",
+   "regiao": "Zona Oeste",
+   "fonte": "Tietê Plaza Shopping",
+   "tipo_local": "Shopping",
+   "url": "https://tieteplaza.com.br/evento/os-smurfs/",
+   "imagem": "https://tieteplaza.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-11-12-at-16.36.00.jpeg"
   },
   {
    "titulo": "Seu Cavalcanti",
@@ -3239,6 +3264,31 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/circo-de-quebra-na-zona-sul-me-alimenta",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/24.08.25___Circo_de_Quebra_78_2026-09-22-17-37-48.jpg"
+  },
+  {
+   "titulo": "Feriado De 15 De Novembro Terá Teatro Infantil E Encontro Com Personagens No Villa Romana Shopping - Villa Romana Shopping",
+   "resumo": "Espetáculo gratuito sobre lendas da Ilha será apresentado às 11h30; programação de domingo inclui atrações natalinas e horário especial de funcionamento",
+   "inicio": "2026-11-15",
+   "fim": "2026-11-15",
+   "horario": "11h30",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": true,
+   "categorias": [],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "11cb06b95a91",
+   "shopping": "Villa Romana Shopping",
+   "bairro": "Vila Romana",
+   "regiao": "Zona Oeste",
+   "fonte": "Villa Romana Shopping",
+   "tipo_local": "Shopping",
+   "url": "https://villaromanashopping.com.br/novidades/feriado-de-15-de-novembro-tera-teatro-infantil-e-encontro-com-personagens-no-villa-romana-shopping/",
+   "imagem": "https://villaromanashopping.com.br/wp-content/uploads/2026/11/dct_novembro_ads_15.11_site_desktop_1170x440-1.jpg"
   },
   {
    "titulo": "Folk do Pântano",
@@ -4402,6 +4452,56 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Fotos-para-Portal-44.png"
   },
   {
+   "titulo": "Cinema Adaptado Em Florianópolis: Conheça As Sessões Inclusivas Para Diferentes Públicos No Cinesystem",
+   "resumo": "Assistir a um filme no cinema pode ser uma experiência diferente para cada pessoa. Famílias com bebês, pessoas com sensibilidade a sons e iluminação,",
+   "inicio": null,
+   "fim": "2026-11-26",
+   "horario": null,
+   "faixa_etaria": null,
+   "gratuito": null,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "e0e4fd297cb0",
+   "shopping": "Villa Romana Shopping",
+   "bairro": "Vila Romana",
+   "regiao": "Zona Oeste",
+   "fonte": "Villa Romana Shopping",
+   "tipo_local": "Shopping",
+   "url": "https://villaromanashopping.com.br/novidades/cinema-adaptado-em-florianopolis-conheca-as-sessoes-inclusivas-para-diferentes-publicos-no-cinesystem/",
+   "imagem": "https://villaromanashopping.com.br/wp-content/uploads/2026/11/CABECALHO-SITE-VILLA-cinema.png"
+  },
+  {
+   "titulo": "Corais São Atrações De Natal No Villa Romana Shopping Em Novembro - Villa Romana Shopping",
+   "resumo": "Programação gratuita terá apresentações nos dias 13, 19 e 27, com início às 19h, na Praça de Eventos do shopping, em Florianópolis Cinema adaptado em Florianópolis: conheça as sessões inclusivas para diferentes públicos no Cinesystem Assistir a um filme no cinema pode ser uma experiência diferente para cada pessoa…",
+   "inicio": null,
+   "fim": "2026-11-26",
+   "horario": "19h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": true,
+   "categorias": [],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "a3ef880ae6cc",
+   "shopping": "Villa Romana Shopping",
+   "bairro": "Vila Romana",
+   "regiao": "Zona Oeste",
+   "fonte": "Villa Romana Shopping",
+   "tipo_local": "Shopping",
+   "url": "https://villaromanashopping.com.br/novidades/corais-sao-atracoes-de-natal-no-villa-romana-shopping-em-novembro/",
+   "imagem": "https://villaromanashopping.com.br/wp-content/uploads/2026/11/CABECALHO-SITE-VILLA.-coral2png.png"
+  },
+  {
    "titulo": "Pernambucaninhus",
    "resumo": "Com Joanah Flor Público: Crianças Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc 24 de Maio",
    "inicio": "2026-11-26",
@@ -5415,7 +5515,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/DfQgCVkscJr/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=NZ2JZMI6OTUQ7kNvwE1QITn&_nc_oc=AdoLqdel8Fzd0mLuGgq9kyWch0I5k9yOEGvjU1RIMTmn3LiiK8eZFWN-vmQb4RjvgyU&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=JVl0pqWnRvhnSIZ24ycRTA&_nc_tpa=Q5bMBQIaYTdurHCM5X3pkG9Vx4MXTUO61G2HG85m8l6JR70-foUS15sJeDbkhvV6gMZEebDH-wazbiad&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTbP4PFHVb-KDVTWisAkgpFygUVL73XffuxlahtMVOtWA&oe=6AFB0A85"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=NZ2JZMI6OTUQ7kNvwE1QITn&_nc_oc=AdoLqdel8Fzd0mLuGgq9kyWch0I5k9yOEGvjU1RIMTmn3LiiK8eZFWN-vmQb4RjvgyU&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=TsVWdhJbWo6ZP4mKr5y-kQ&_nc_tpa=Q5bMBQJqDww6QnKClTrlHosWq8k-mz13tK9bBYJZi7ZH42qQOjzn9FZGTCmwVvgUROreT82CaGHmgcHi&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSKKaiuyYTrrDS5lAQdTMLpe0KJeEhcynC7H7FsdiEA7A&oe=6AFBEB85"
   },
   {
    "titulo": "Cinematerna",
@@ -5466,6 +5566,31 @@
    "tipo_local": "Shopping",
    "url": "https://www.shoppingitaquera.com.br/novidade/confira-nossas-iniciativas-dedicadas-para-pessoas-com-tea",
    "imagem": "https://www.shoppingitaquera.com.br/sites/metro-itaquera/files/shopping-media/Novidade/2023-04/KV_TEA_Card_Site.jpg"
+  },
+  {
+   "titulo": "Visite O Trono Do Papai Noel",
+   "resumo": "VISITE O TRONO DO PAPAI NOEL | Shopping Cidade São Paulo VISITE O TRONO DO PAPAI NOEL O Natal chegou no Cidade SP! Venha visitar o Trono do Papai Noel🎄 📲Registre esse momento especial e marque o Shopping no Instagram @shoppingcidadesp ⏰ Horário de atendimento: Segunda a sábado: das 12h às 20h Atendimento por ordem de…",
+   "inicio": null,
+   "fim": null,
+   "horario": "das 12h às 20h",
+   "faixa_etaria": null,
+   "gratuito": null,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": true,
+   "categorias": [],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "eb2bc33f2f44",
+   "shopping": "Shopping Cidade São Paulo",
+   "bairro": "Bela Vista (Av. Paulista)",
+   "regiao": "Centro",
+   "fonte": "Shopping Cidade São Paulo",
+   "tipo_local": "Shopping",
+   "url": "https://shoppingcidadesp.com.br/evento/visite-o-trono-do-papai-noel/",
+   "imagem": "https://shoppingcidadesp.com.br/wp-content/uploads/2026/11/App_1080X1080-100.jpg"
   }
  ]
 }
