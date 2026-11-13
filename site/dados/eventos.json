@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-12T18:02-03:00",
+ "gerado_em": "2026-11-13T06:03-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -71,7 +71,7 @@
    "shopping": "Shopping Cidade São Paulo",
    "url": "https://shoppingcidadesp.com.br/eventos/",
    "status": "ok",
-   "eventos": 3
+   "eventos": 4
   },
   {
    "shopping": "Villa Romana Shopping",
@@ -155,7 +155,7 @@
    "shopping": "Sesc SP",
    "url": "https://www.sescsp.org.br/programacao/",
    "status": "erro: HTTPError: HTTP Error 403: Forbidden",
-   "eventos": 140
+   "eventos": 138
   }
  ],
  "eventos": [
@@ -1336,6 +1336,31 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2024/07/Rockabilly.png"
   },
   {
+   "titulo": "Roda Gigante Natal 2026",
+   "resumo": "RODA GIGANTE NATAL 2026 | Shopping Cidade São Paulo 13/11 sex. 13/11 a 24/12 RODA GIGANTE NATAL 2026 Aproveite para se divertir na Roda Gigante!🎡🎄✨ 📲Retire seu cupom gratuito no APP do Shopping Cidade São Paulo e apresente na decoração de Natal! O passeio por ordem de chegada, se programe! ⏰ Horário de funcionamento…",
+   "inicio": "2026-11-05",
+   "fim": "2026-12-24",
+   "horario": "das 11h às 22h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": true,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": true,
+   "categorias": [],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "344053583de6",
+   "shopping": "Shopping Cidade São Paulo",
+   "bairro": "Bela Vista (Av. Paulista)",
+   "regiao": "Centro",
+   "fonte": "Shopping Cidade São Paulo",
+   "tipo_local": "Shopping",
+   "url": "https://shoppingcidadesp.com.br/evento/roda-gigante-natal-2026/",
+   "imagem": "https://shoppingcidadesp.com.br/wp-content/uploads/2026/11/cupom_rodagigante.jpg"
+  },
+  {
    "titulo": "Seres encantados e assombrados em papelão",
    "resumo": "Com a equipe de educadores de Tecnologias e Artes Público: Crianças, Jovens Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Avenida Paulista",
    "inicio": "2026-11-05",
@@ -2460,33 +2485,6 @@
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/30/01/30018bb9-0d89-4897-89ba-b1314f51b36b/hubimage__0x650_subsampling-2.png"
   },
   {
-   "titulo": "Entrelaços: Cuidar de quem Cuida",
-   "resumo": "Com Fabiana Neves e Raian Vidal Público: Crianças Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Vila Mariana",
-   "inicio": "2026-11-11",
-   "fim": "2026-11-12",
-   "horario": "próxima sessão 12/11 às 15h30",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Cursos e Oficinas"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "3185a808b08b",
-   "shopping": "Sesc Vila Mariana",
-   "bairro": "Vila Mariana",
-   "regiao": "Zona Sul",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/entrelacos-cuidar-de-quem-cuida",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/04/4.png"
-  },
-  {
    "titulo": "Fotos com o Papai Noel",
    "resumo": "Prepare a cartinha e capriche no sorriso! A partir de 12 de novembro, é hora de encontrar o Bom Velhinho, entregar a cartinha, contar os pedidos e garantir aquela foto clássica para guardar com carinho. E os pets também estão convidados! 🐾 Com um trono reservado só para eles, toda a família pode fazer parte desse…",
    "inicio": "2026-11-11",
@@ -2643,33 +2641,6 @@
    "tipo_local": "Shopping",
    "url": "https://tieteplaza.com.br/evento/os-smurfs/",
    "imagem": "https://tieteplaza.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-11-12-at-16.36.00.jpeg"
-  },
-  {
-   "titulo": "Seu Cavalcanti",
-   "resumo": "Dir. Leonardo Lacca, Brasil, Doc, 2025, 90min Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Cinema Atividade gratuita Unidade: Sesc Consolação",
-   "inicio": "2026-11-12",
-   "fim": "2026-11-12",
-   "horario": "próxima sessão 12/11 às 21h30",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Cinema"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "4d3c99d67098",
-   "shopping": "Sesc Consolação",
-   "bairro": "Consolação",
-   "regiao": "Centro",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/seu-cavalcanti-4",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/seu_cavalcanti_cajuina_audiovisual_00_2025-12-05-15-28-43.jpg"
   },
   {
    "titulo": "Ancestralidade + Arteterapia",
@@ -4499,7 +4470,7 @@
    "fonte": "Villa Romana Shopping",
    "tipo_local": "Shopping",
    "url": "https://villaromanashopping.com.br/novidades/corais-sao-atracoes-de-natal-no-villa-romana-shopping-em-novembro/",
-   "imagem": "https://villaromanashopping.com.br/wp-content/uploads/2026/11/CABECALHO-SITE-VILLA.-coral2png.png"
+   "imagem": "https://villaromanashopping.com.br/wp-content/uploads/2026/10/CABECALHO-SITE-VILLA-coral.png"
   },
   {
    "titulo": "Pernambucaninhus",
@@ -5515,7 +5486,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/DfQgCVkscJr/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=NZ2JZMI6OTUQ7kNvwE1QITn&_nc_oc=AdoLqdel8Fzd0mLuGgq9kyWch0I5k9yOEGvjU1RIMTmn3LiiK8eZFWN-vmQb4RjvgyU&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=TsVWdhJbWo6ZP4mKr5y-kQ&_nc_tpa=Q5bMBQJqDww6QnKClTrlHosWq8k-mz13tK9bBYJZi7ZH42qQOjzn9FZGTCmwVvgUROreT82CaGHmgcHi&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSKKaiuyYTrrDS5lAQdTMLpe0KJeEhcynC7H7FsdiEA7A&oe=6AFBEB85"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=NZ2JZMI6OTUQ7kNvwE1QITn&_nc_oc=AdoLqdel8Fzd0mLuGgq9kyWch0I5k9yOEGvjU1RIMTmn3LiiK8eZFWN-vmQb4RjvgyU&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=fM4RuNdQth1zdKlCpXazSA&_nc_tpa=Q5bMBQKU8736c1VCyuKEBaPbU-xMAd0eRW8KhucMQrG_9TVXjy3NWw7mMUye4hOgLu1LJYoLYe9Bn0oT&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRnDhRi_9vfeZHWWCyNuiBfWnvJqLRS4xvuc5YajyLScw&oe=6AFC5C05"
   },
   {
    "titulo": "Cinematerna",
