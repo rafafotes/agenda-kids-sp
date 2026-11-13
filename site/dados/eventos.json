@@ -1,11 +1,11 @@
 {
- "gerado_em": "2026-11-13T06:03-03:00",
+ "gerado_em": "2026-11-13T18:03-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
    "url": "https://www.morumbishopping.com.br/eventos/",
    "status": "ok",
-   "eventos": 1
+   "eventos": 2
   },
   {
    "shopping": "Shopping Anália Franco",
@@ -2641,6 +2641,35 @@
    "tipo_local": "Shopping",
    "url": "https://tieteplaza.com.br/evento/os-smurfs/",
    "imagem": "https://tieteplaza.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-11-12-at-16.36.00.jpeg"
+  },
+  {
+   "titulo": "Natal 2026",
+   "resumo": "SAVE THE DATE SHOW DE NATAL 21/11 De 21/11 a 31/12",
+   "inicio": "2026-11-13",
+   "fim": "2026-12-31",
+   "horario": null,
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": true,
+   "categorias": [
+    "Infantil",
+    "Música",
+    "Evento"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "c9785f089446",
+   "shopping": "MorumbiShopping",
+   "bairro": "Morumbi",
+   "regiao": "Zona Sul",
+   "fonte": "MorumbiShopping",
+   "tipo_local": "Shopping",
+   "url": "https://www.morumbishopping.com.br/eventos/sh4a8jvs0i-natal-2026/",
+   "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/6a/77/6a775aa2-0773-47f2-9945-914fd684073b/hubimage__0x650_subsampling-2.png"
   },
   {
    "titulo": "Ancestralidade + Arteterapia",
@@ -5486,7 +5515,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/DfQgCVkscJr/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=NZ2JZMI6OTUQ7kNvwE1QITn&_nc_oc=AdoLqdel8Fzd0mLuGgq9kyWch0I5k9yOEGvjU1RIMTmn3LiiK8eZFWN-vmQb4RjvgyU&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=fM4RuNdQth1zdKlCpXazSA&_nc_tpa=Q5bMBQKU8736c1VCyuKEBaPbU-xMAd0eRW8KhucMQrG_9TVXjy3NWw7mMUye4hOgLu1LJYoLYe9Bn0oT&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRnDhRi_9vfeZHWWCyNuiBfWnvJqLRS4xvuc5YajyLScw&oe=6AFC5C05"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=vbR6B3k-YKoQ7kNvwHbDkig&_nc_oc=AdpFUMN06d1ElS_CA3Ksw-GkjZk6XSDgY_Xn-qQdcK9tEnm9GCTgdS1JwJffA3bpwNw&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AAqCCQf5l3KnHrv6tm7t6Q&_nc_tpa=Q5bMBQImjhNfsLxG578J4DhPvIZvRCmKUrVCnbt4o3SaRk4blU5AJEv5cAv97A2TwqZh9hnAuMmotHVq&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTgLPvz2MED279kdDxYRPNNR1piaYbDTtJPAg47kiE75A&oe=6AFD3D05"
   },
   {
    "titulo": "Cinematerna",
