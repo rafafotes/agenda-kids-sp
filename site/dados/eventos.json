@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-14T06:03-03:00",
+ "gerado_em": "2026-11-14T18:03-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -101,7 +101,7 @@
    "shopping": "Shopping União",
    "url": "https://www.shoppinguniao.com.br/",
    "status": "ok",
-   "eventos": 1
+   "eventos": 2
   },
   {
    "shopping": "Open Mall The Square",
@@ -333,13 +333,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "6d9b4725f0bd",
+   "id": "3aaaa72c86d0",
    "shopping": "Shopping Vila Olímpia",
    "bairro": "Vila Olímpia",
    "regiao": "Zona Sul",
    "fonte": "Shopping Vila Olímpia",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppingvilaolimpia.com.br/lazer-e-eventos/eventos/fjigfnncop-vr-land/",
+   "url": "https://www.shoppingvilaolimpia.com.br/eventos/fjigfnncop-vr-land/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/cc/29/cc29a88f-42c3-4ace-ba0f-7c63a127302f/hubimage__0x650_subsampling-2.webp"
   },
   {
@@ -3967,6 +3967,31 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2023/03/A-cabaca-e-o-canto-ancestral.jpg"
   },
   {
+   "titulo": "Alô, Osasco!",
+   "resumo": "🚁🎅 Alô, Osasco! Tem um passageiro muito especial chegando por aí! E pode avisar a família toda: no dia 21/11, o bom velhinho vai trocar o trenó por um helicóptero e fazer um pouso cheio de magia aqui no Shopping União! ✨🎄 E antes dessa chegada emocionante, a diversão já está garantida com um show especial de Maria…",
+   "inicio": "2026-11-21",
+   "fim": "2026-11-21",
+   "horario": "10h30, 12h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": true,
+   "categorias": [],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "fffdc6d571f1",
+   "shopping": "Shopping União",
+   "bairro": "Osasco",
+   "regiao": "Grande SP",
+   "fonte": "Shopping União",
+   "tipo_local": "Shopping",
+   "url": "https://www.instagram.com/reel/Dfu_cEvhr52/",
+   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/906404478_18497870062108869_1695863902016407447_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=sMvb6Azgl5UQ7kNvwFwIl1j&_nc_oc=Adr9MLp1QUYthSPSbYLw-B0_Wj7Zq4T58Atl2hlw74AJNdVG_4e7uIn4JsYbCKdYaJE&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ei3MY2DTE8Rpe_Tlc0JgiQ&_nc_tpa=Q5bMBQJ3Yz6Gy994kgDrZ_BVP974_XZySNLzgr_PlyiLO0j0QQg7lgB5xufzevTjopyAqDnqEPisqPEu&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQRWpbL9TnpiVmjjw-1rthDey0xzO2sJGJJpmfdBswUhrg&oe=6AFEA41B"
+  },
+  {
    "titulo": "Cerâmica do território para o território - geração de renda e empoderamento",
    "resumo": "com ceramistas da Balauarte Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc 14 Bis",
    "inicio": "2026-11-21",
@@ -5568,7 +5593,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/DfQgCVkscJr/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=vbR6B3k-YKoQ7kNvwHbDkig&_nc_oc=AdpFUMN06d1ElS_CA3Ksw-GkjZk6XSDgY_Xn-qQdcK9tEnm9GCTgdS1JwJffA3bpwNw&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=8axoxLBolzU2UQmaWjX9qQ&_nc_tpa=Q5bMBQK-biHJMvi2kgN1OmLwBh2ybZEtfzCXQsyemDI94Zaeo0aFZzLPtsMoziuUkTDgSn_jPDna3-CQ&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQR61W0y-_u6AZqrkjWwbHfVgvo_nbtmoJc9A__MLSsbCw&oe=6AFDAD85"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=vbR6B3k-YKoQ7kNvwHbDkig&_nc_oc=AdpFUMN06d1ElS_CA3Ksw-GkjZk6XSDgY_Xn-qQdcK9tEnm9GCTgdS1JwJffA3bpwNw&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ei3MY2DTE8Rpe_Tlc0JgiQ&_nc_tpa=Q5bMBQJ3nZefUkhogJ7YlCWcrp-K65dMuEt_q-l7mSonTpBOw5Oq92hunP2sdIKpBrh7S04C-EKpqgX9&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQStxBFnhtobJRf29iB2Rp7rPEXVFEZnt_Go704xSWy9Fw&oe=6AFE8E85"
   },
   {
    "titulo": "Cinematerna",
