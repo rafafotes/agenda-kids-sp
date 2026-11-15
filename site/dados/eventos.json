@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-14T18:03-03:00",
+ "gerado_em": "2026-11-15T06:03-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -107,7 +107,7 @@
    "shopping": "Open Mall The Square",
    "url": "https://openmallthesquare.com.br/eventos-nova/",
    "status": "ok",
-   "eventos": 31
+   "eventos": 28
   },
   {
    "shopping": "Shopping Cidade Jardim",
@@ -155,7 +155,7 @@
    "shopping": "Sesc SP",
    "url": "https://www.sescsp.org.br/programacao/",
    "status": "erro: HTTPError: HTTP Error 403: Forbidden",
-   "eventos": 138
+   "eventos": 132
   }
  ],
  "eventos": [
@@ -177,13 +177,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "6ffe604a9d31",
+   "id": "add0858f046e",
    "shopping": "MorumbiShopping",
    "bairro": "Morumbi",
    "regiao": "Zona Sul",
    "fonte": "MorumbiShopping",
    "tipo_local": "Shopping",
-   "url": "https://www.morumbishopping.com.br/lazer-e-eventos/eventos/zzat1t1uf7-diversao-e-na-hotzone/",
+   "url": "https://www.morumbishopping.com.br/eventos/zzat1t1uf7-diversao-e-na-hotzone/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/12/2d/122df6c7-2d3d-4958-ac17-554ced8d647f/hubimage__0x650_subsampling-2.webp"
   },
   {
@@ -1607,7 +1607,7 @@
    "titulo": "Chegada do Papai Noel",
    "resumo": "Ho, ho, ho! O Papai Noel está chegando ao Partage Santana! No dia 14 de novembro , venha celebrar a chegada do bom velhinho e a inauguração da nossa decoração de Natal com uma programação especial para toda a família! Teremos cortejo natalino com banda e personagens temáticos pelos corredores do shopping, além de uma…",
    "inicio": "2026-11-06",
-   "fim": "2026-11-14",
+   "fim": "2026-11-17",
    "horario": "das 13h às 22h",
    "faixa_etaria": null,
    "gratuito": null,
@@ -1870,33 +1870,6 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/corpo-que-brinca-e-equilibra",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/naturalizados.png"
-  },
-  {
-   "titulo": "Dança e Balança",
-   "resumo": "Com a educadora do Sesc SP, Tathi Valerio Público: Crianças Categorias: Encontros e Palestras Atividade gratuita Unidade: Sesc Casa Verde",
-   "inicio": "2026-11-07",
-   "fim": "2026-11-14",
-   "horario": "próxima sessão 14/11 às 12h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Encontros e Palestras"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "43daed908169",
-   "shopping": "Sesc Casa Verde",
-   "bairro": "Casa Verde",
-   "regiao": "Zona Norte",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/danca-e-balanca",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/01/Diiiii.png"
   },
   {
    "titulo": "Esporte Jovem Consciente",
@@ -2661,13 +2634,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "5b9a93435ae7",
+   "id": "67cd71f2262a",
    "shopping": "MorumbiShopping",
    "bairro": "Morumbi",
    "regiao": "Zona Sul",
    "fonte": "MorumbiShopping",
    "tipo_local": "Shopping",
-   "url": "https://www.morumbishopping.com.br/lazer-e-eventos/eventos/fakcn8avsd-grande-espetaculo-de-natal/",
+   "url": "https://www.morumbishopping.com.br/eventos/fakcn8avsd-grande-espetaculo-de-natal/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/91/11/9111dda6-ea6a-4bb3-99be-1ad6ee2e3508/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2690,13 +2663,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "ad83cd485bad",
+   "id": "c9785f089446",
    "shopping": "MorumbiShopping",
    "bairro": "Morumbi",
    "regiao": "Zona Sul",
    "fonte": "MorumbiShopping",
    "tipo_local": "Shopping",
-   "url": "https://www.morumbishopping.com.br/lazer-e-eventos/eventos/sh4a8jvs0i-natal-2026/",
+   "url": "https://www.morumbishopping.com.br/eventos/sh4a8jvs0i-natal-2026/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/6a/77/6a775aa2-0773-47f2-9945-914fd684073b/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2754,33 +2727,6 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Asas-a-imaginacao_-brinquedos-que-voam-Foto_-Sandra-Alves-1.png"
   },
   {
-   "titulo": "Cafú e o Café",
-   "resumo": "com Ateliê Afrocultural Público: Crianças, Diversas idades Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc Interlagos",
-   "inicio": "2026-11-14",
-   "fim": "2026-11-14",
-   "horario": "próxima sessão 14/11 às 15h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Shows, Espetáculos e Performances"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "18419de6c896",
-   "shopping": "Sesc Interlagos",
-   "bairro": "Interlagos",
-   "regiao": "Zona Sul",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/cafu-e-o-cafe-2",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2023/04/Wil_Oliveira___Cafu_e_Cafe_09_2023-01-04-14-35-38.jpg"
-  },
-  {
    "titulo": "Chaveiro-amuleto Adinkras",
    "resumo": "com coletivo Nós Raízes Público: Crianças, Diversas idades Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Santo Amaro",
    "inicio": "2026-11-14",
@@ -2806,33 +2752,6 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/chaveiro-amuleto-adinkras",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/ChaveiroAmuletoAdinkta_NosRaizes.jpg"
-  },
-  {
-   "titulo": "Choro da Consolação recebe Quarteto Vê se Gostas",
-   "resumo": "Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Encontros e Palestras Atividade gratuita Unidade: Sesc Consolação",
-   "inicio": "2026-11-14",
-   "fim": "2026-11-14",
-   "horario": "próxima sessão 14/11 às 18h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Encontros e Palestras"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "47f4fcf6eec9",
-   "shopping": "Sesc Consolação",
-   "bairro": "Consolação",
-   "regiao": "Centro",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/choro-da-consolacao-recebe-quarteto-ve-se-gostas",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/DEBORAH_TAKEUTI.jpg"
   },
   {
    "titulo": "Confecção de brinquedos de cabaça",
@@ -2889,33 +2808,6 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/WhatsApp_Image_2026_07_16_at_00.35.52_2026-07-16-10-42-41.jpeg"
   },
   {
-   "titulo": "Joyce Roldan Quarteto",
-   "resumo": "Palco Praça Gratuito Horários: 17h Atividade infantil",
-   "inicio": "2026-11-14",
-   "fim": "2026-11-14",
-   "horario": "17h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Infantil"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "326d7520fd9c",
-   "shopping": "Open Mall The Square",
-   "bairro": "Granja Viana (Cotia)",
-   "regiao": "Grande SP",
-   "fonte": "Open Mall The Square",
-   "tipo_local": "Shopping",
-   "url": "https://openmallthesquare.com.br/eventos-nova/#joyce-roldan-quarteto",
-   "imagem": null
-  },
-  {
    "titulo": "Letreirando: Um Passeio Pela Caligrafia Popular do Brasil",
    "resumo": "Com Danise Eliom Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Avenida Paulista",
    "inicio": "2026-11-14",
@@ -2941,33 +2833,6 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/letreirando-um-passeio-pela-caligrafia-popular-do-brasil",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/WhatsApp_Image_2026_07_16_at_00.28.06_2026-07-16-10-45-5.jpeg"
-  },
-  {
-   "titulo": "Macropop",
-   "resumo": "Paulo Padilha Palco Praça Gratuito Horários: 20h Atividade infantil",
-   "inicio": "2026-11-14",
-   "fim": "2026-11-14",
-   "horario": "20h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Infantil"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "f6d580a59044",
-   "shopping": "Open Mall The Square",
-   "bairro": "Granja Viana (Cotia)",
-   "regiao": "Grande SP",
-   "fonte": "Open Mall The Square",
-   "tipo_local": "Shopping",
-   "url": "https://openmallthesquare.com.br/eventos-nova/#macropop",
-   "imagem": null
   },
   {
    "titulo": "Maré de Histórias",
@@ -3051,87 +2916,6 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/25_IMG_6682_1_2026-06-11-13-40-07.jpg"
   },
   {
-   "titulo": "Oficinas Circenses e Picadeiro",
-   "resumo": "com Circo de Québra Público: Diversas idades Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Interlagos",
-   "inicio": "2026-11-14",
-   "fim": "2026-11-14",
-   "horario": "próxima sessão 14/11 às 15h10",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Cursos e Oficinas"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "f6affbc9a311",
-   "shopping": "Sesc Interlagos",
-   "bairro": "Interlagos",
-   "regiao": "Zona Sul",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/oficinas-circenses-e-picadeiro",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/24.08.25___Circo_de_Quebra_78_2026-09-22-17-37-48.jpg"
-  },
-  {
-   "titulo": "Rodamundos",
-   "resumo": "Duo VaPaÍ Público: Crianças, Diversas idades Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc Campo Limpo",
-   "inicio": "2026-11-14",
-   "fim": "2026-11-14",
-   "horario": "próxima sessão 14/11 às 17h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Shows, Espetáculos e Performances"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "5a6d3df5db22",
-   "shopping": "Sesc Campo Limpo",
-   "bairro": "Campo Limpo",
-   "regiao": "Zona Sul",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/rodamundos",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Copy-of-002_6662.png"
-  },
-  {
-   "titulo": "Sal Vincent",
-   "resumo": "Palco Praça Gratuito Horários: 14h Atividade infantil",
-   "inicio": "2026-11-14",
-   "fim": "2026-11-14",
-   "horario": "14h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Infantil"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "2eebdbcd57bd",
-   "shopping": "Open Mall The Square",
-   "bairro": "Granja Viana (Cotia)",
-   "regiao": "Grande SP",
-   "fonte": "Open Mall The Square",
-   "tipo_local": "Shopping",
-   "url": "https://openmallthesquare.com.br/eventos-nova/#sal-vincent",
-   "imagem": null
-  },
-  {
    "titulo": "Sarau das Crianças",
    "resumo": "com Cia Muvuca Público: Diversas idades Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc Santana",
    "inicio": "2026-11-14",
@@ -3157,33 +2941,6 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/sarau-das-criancas-3",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/MUVUCA_FOTO_2_Ulisses_Sulivan_2026-08-19-16-43-10.jpeg"
-  },
-  {
-   "titulo": "À mesa em família: registros de afeto e sabor",
-   "resumo": "com Bruno Bomtempo, fotógrafo de publicidade e gastronomia Público: Diversas idades Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Santo Amaro",
-   "inicio": "2026-11-14",
-   "fim": "2026-11-14",
-   "horario": "próxima sessão 14/11 às 12h30",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Cursos e Oficinas"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "f19356495d17",
-   "shopping": "Sesc Santo Amaro",
-   "bairro": "Santo Amaro",
-   "regiao": "Zona Sul",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/a-mesa-em-familia-registros-de-afeto-e-sabor",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/08/MesaEmFamilia_Portal.png"
   },
   {
    "titulo": "Angélica Sansone",
@@ -3989,7 +3746,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/Dfu_cEvhr52/",
-   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/906404478_18497870062108869_1695863902016407447_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=sMvb6Azgl5UQ7kNvwFwIl1j&_nc_oc=Adr9MLp1QUYthSPSbYLw-B0_Wj7Zq4T58Atl2hlw74AJNdVG_4e7uIn4JsYbCKdYaJE&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ei3MY2DTE8Rpe_Tlc0JgiQ&_nc_tpa=Q5bMBQJ3Yz6Gy994kgDrZ_BVP974_XZySNLzgr_PlyiLO0j0QQg7lgB5xufzevTjopyAqDnqEPisqPEu&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQRWpbL9TnpiVmjjw-1rthDey0xzO2sJGJJpmfdBswUhrg&oe=6AFEA41B"
+   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/906404478_18497870062108869_1695863902016407447_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=sMvb6Azgl5UQ7kNvwFwIl1j&_nc_oc=Adr9MLp1QUYthSPSbYLw-B0_Wj7Zq4T58Atl2hlw74AJNdVG_4e7uIn4JsYbCKdYaJE&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=KHVLW-Yq24yW8YxCHsHwjw&_nc_tpa=Q5bMBQKIlkk2yEzu3HNS7iJE5LEJfjDgS9atyFB6tdYXARarb0fR8I-11V82qztph83W4s7tB3xOU8Ca&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQTASvD7g7SKXAl25y2rMMHp3aS45Hi8GmwWylkyoU5fyQ&oe=6AFEDC5B"
   },
   {
    "titulo": "Cerâmica do território para o território - geração de renda e empoderamento",
@@ -5593,7 +5350,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/DfQgCVkscJr/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=vbR6B3k-YKoQ7kNvwHbDkig&_nc_oc=AdpFUMN06d1ElS_CA3Ksw-GkjZk6XSDgY_Xn-qQdcK9tEnm9GCTgdS1JwJffA3bpwNw&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ei3MY2DTE8Rpe_Tlc0JgiQ&_nc_tpa=Q5bMBQJ3nZefUkhogJ7YlCWcrp-K65dMuEt_q-l7mSonTpBOw5Oq92hunP2sdIKpBrh7S04C-EKpqgX9&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQStxBFnhtobJRf29iB2Rp7rPEXVFEZnt_Go704xSWy9Fw&oe=6AFE8E85"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=vbR6B3k-YKoQ7kNvwHbDkig&_nc_oc=AdpFUMN06d1ElS_CA3Ksw-GkjZk6XSDgY_Xn-qQdcK9tEnm9GCTgdS1JwJffA3bpwNw&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=KHVLW-Yq24yW8YxCHsHwjw&_nc_tpa=Q5bMBQJti2lv4g5Rg1-RIm2daq7MnIi6NnDA7yfk1g_4gV2E9HotNUfQROU0dcg5TB2B-tmjqlG064xQ&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQT39nMIPyExuVVnU-76QT68t5N51fqhCqyE6LGlOa2V4A&oe=6AFEFF05"
   },
   {
    "titulo": "Cinematerna",
