@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-15T18:03-03:00",
+ "gerado_em": "2026-11-16T06:03-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -41,7 +41,7 @@
    "shopping": "Shopping Jardim Sul",
    "url": "https://www.shoppingjardimsul.com.br/eventos",
    "status": "ok",
-   "eventos": 1
+   "eventos": 0
   },
   {
    "shopping": "Shopping Ibirapuera",
@@ -71,19 +71,19 @@
    "shopping": "Shopping Cidade São Paulo",
    "url": "https://shoppingcidadesp.com.br/eventos/",
    "status": "ok",
-   "eventos": 4
+   "eventos": 3
   },
   {
    "shopping": "Villa Romana Shopping",
    "url": "https://villaromanashopping.com.br/novidades/",
    "status": "ok",
-   "eventos": 4
+   "eventos": 3
   },
   {
    "shopping": "Shopping Itaquera",
    "url": "https://www.shoppingitaquera.com.br/novidades",
    "status": "ok",
-   "eventos": 6
+   "eventos": 5
   },
   {
    "shopping": "Shopping D",
@@ -107,7 +107,7 @@
    "shopping": "Open Mall The Square",
    "url": "https://openmallthesquare.com.br/eventos-nova/",
    "status": "ok",
-   "eventos": 28
+   "eventos": 26
   },
   {
    "shopping": "Shopping Cidade Jardim",
@@ -131,7 +131,7 @@
    "shopping": "Shopping Partage Santana",
    "url": "https://www.partagesantana.com.br/eventos",
    "status": "ok",
-   "eventos": 3
+   "eventos": 2
   },
   {
    "shopping": "Shopping Center Norte",
@@ -155,7 +155,7 @@
    "shopping": "Sesc SP",
    "url": "https://www.sescsp.org.br/programacao/",
    "status": "erro: HTTPError: HTTP Error 403: Forbidden",
-   "eventos": 132
+   "eventos": 123
   }
  ],
  "eventos": [
@@ -262,31 +262,6 @@
    "imagem": "https://sites.madnezz.com.br/api/site/upload/Novidade/202608211715251.png"
   },
   {
-   "titulo": "Monopoly Experience - Tesouros do Brasil",
-   "resumo": "Monopoly Experience | Tesouros do Brasil | Shopping Cidade São Paulo 16/09 qua. 16/09 a 15/11 Monopoly Experience | Tesouros do Brasil 🎩 Chegou a sua vez de jogar! Você foi convidado para entrar nos cofres secretos do Mr. Monopoly. Venha descobrir os tesouros do Brasil e viva sua próxima grande aventura! Descubra a…",
-   "inicio": "2026-09-16",
-   "fim": "2027-08-06",
-   "horario": "das 12h às 21h",
-   "faixa_etaria": "4 a 12 anos",
-   "gratuito": false,
-   "agendamento": true,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "7df5cbee574f",
-   "shopping": "Shopping Cidade São Paulo",
-   "bairro": "Bela Vista (Av. Paulista)",
-   "regiao": "Centro",
-   "fonte": "Shopping Cidade São Paulo",
-   "tipo_local": "Shopping",
-   "url": "https://shoppingcidadesp.com.br/evento/monopoly-experience-tesouros-do-brasil/",
-   "imagem": "https://shoppingcidadesp.com.br/wp-content/uploads/2026/09/700x900-01.png"
-  },
-  {
    "titulo": "Human Bodies – Maravilhas do Corpo Humano",
    "resumo": "Explore os mistérios da anatomia humana em uma experiência que une ciência, educação e arte. A exposição apresenta corpos reais preservados pela técnica de plastinação, permitindo observar de perto músculos, órgãos e sistemas do corpo humano com riqueza de detalhes. 📅 A partir de 01/10 ⏱️Horário de Funcionamento…",
    "inicio": "2026-09-23",
@@ -304,13 +279,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "936026f6e48e",
+   "id": "8cb91728c4e0",
    "shopping": "Shopping Anália Franco",
    "bairro": "Anália Franco",
    "regiao": "Zona Leste",
    "fonte": "Shopping Anália Franco",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppinganaliafranco.com.br/lazer-e-eventos/eventos/omat9gclyx-human-bodies-maravilhas-do-corpo-humano/",
+   "url": "https://www.shoppinganaliafranco.com.br/eventos/omat9gclyx-human-bodies-maravilhas-do-corpo-humano/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/20/5d/205d2b53-5e07-4c0f-a11c-626d0e401d55/hubimage__0x650_subsampling-2.webp"
   },
   {
@@ -343,31 +318,6 @@
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/cc/29/cc29a88f-42c3-4ace-ba0f-7c63a127302f/hubimage__0x650_subsampling-2.webp"
   },
   {
-   "titulo": "Jurassic Safari Circus",
-   "resumo": "O Jurassic Safari Circus chegou ao Partage Santana! Prepare-se para uma aventura cheia de emoção e diversão! Um espetáculo para toda a família, com personagens temáticos e momentos que vão encantar crianças e adultos. Local: Estacionamento ECO 4 Temporada: de 03/10 a 15/11 Sessões: Sextas-feiras, às 20h Sábados…",
-   "inicio": "2026-10-19",
-   "fim": "2026-11-15",
-   "horario": null,
-   "faixa_etaria": null,
-   "gratuito": null,
-   "agendamento": true,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "de3a263ccc89",
-   "shopping": "Shopping Partage Santana",
-   "bairro": "Santana",
-   "regiao": "Zona Norte",
-   "fonte": "Shopping Partage Santana",
-   "tipo_local": "Shopping",
-   "url": "https://www.partagesantana.com.br/eventos?novidade_id=54641",
-   "imagem": "https://sites.madnezz.com.br/api/site/upload/Novidade/202610191111071.png"
-  },
-  {
    "titulo": "Nacional Kart",
    "resumo": "Nacional Kart | Tietê Plaza 23/10 sex. 23/10 a 31/03 Nacional Kart Acelere a diversão no Tietê Plaza! Prepare-se para viver uma experiência cheia de adrenalina e velocidade! O Tietê Plaza recebe o Nacional Kart , a primeira pista de kart indoor da região Noroeste de São Paulo, trazendo uma nova opção de lazer para os…",
    "inicio": "2026-10-23",
@@ -391,31 +341,6 @@
    "tipo_local": "Shopping",
    "url": "https://tieteplaza.com.br/evento/nacional-kart/",
    "imagem": "https://tieteplaza.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-10-23-at-15.33.46.jpeg"
-  },
-  {
-   "titulo": "Made In Fogo - Música ao vivo e Gastronomia",
-   "resumo": "Nos dias 13, 14 e 15 de novembro, o Shopping Metrô Itaquera se transforma na capital do churrasco com a 22ª edição do Made in Fogo Festival BBQ. Depois de uma edição anterior na zona sul da capital, o evento chega a Itaquera com uma experiência completa de gastronomia, entretenimento e lazer para toda a família. O…",
-   "inicio": "2026-11-03",
-   "fim": "2026-11-15",
-   "horario": "das 17h às 22h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "f443818a8bbd",
-   "shopping": "Shopping Itaquera",
-   "bairro": "Itaquera",
-   "regiao": "Zona Leste",
-   "fonte": "Shopping Itaquera",
-   "tipo_local": "Shopping",
-   "url": "https://www.shoppingitaquera.com.br/novidade/made-fogo-musica-ao-vivo-e-gastronomia",
-   "imagem": "https://www.shoppingitaquera.com.br/sites/metro-itaquera/files/shopping-media/Novidade/2026-11/2937.3_Desdobramentos_Made_In_Fogo_Banner_app_1238x500.png"
   },
   {
    "titulo": "Arquitetando",
@@ -1791,33 +1716,6 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Atelie_Afro_Cultural___2026-09-06-11-05-31.jpg"
   },
   {
-   "titulo": "Cidade Brinquedo",
-   "resumo": "com Grupo Esparrama Público: Crianças, Diversas idades Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc 14 Bis",
-   "inicio": "2026-11-07",
-   "fim": "2026-11-15",
-   "horario": "próxima sessão 8/11 às 16h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Shows, Espetáculos e Performances"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "000e4651d739",
-   "shopping": "Sesc 14 Bis",
-   "bairro": "Bela Vista",
-   "regiao": "Centro",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/cidade-brinquedo-13",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/cidadebrinquedo.png"
-  },
-  {
    "titulo": "Corpo brincante: brincadeiras e cantigas",
    "resumo": "Com Ossaiê e Blenda Souto Público: Crianças Categorias: Encontros e Palestras Atividade gratuita Unidade: Sesc 14 Bis",
    "inicio": "2026-11-07",
@@ -2194,33 +2092,6 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/oculos-de-realidade-virtual_divulgacao.jpeg"
   },
   {
-   "titulo": "Esteira de Histórias: quem brinca um conto aumenta um ponto",
-   "resumo": "com Mi Casa: Educação e Cultura Público: Crianças Categorias: Encontros e Palestras Atividade gratuita Unidade: Sesc Casa Verde",
-   "inicio": "2026-11-08",
-   "fim": "2026-11-15",
-   "horario": "próxima sessão 15/11 às 15h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Encontros e Palestras"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "83d5fbcb4536",
-   "shopping": "Sesc Casa Verde",
-   "bairro": "Casa Verde",
-   "regiao": "Zona Norte",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/esteira-de-historias-quem-brinca-um-conto-aumenta-um-ponto",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Creditos-Jonathan-Borba.png"
-  },
-  {
    "titulo": "Eugênia E Os Robôs",
    "resumo": "inspirado no livro de Janaina Tokitaka, com direção de Thaís Medeiros Público: Crianças, Diversas idades Categorias: Shows, Espetáculos e Performances Unidade: Sesc Pinheiros",
    "inicio": "2026-11-08",
@@ -2319,13 +2190,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "4042c7c59a4e",
+   "id": "d279d3bddbdf",
    "shopping": "Shopping Anália Franco",
    "bairro": "Anália Franco",
    "regiao": "Zona Leste",
    "fonte": "Shopping Anália Franco",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppinganaliafranco.com.br/lazer-e-eventos/eventos/3gg1agadlh-oficina-solidaria-de-natal/",
+   "url": "https://www.shoppinganaliafranco.com.br/eventos/3gg1agadlh-oficina-solidaria-de-natal/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/94/4e/944eec43-a065-4114-a13f-7c9df03a7857/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2354,31 +2225,6 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/praticas-criativas-em-arte-e-natureza-local",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/fotos-prog-12.png"
-  },
-  {
-   "titulo": "Chegada Papai Noel 2026",
-   "resumo": "A Magia do Natal Chega ao Shopping Jardim Sul! ❄️🎁 O encanto da época mais esperada do ano já tem data e hora para ganhar forma. No dia 15 de novembro, daremos as boas-vindas oficiais à nossa temporada natalina com uma festa inesquecível! A celebração começa às 14h30, com um lindo e animado cortejo pelos corredores do…",
-   "inicio": "2026-11-09",
-   "fim": "2026-11-15",
-   "horario": "14h30, 16h30",
-   "faixa_etaria": null,
-   "gratuito": null,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": true,
-   "categorias": [],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "bb7d842db032",
-   "shopping": "Shopping Jardim Sul",
-   "bairro": "Morumbi / Vila Andrade",
-   "regiao": "Zona Sul",
-   "fonte": "Shopping Jardim Sul",
-   "tipo_local": "Shopping",
-   "url": "https://www.shoppingjardimsul.com.br/evento/chegada-papai-noel-2026",
-   "imagem": "https://www.shoppingjardimsul.com.br/sites/shopping-jardim-sul/files/shopping-media/Evento/2026-11/Banner%20Interno%20App%20-%201238%20x%20500%20px_ALT2.jpg"
   },
   {
    "titulo": "Natal de Ouro - 50 anos para celebrar!",
@@ -2448,13 +2294,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "52cea71d9626",
+   "id": "5e9ad836faf9",
    "shopping": "Shopping Anália Franco",
    "bairro": "Anália Franco",
    "regiao": "Zona Leste",
    "fonte": "Shopping Anália Franco",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppinganaliafranco.com.br/lazer-e-eventos/eventos/dim8nzgpnx-carrossel-do-analia/",
+   "url": "https://www.shoppinganaliafranco.com.br/eventos/dim8nzgpnx-carrossel-do-analia/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/30/01/30018bb9-0d89-4897-89ba-b1314f51b36b/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2475,41 +2321,14 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "dfed3f04ff06",
+   "id": "5befef14cae3",
    "shopping": "Shopping Anália Franco",
    "bairro": "Anália Franco",
    "regiao": "Zona Leste",
    "fonte": "Shopping Anália Franco",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppinganaliafranco.com.br/lazer-e-eventos/eventos/roa5zkqp6b-fotos-com-o-papai-noel/",
+   "url": "https://www.shoppinganaliafranco.com.br/eventos/roa5zkqp6b-fotos-com-o-papai-noel/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/f4/99/f49904a6-9e5e-4286-881d-894d7f509d90/hubimage__0x650_subsampling-2.png"
-  },
-  {
-   "titulo": "Herança Sagrada",
-   "resumo": "com Sandro Ayê Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc Interlagos",
-   "inicio": "2026-11-11",
-   "fim": "2026-11-15",
-   "horario": "próxima sessão 14/11 às 17h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Shows, Espetáculos e Performances"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "b5e00ad1a9c3",
-   "shopping": "Sesc Interlagos",
-   "bairro": "Interlagos",
-   "regiao": "Zona Sul",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/heranca-sagrada",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/11/IMG_7332_2026-10-27-18-41-36.jpeg"
   },
   {
    "titulo": "Teatrinho de Natal",
@@ -2529,13 +2348,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "69dfbdab00d3",
+   "id": "693e4f68a95f",
    "shopping": "Shopping Anália Franco",
    "bairro": "Anália Franco",
    "regiao": "Zona Leste",
    "fonte": "Shopping Anália Franco",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppinganaliafranco.com.br/lazer-e-eventos/eventos/tgodyan9fh-teatrinho-de-natal/",
+   "url": "https://www.shoppinganaliafranco.com.br/eventos/tgodyan9fh-teatrinho-de-natal/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/66/42/66424d84-26b0-44a8-9b81-7b54c9b56152/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2754,33 +2573,6 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/ChaveiroAmuletoAdinkta_NosRaizes.jpg"
   },
   {
-   "titulo": "Confecção de brinquedos de cabaça",
-   "resumo": "Programa Brincando Bantu Público: Crianças Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Belenzinho",
-   "inicio": "2026-11-14",
-   "fim": "2026-11-15",
-   "horario": "próxima sessão 15/11 às 16h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Cursos e Oficinas"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "4256ba8966c0",
-   "shopping": "Sesc Belenzinho",
-   "bairro": "Belenzinho",
-   "regiao": "Zona Leste",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/confeccao-de-brinquedos-de-cabaca",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/IMG_20240506_WA0044_2026-07-03-12-30-47.jpg"
-  },
-  {
    "titulo": "Introdução ao Lettering e Caligrafia",
    "resumo": "Com Danise Eliom Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Avenida Paulista",
    "inicio": "2026-11-14",
@@ -2862,33 +2654,6 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Mare_de_historias_EB_foto_Ana_Souza_2026-01-17-14-28-36.jpg"
   },
   {
-   "titulo": "Neguinha, Sim! O Espetáculo",
-   "resumo": "Direção, texto e dramaturgia: Renato Gama Público: Crianças, Diversas idades Categorias: Shows, Espetáculos e Performances Unidade: Sesc Bom Retiro",
-   "inicio": "2026-11-14",
-   "fim": "2026-11-15",
-   "horario": "próxima sessão 14/11 às 12h",
-   "faixa_etaria": null,
-   "gratuito": false,
-   "agendamento": true,
-   "como_agendar": null,
-   "link_inscricao": "https://www.sescsp.org.br/programacao/neguinha-sim-o-espetaculo",
-   "natal": false,
-   "categorias": [
-    "Shows, Espetáculos e Performances"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "9b59808846d2",
-   "shopping": "Sesc Bom Retiro",
-   "bairro": "Bom Retiro",
-   "regiao": "Centro",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/neguinha-sim-o-espetaculo",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Neguinha-Sim-O-Espetaculo.jpg"
-  },
-  {
    "titulo": "Obompó-Roponga: a encantaria das árvores",
    "resumo": "com O Jardim Público: Crianças Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc Pompeia",
    "inicio": "2026-11-14",
@@ -2943,33 +2708,6 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/MUVUCA_FOTO_2_Ulisses_Sulivan_2026-08-19-16-43-10.jpeg"
   },
   {
-   "titulo": "Angélica Sansone",
-   "resumo": "Palco Praça Gratuito Horários: 14h Atividade infantil",
-   "inicio": "2026-11-15",
-   "fim": "2026-11-15",
-   "horario": "14h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Infantil"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "32c1aec1dc70",
-   "shopping": "Open Mall The Square",
-   "bairro": "Granja Viana (Cotia)",
-   "regiao": "Grande SP",
-   "fonte": "Open Mall The Square",
-   "tipo_local": "Shopping",
-   "url": "https://openmallthesquare.com.br/eventos-nova/#angelica-sansone",
-   "imagem": null
-  },
-  {
    "titulo": "Bolsas Impermeáveis de Lona - Domingos",
    "resumo": "com Érica Campanha, educadora em Tecnologias e Artes do Sesc Interlagos Público: Adulto, Crianças, Diversas idades Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Interlagos",
    "inicio": "2026-11-15",
@@ -2995,166 +2733,6 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/bolsas-impermeaveis-de-lona-domingos",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/lonas.png"
-  },
-  {
-   "titulo": "Bons de bico: o fascinante mundo das aves",
-   "resumo": "Com Agentes de Educação Ambiental Público: Crianças Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Itaquera",
-   "inicio": "2026-11-15",
-   "fim": "2026-11-15",
-   "horario": "próxima sessão 15/11 às 15h30",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Cursos e Oficinas"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "ee0988093aa1",
-   "shopping": "Sesc Itaquera",
-   "bairro": "Itaquera",
-   "regiao": "Zona Leste",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/bons-de-bico-o-fascinante-mundo-das-aves-9",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2025/06/Bons-de-bico-o-fascinante-mundo-das-aves-Foto-Guilherme-de-Sousa-1.png"
-  },
-  {
-   "titulo": "Circo de Québra na Zona Sul me Alimenta",
-   "resumo": "com Circo de Québra Público: Diversas idades Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc Interlagos",
-   "inicio": "2026-11-15",
-   "fim": "2026-11-15",
-   "horario": "próxima sessão 15/11 às 15h20",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Shows, Espetáculos e Performances"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "5bceaee8007b",
-   "shopping": "Sesc Interlagos",
-   "bairro": "Interlagos",
-   "regiao": "Zona Sul",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/circo-de-quebra-na-zona-sul-me-alimenta",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/24.08.25___Circo_de_Quebra_78_2026-09-22-17-37-48.jpg"
-  },
-  {
-   "titulo": "Feriado De 15 De Novembro Terá Teatro Infantil E Encontro Com Personagens No Villa Romana Shopping - Villa Romana Shopping",
-   "resumo": "Espetáculo gratuito sobre lendas da Ilha será apresentado às 11h30; programação de domingo inclui atrações natalinas e horário especial de funcionamento",
-   "inicio": "2026-11-15",
-   "fim": "2026-11-15",
-   "horario": "11h30",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": true,
-   "categorias": [],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "11cb06b95a91",
-   "shopping": "Villa Romana Shopping",
-   "bairro": "Vila Romana",
-   "regiao": "Zona Oeste",
-   "fonte": "Villa Romana Shopping",
-   "tipo_local": "Shopping",
-   "url": "https://villaromanashopping.com.br/novidades/feriado-de-15-de-novembro-tera-teatro-infantil-e-encontro-com-personagens-no-villa-romana-shopping/",
-   "imagem": "https://villaromanashopping.com.br/wp-content/uploads/2026/11/dct_novembro_ads_15.11_site_desktop_1170x440-1.jpg"
-  },
-  {
-   "titulo": "Folk do Pântano",
-   "resumo": "Palco Praça Gratuito Horários: 17h Atividade infantil",
-   "inicio": "2026-11-15",
-   "fim": "2026-11-15",
-   "horario": "17h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Infantil"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "dcd10c6368e5",
-   "shopping": "Open Mall The Square",
-   "bairro": "Granja Viana (Cotia)",
-   "regiao": "Grande SP",
-   "fonte": "Open Mall The Square",
-   "tipo_local": "Shopping",
-   "url": "https://openmallthesquare.com.br/eventos-nova/#folk-do-pantano",
-   "imagem": null
-  },
-  {
-   "titulo": "Jongo de Embu das Artes",
-   "resumo": "Com Comunidade Jongo de Embu das Artes Público: Crianças, Diversas idades Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Campo Limpo",
-   "inicio": "2026-11-15",
-   "fim": "2026-11-15",
-   "horario": "próxima sessão 15/11 às 17h30",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Cursos e Oficinas"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "62560b53e188",
-   "shopping": "Sesc Campo Limpo",
-   "bairro": "Campo Limpo",
-   "regiao": "Zona Sul",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/jongo-de-embu-das-artes-2",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/pexels-vurzie-kim-325095862-27953752.png"
-  },
-  {
-   "titulo": "Lili Flor & Paulo Pixu",
-   "resumo": "apresentam Brinquedos de Palavra Público: Crianças, Diversas idades Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc Santo Amaro",
-   "inicio": "2026-11-15",
-   "fim": "2026-11-15",
-   "horario": "próxima sessão 15/11 às 18h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Shows, Espetáculos e Performances"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "1dacc78aa22d",
-   "shopping": "Sesc Santo Amaro",
-   "bairro": "Santo Amaro",
-   "regiao": "Zona Sul",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/lili-flor-paulo-pixu-3",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/LiliFlor_PauloPixu_JPSaraiva.jpg"
   },
   {
    "titulo": "História na Janela, Boca sem Tramela: Contos de Oralidade Afro- Brasileira",
@@ -3746,7 +3324,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/Dfu_cEvhr52/",
-   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/906404478_18497870062108869_1695863902016407447_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=sMvb6Azgl5UQ7kNvwFwIl1j&_nc_oc=Adr9MLp1QUYthSPSbYLw-B0_Wj7Zq4T58Atl2hlw74AJNdVG_4e7uIn4JsYbCKdYaJE&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Fy5DD1zOo9q4CSTuUPGkpA&_nc_tpa=Q5bMBQK3Z0s31iKwmyoE6BdcyzOzP4kfk0heKvSJdYxQUdjpvI1dKeCObEuXxwlDip6Q8LO_4hFmIKHt&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQROrpjG0xkW3vNIJXo6NtzxeCXwsRP5I32qIM1QVthodQ&oe=6AFFF59B"
+   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/906404478_18497870062108869_1695863902016407447_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=sMvb6Azgl5UQ7kNvwFwIl1j&_nc_oc=Adr9MLp1QUYthSPSbYLw-B0_Wj7Zq4T58Atl2hlw74AJNdVG_4e7uIn4JsYbCKdYaJE&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=2bXSgZUsq5CIDfUhGsPuXA&_nc_tpa=Q5bMBQL5c68cEw1wu9wUDlKeBS50YcdadgdYS29H7UY_2JChfIWJNpgSCFKxNWQj_tlqPNmYmFCPc-u8&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQTbMH2FvHvgvvcUi9JDG8fzZn1p9wOP3xSTAGVrUJZ0PQ&oe=6B002DDB"
   },
   {
    "titulo": "Cerâmica do território para o território - geração de renda e empoderamento",
@@ -5350,7 +4928,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/DfQgCVkscJr/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=vbR6B3k-YKoQ7kNvwHbDkig&_nc_oc=AdpFUMN06d1ElS_CA3Ksw-GkjZk6XSDgY_Xn-qQdcK9tEnm9GCTgdS1JwJffA3bpwNw&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Fy5DD1zOo9q4CSTuUPGkpA&_nc_tpa=Q5bMBQIKIz4hqZBwWG7uUpWdWdjhGioNn--aNAcDVL7i1yIs8uVouekCG59rcG-vdelCRThN1TsHm-hV&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRsksnsLXnVuMO86EC9uL0EWRGkYvatFlzI6wOBPCKfWQ&oe=6AFFE005"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=vbR6B3k-YKoQ7kNvwHbDkig&_nc_oc=AdpFUMN06d1ElS_CA3Ksw-GkjZk6XSDgY_Xn-qQdcK9tEnm9GCTgdS1JwJffA3bpwNw&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=2bXSgZUsq5CIDfUhGsPuXA&_nc_tpa=Q5bMBQK1TheC0cuKxg7SzboeQB537_xtafh2DSs6JttcgX7j3BN9Lb8C-GNL34hKWkBoNRNhN5YYYgO_&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTEBLy7k0dPGRLMpRqIJpXRCVePj9yUGwPUV25Ico6FCg&oe=6B005085"
   },
   {
    "titulo": "Cinematerna",
