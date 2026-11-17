@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-16T18:03-03:00",
+ "gerado_em": "2026-11-17T06:03-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -16,7 +16,7 @@
   {
    "shopping": "Shopping Vila Olímpia",
    "url": "https://www.shoppingvilaolimpia.com.br/eventos/",
-   "status": "ok",
+   "status": "erro: HTTPError: HTTP Error 500: Internal Server Error",
    "eventos": 1
   },
   {
@@ -3324,7 +3324,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/Dfu_cEvhr52/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/915098692_18498320650108869_30718427924392948_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=kfHJlq45rfEQ7kNvwH92xs3&_nc_oc=Ado2NWS9wEUOfdjM1QKuUOHMOicHEuBIrIpzYafqP1mZuXjFDtgx8GKVJT9AnEFQdvc&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=j-51G0vppL45ZQh6FafKNg&_nc_tpa=Q5bMBQLd-mc8lLd8o9zX26wPSvoJRfKQd68-citRWgINY8S9nZ0yOixos5BAjEsRD4wTG9SVDe4-DdCa&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQRufDg0AmWfuwBl4H08llR8V2j1tX1e6VcTWkP3IDPWjg&oe=6B0159A2"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/915098692_18498320650108869_30718427924392948_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=kfHJlq45rfEQ7kNvwH92xs3&_nc_oc=Ado2NWS9wEUOfdjM1QKuUOHMOicHEuBIrIpzYafqP1mZuXjFDtgx8GKVJT9AnEFQdvc&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=BWfjBeP1hXwBpItCDN0bDQ&_nc_tpa=Q5bMBQISd10bLqGInYO4WMmu2ZqIt49lo-3k-ZDamELcRo0V3TRo8LGDq7cNr0zlGMxjwALJDqxHS2XP&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQRSDO1uxlF4o6wuDFJ8Wit4IynovMzGbsqUhaEkOnWR5A&oe=6B0191E2"
   },
   {
    "titulo": "Cerâmica do território para o território - geração de renda e empoderamento",
@@ -4928,7 +4928,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/DfQgCVkscJr/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Cbqom63IVWIQ7kNvwGfFgk9&_nc_oc=AdogIwq6Wop9l6ta8f-Fwof9p6381jvdzfSY37oBmKxED9SarYrpkFd3nF30Jk2lCA0&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=j-51G0vppL45ZQh6FafKNg&_nc_tpa=Q5bMBQIw8LT9431GQkN8-kLhdGyYANHVElJ81NcG2z7iRdH5cpyvhOInzY2_QgR5yxiUGtt2mqoCd-r_&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTtr-Q7G4-CSrzGOgll3SLUuPiCvFJPeRgARKMwk2pPPQ&oe=6B013185"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Cbqom63IVWIQ7kNvwGfFgk9&_nc_oc=AdogIwq6Wop9l6ta8f-Fwof9p6381jvdzfSY37oBmKxED9SarYrpkFd3nF30Jk2lCA0&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=BWfjBeP1hXwBpItCDN0bDQ&_nc_tpa=Q5bMBQJwi_DZ_ho-tPmdmF-AVbc2F8X0YJmAiXzQ6KmlTisIWUDgTSQEVNUqC_D97QK35AgVuaACDCox&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRixB1o1vSRUvkjJprH_ed7v5P2aRnkwEBAUuKVe1WINw&oe=6B01A205"
   },
   {
    "titulo": "Cinematerna",
