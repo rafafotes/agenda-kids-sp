@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-17T06:03-03:00",
+ "gerado_em": "2026-11-17T18:03-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -16,14 +16,14 @@
   {
    "shopping": "Shopping Vila Olímpia",
    "url": "https://www.shoppingvilaolimpia.com.br/eventos/",
-   "status": "erro: HTTPError: HTTP Error 500: Internal Server Error",
+   "status": "ok",
    "eventos": 1
   },
   {
    "shopping": "JK Iguatemi",
    "url": "https://iguatemi.com.br/jkiguatemi/eventos",
    "status": "ok",
-   "eventos": 0
+   "eventos": 1
   },
   {
    "shopping": "Iguatemi São Paulo",
@@ -101,7 +101,7 @@
    "shopping": "Shopping União",
    "url": "https://www.shoppinguniao.com.br/",
    "status": "ok",
-   "eventos": 2
+   "eventos": 3
   },
   {
    "shopping": "Open Mall The Square",
@@ -131,7 +131,7 @@
    "shopping": "Shopping Partage Santana",
    "url": "https://www.partagesantana.com.br/eventos",
    "status": "ok",
-   "eventos": 2
+   "eventos": 3
   },
   {
    "shopping": "Shopping Center Norte",
@@ -279,13 +279,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "936026f6e48e",
+   "id": "8cb91728c4e0",
    "shopping": "Shopping Anália Franco",
    "bairro": "Anália Franco",
    "regiao": "Zona Leste",
    "fonte": "Shopping Anália Franco",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppinganaliafranco.com.br/lazer-e-eventos/eventos/omat9gclyx-human-bodies-maravilhas-do-corpo-humano/",
+   "url": "https://www.shoppinganaliafranco.com.br/eventos/omat9gclyx-human-bodies-maravilhas-do-corpo-humano/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/20/5d/205d2b53-5e07-4c0f-a11c-626d0e401d55/hubimage__0x650_subsampling-2.webp"
   },
   {
@@ -2190,13 +2190,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "4042c7c59a4e",
+   "id": "d279d3bddbdf",
    "shopping": "Shopping Anália Franco",
    "bairro": "Anália Franco",
    "regiao": "Zona Leste",
    "fonte": "Shopping Anália Franco",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppinganaliafranco.com.br/lazer-e-eventos/eventos/3gg1agadlh-oficina-solidaria-de-natal/",
+   "url": "https://www.shoppinganaliafranco.com.br/eventos/3gg1agadlh-oficina-solidaria-de-natal/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/94/4e/944eec43-a065-4114-a13f-7c9df03a7857/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2294,13 +2294,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "52cea71d9626",
+   "id": "5e9ad836faf9",
    "shopping": "Shopping Anália Franco",
    "bairro": "Anália Franco",
    "regiao": "Zona Leste",
    "fonte": "Shopping Anália Franco",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppinganaliafranco.com.br/lazer-e-eventos/eventos/dim8nzgpnx-carrossel-do-analia/",
+   "url": "https://www.shoppinganaliafranco.com.br/eventos/dim8nzgpnx-carrossel-do-analia/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/30/01/30018bb9-0d89-4897-89ba-b1314f51b36b/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2321,13 +2321,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "dfed3f04ff06",
+   "id": "5befef14cae3",
    "shopping": "Shopping Anália Franco",
    "bairro": "Anália Franco",
    "regiao": "Zona Leste",
    "fonte": "Shopping Anália Franco",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppinganaliafranco.com.br/lazer-e-eventos/eventos/roa5zkqp6b-fotos-com-o-papai-noel/",
+   "url": "https://www.shoppinganaliafranco.com.br/eventos/roa5zkqp6b-fotos-com-o-papai-noel/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/f4/99/f49904a6-9e5e-4286-881d-894d7f509d90/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2348,13 +2348,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "69dfbdab00d3",
+   "id": "693e4f68a95f",
    "shopping": "Shopping Anália Franco",
    "bairro": "Anália Franco",
    "regiao": "Zona Leste",
    "fonte": "Shopping Anália Franco",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppinganaliafranco.com.br/lazer-e-eventos/eventos/tgodyan9fh-teatrinho-de-natal/",
+   "url": "https://www.shoppinganaliafranco.com.br/eventos/tgodyan9fh-teatrinho-de-natal/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/66/42/66424d84-26b0-44a8-9b81-7b54c9b56152/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2760,6 +2760,56 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/historia-na-janela-boca-sem-tramela-contos-de-oralidade-afro-brasileira",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/imagem_2026-07-10-21-04-18.png"
+  },
+  {
+   "titulo": "Horários de atendimento com o Papai Noel",
+   "resumo": "De 14/11 a 24/12, o Papai Noel estará no Partage Santana para receber as crianças e tirar fotos com toda a família! Terça a sábado: 13h às 22h Domingos e feriados: 13h às 20h 24/12: 12h às 18h Informações importantes: - Não haverá atendimento às segundas-feiras. - Intervalo das 17h às 18h. - A fila será encerrada 15…",
+   "inicio": "2026-11-17",
+   "fim": "2026-12-24",
+   "horario": "das 13h às 22h",
+   "faixa_etaria": null,
+   "gratuito": null,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": true,
+   "categorias": [],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "da5b262b0cba",
+   "shopping": "Shopping Partage Santana",
+   "bairro": "Santana",
+   "regiao": "Zona Norte",
+   "fonte": "Shopping Partage Santana",
+   "tipo_local": "Shopping",
+   "url": "https://www.partagesantana.com.br/eventos?novidade_id=54859",
+   "imagem": "https://sites.madnezz.com.br/api/site/upload/Novidade/202611171713281.png"
+  },
+  {
+   "titulo": "Natal no JK Iguatemi",
+   "resumo": "Neste Natal, o JK Iguatemi convida as crianças e suas famílias para vivenciarem momentos especiais em um ambiente repleto de encanto e imaginação.",
+   "inicio": "2026-11-17",
+   "fim": null,
+   "horario": null,
+   "faixa_etaria": null,
+   "gratuito": null,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": true,
+   "categorias": [],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "e6579013f3ff",
+   "shopping": "JK Iguatemi",
+   "bairro": "Vila Olímpia",
+   "regiao": "Zona Sul",
+   "fonte": "JK Iguatemi",
+   "tipo_local": "Shopping",
+   "url": "https://iguatemi.com.br/jkiguatemi/eventos/natal-no-jk-iguatemi-2026",
+   "imagem": "https://storage.googleapis.com/strapi-igta/trono1_DESK_14c9b941e7/trono1_DESK_14c9b941e7.png"
   },
   {
    "titulo": "Neris Rodrigues",
@@ -3324,7 +3374,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/Dfu_cEvhr52/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/915098692_18498320650108869_30718427924392948_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=kfHJlq45rfEQ7kNvwH92xs3&_nc_oc=Ado2NWS9wEUOfdjM1QKuUOHMOicHEuBIrIpzYafqP1mZuXjFDtgx8GKVJT9AnEFQdvc&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=BWfjBeP1hXwBpItCDN0bDQ&_nc_tpa=Q5bMBQISd10bLqGInYO4WMmu2ZqIt49lo-3k-ZDamELcRo0V3TRo8LGDq7cNr0zlGMxjwALJDqxHS2XP&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQRSDO1uxlF4o6wuDFJ8Wit4IynovMzGbsqUhaEkOnWR5A&oe=6B0191E2"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/915098692_18498320650108869_30718427924392948_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=kfHJlq45rfEQ7kNvwH92xs3&_nc_oc=Ado2NWS9wEUOfdjM1QKuUOHMOicHEuBIrIpzYafqP1mZuXjFDtgx8GKVJT9AnEFQdvc&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=YxBHcJ21zqXSyBBhQ5C-3w&_nc_tpa=Q5bMBQJdrkZOHIWUkMx7bkvW2Ls9eVEH8AoFX-HuNsP2rZoR_nmURXlFVzHprUw-w9UPDTQYm5OYkyot&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQQK3oGS5i7XNqhVTGGvw0GPoc6qk_ZWybQfVP8pM4g7Kg&oe=6B02AB22"
   },
   {
    "titulo": "Cerâmica do território para o território - geração de renda e empoderamento",
@@ -3433,6 +3483,31 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/maos-que-brincam-2",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Fotos-para-Portal-26.png"
+  },
+  {
+   "titulo": "O Papai Noel está preparando uma chegada pra lá de especial!",
+   "resumo": "O Papai Noel está preparando uma chegada pra lá de especial!🎅 Neste Natal, o bom velhinho vai deixar o trenó de lado e chegar pelos ares para espalhar ainda mais encanto e alegria por Osasco! 🚁 Venha viver esse momento especial com a gente. É neste sábado, dia 21/11: 10h30 - Show Infantil - Maria Clara e JP 12h -…",
+   "inicio": "2026-11-21",
+   "fim": "2026-11-21",
+   "horario": "10h30, 12h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": true,
+   "categorias": [],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "cef654e2ef94",
+   "shopping": "Shopping União",
+   "bairro": "Osasco",
+   "regiao": "Grande SP",
+   "fonte": "Shopping União",
+   "tipo_local": "Shopping",
+   "url": "https://www.instagram.com/reel/Df2rPo1h6EO/",
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/911668098_18498529531108869_3476684062558574841_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=S31W258a7e0Q7kNvwFQPro7&_nc_oc=AdrGpR_4oq0H-Fjmt3zIwdV7nD9himnxOPwEnSGnNCc7Ki7NVLPrgtxnwpDBRuU5BNg&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=YxBHcJ21zqXSyBBhQ5C-3w&_nc_tpa=Q5bMBQJWEXYT-QxgqQvx1MLLS8uWVSqt5O6XA-HRQGRJly7biGsZzaVkbfzEy-n41C6xb30oy088dfUl&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTgLktpqZUem6jgVua7hl2SwBZL9b2flRz1kiF0RxIQ3g&oe=6B0279A6"
   },
   {
    "titulo": "Projeto Observando os Rios",
@@ -4928,7 +5003,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/DfQgCVkscJr/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Cbqom63IVWIQ7kNvwGfFgk9&_nc_oc=AdogIwq6Wop9l6ta8f-Fwof9p6381jvdzfSY37oBmKxED9SarYrpkFd3nF30Jk2lCA0&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=BWfjBeP1hXwBpItCDN0bDQ&_nc_tpa=Q5bMBQJwi_DZ_ho-tPmdmF-AVbc2F8X0YJmAiXzQ6KmlTisIWUDgTSQEVNUqC_D97QK35AgVuaACDCox&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRixB1o1vSRUvkjJprH_ed7v5P2aRnkwEBAUuKVe1WINw&oe=6B01A205"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Cbqom63IVWIQ7kNvwGfFgk9&_nc_oc=AdogIwq6Wop9l6ta8f-Fwof9p6381jvdzfSY37oBmKxED9SarYrpkFd3nF30Jk2lCA0&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=YxBHcJ21zqXSyBBhQ5C-3w&_nc_tpa=Q5bMBQJ8DMIpXqEGQB4EVO_0J6AdLCb5_SFfdWndY5tst7pGzlP8tIYDiufyxBe2-AHMTfyq7nCjdGS9&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQStyg6ylA5BtulK-MRM2NDAhL39Z9mLAucVF3r2XtjpfQ&oe=6B028305"
   },
   {
    "titulo": "Cinematerna",
