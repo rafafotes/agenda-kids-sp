@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-18T06:03-03:00",
+ "gerado_em": "2026-11-18T18:03-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -107,7 +107,7 @@
    "shopping": "Open Mall The Square",
    "url": "https://openmallthesquare.com.br/eventos-nova/",
    "status": "ok",
-   "eventos": 26
+   "eventos": 25
   },
   {
    "shopping": "Shopping Cidade Jardim",
@@ -279,13 +279,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "8cb91728c4e0",
+   "id": "936026f6e48e",
    "shopping": "Shopping Anália Franco",
    "bairro": "Anália Franco",
    "regiao": "Zona Leste",
    "fonte": "Shopping Anália Franco",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppinganaliafranco.com.br/eventos/omat9gclyx-human-bodies-maravilhas-do-corpo-humano/",
+   "url": "https://www.shoppinganaliafranco.com.br/lazer-e-eventos/eventos/omat9gclyx-human-bodies-maravilhas-do-corpo-humano/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/20/5d/205d2b53-5e07-4c0f-a11c-626d0e401d55/hubimage__0x650_subsampling-2.webp"
   },
   {
@@ -2165,13 +2165,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "d279d3bddbdf",
+   "id": "4042c7c59a4e",
    "shopping": "Shopping Anália Franco",
    "bairro": "Anália Franco",
    "regiao": "Zona Leste",
    "fonte": "Shopping Anália Franco",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppinganaliafranco.com.br/eventos/3gg1agadlh-oficina-solidaria-de-natal/",
+   "url": "https://www.shoppinganaliafranco.com.br/lazer-e-eventos/eventos/3gg1agadlh-oficina-solidaria-de-natal/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/94/4e/944eec43-a065-4114-a13f-7c9df03a7857/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2269,13 +2269,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "5e9ad836faf9",
+   "id": "52cea71d9626",
    "shopping": "Shopping Anália Franco",
    "bairro": "Anália Franco",
    "regiao": "Zona Leste",
    "fonte": "Shopping Anália Franco",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppinganaliafranco.com.br/eventos/dim8nzgpnx-carrossel-do-analia/",
+   "url": "https://www.shoppinganaliafranco.com.br/lazer-e-eventos/eventos/dim8nzgpnx-carrossel-do-analia/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/30/01/30018bb9-0d89-4897-89ba-b1314f51b36b/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2296,13 +2296,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "5befef14cae3",
+   "id": "dfed3f04ff06",
    "shopping": "Shopping Anália Franco",
    "bairro": "Anália Franco",
    "regiao": "Zona Leste",
    "fonte": "Shopping Anália Franco",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppinganaliafranco.com.br/eventos/roa5zkqp6b-fotos-com-o-papai-noel/",
+   "url": "https://www.shoppinganaliafranco.com.br/lazer-e-eventos/eventos/roa5zkqp6b-fotos-com-o-papai-noel/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/f4/99/f49904a6-9e5e-4286-881d-894d7f509d90/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2323,13 +2323,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "693e4f68a95f",
+   "id": "69dfbdab00d3",
    "shopping": "Shopping Anália Franco",
    "bairro": "Anália Franco",
    "regiao": "Zona Leste",
    "fonte": "Shopping Anália Franco",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppinganaliafranco.com.br/eventos/tgodyan9fh-teatrinho-de-natal/",
+   "url": "https://www.shoppinganaliafranco.com.br/lazer-e-eventos/eventos/tgodyan9fh-teatrinho-de-natal/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/66/42/66424d84-26b0-44a8-9b81-7b54c9b56152/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -3295,7 +3295,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/Dfu_cEvhr52/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/915098692_18498320650108869_30718427924392948_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=kfHJlq45rfEQ7kNvwH92xs3&_nc_oc=Ado2NWS9wEUOfdjM1QKuUOHMOicHEuBIrIpzYafqP1mZuXjFDtgx8GKVJT9AnEFQdvc&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=42Qj1GbaXaWgoCM4tERAXg&_nc_tpa=Q5bMBQJz8cVVmWA9Dznq5Llyty8Ja6qKfgVSBdjFK5dvED8LGLGpMAMR68IJFZvw86pSgeR0brqtbOrY&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQShbp6wKdqSgCo8YQyEpl8Fh0fltuVhlijFbmpms6hWeg&oe=6B02E362"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/915098692_18498320650108869_30718427924392948_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=5T--8qxRri0Q7kNvwHueAon&_nc_oc=AdqbzsfLuMUk0s-SDJtokXX2FuQvUGdESx8bSdRy13-uEtrliD7Wx6jdXqkAU9GM2dY&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=hHslQb_-Opgj9nWhdgMZwA&_nc_tpa=Q5bMBQK0BMd10RvaqarcQod-Ptlg_Xw4NOnlccdLjqWRAIlpuCWf1fDCTJ0jwnG2xDJBgIt9wCWwnHe8&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQSv15txjSYSvJdmNxzjEfTs7lqGLTevY9lHhY9kukpbIA&oe=6B03FCA2"
   },
   {
    "titulo": "Cerâmica do território para o território - geração de renda e empoderamento",
@@ -3349,6 +3349,33 @@
    "fonte": "Open Mall The Square",
    "tipo_local": "Shopping",
    "url": "https://openmallthesquare.com.br/eventos-nova/#chinela-voadora",
+   "imagem": null
+  },
+  {
+   "titulo": "Dan Marques",
+   "resumo": "Palco Praça Gratuito Horários: 17h, 14h Atividade infantil",
+   "inicio": "2026-11-21",
+   "fim": "2026-11-28",
+   "horario": "17h, 14h",
+   "faixa_etaria": null,
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "37ebcec2d3b6",
+   "shopping": "Open Mall The Square",
+   "bairro": "Granja Viana (Cotia)",
+   "regiao": "Grande SP",
+   "fonte": "Open Mall The Square",
+   "tipo_local": "Shopping",
+   "url": "https://openmallthesquare.com.br/eventos-nova/#dan-marques",
    "imagem": null
   },
   {
@@ -3428,7 +3455,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/Df2rPo1h6EO/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/911668098_18498529531108869_3476684062558574841_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=S31W258a7e0Q7kNvwFQPro7&_nc_oc=AdrGpR_4oq0H-Fjmt3zIwdV7nD9himnxOPwEnSGnNCc7Ki7NVLPrgtxnwpDBRuU5BNg&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=42Qj1GbaXaWgoCM4tERAXg&_nc_tpa=Q5bMBQKS7smcKwdE3lq2riaSD9u_upiQhLocPlN7DAH8-Ilp866UOnXGjkmfI5PgL65dmcKLCmo441vA&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRdogXqzEo7EALC-dq6r5bmpv4D8IsVszpaVprjS4qmzQ&oe=6B02EA26"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/911668098_18498529531108869_3476684062558574841_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=S31W258a7e0Q7kNvwFQPro7&_nc_oc=AdrGpR_4oq0H-Fjmt3zIwdV7nD9himnxOPwEnSGnNCc7Ki7NVLPrgtxnwpDBRuU5BNg&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=hHslQb_-Opgj9nWhdgMZwA&_nc_tpa=Q5bMBQL1I2mIvx2Qc_5Gl6Kwe5bGpgZsWPOiVt4429Jwn113yiitfyrsAOqfrFn8ede74qxqtxpZILVs&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSEf6GSxow4isShcp_F68f_SfYhxZUjZ_G-dr4usZ09vQ&oe=6B03CB26"
   },
   {
    "titulo": "Projeto Observando os Rios",
@@ -3482,33 +3509,6 @@
    "fonte": "Open Mall The Square",
    "tipo_local": "Shopping",
    "url": "https://openmallthesquare.com.br/eventos-nova/#sampel-trio",
-   "imagem": null
-  },
-  {
-   "titulo": "Tributo Djavan",
-   "resumo": "Felipe Soul Palco Praça Gratuito Horários: 17h Atividade infantil",
-   "inicio": "2026-11-21",
-   "fim": "2026-11-21",
-   "horario": "17h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Infantil"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "aa8b16651bda",
-   "shopping": "Open Mall The Square",
-   "bairro": "Granja Viana (Cotia)",
-   "regiao": "Grande SP",
-   "fonte": "Open Mall The Square",
-   "tipo_local": "Shopping",
-   "url": "https://openmallthesquare.com.br/eventos-nova/#tributo-djavan",
    "imagem": null
   },
   {
@@ -3889,12 +3889,12 @@
   },
   {
    "titulo": "Feriado Prolongado Terá Papai Noel E Encontro Com Personagens No Villa Romana Shopping - Villa Romana Shopping",
-   "resumo": "Na sexta-feira (20), shopping terá horário especial; atrações de Natal seguem durante o fim de semana, com encontro infantil no domingo (22) Natal no Villa Romana Shopping reúne Papai Noel, corais e ação solidária até dezembro Programação em Florianópolis inclui encontros diários com o Bom Velhinho, apresentações…",
+   "resumo": "Na sexta-feira (20), shopping terá horário especial; atrações de Natal seguem durante o fim de semana, com encontro infantil no domingo (22)",
    "inicio": null,
    "fim": "2026-11-27",
    "horario": null,
    "faixa_etaria": null,
-   "gratuito": true,
+   "gratuito": null,
    "agendamento": false,
    "como_agendar": null,
    "link_inscricao": null,
@@ -3990,33 +3990,6 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/construcao-de-boneco-cabecao-3",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/SucatasambulantesSescGuarulhos_2_2026-07-31-11-46-5.jpg"
-  },
-  {
-   "titulo": "Dan Marques",
-   "resumo": "Palco Praça Gratuito Horários: 14h Atividade infantil",
-   "inicio": "2026-11-28",
-   "fim": "2026-11-28",
-   "horario": "14h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Infantil"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "37ebcec2d3b6",
-   "shopping": "Open Mall The Square",
-   "bairro": "Granja Viana (Cotia)",
-   "regiao": "Grande SP",
-   "fonte": "Open Mall The Square",
-   "tipo_local": "Shopping",
-   "url": "https://openmallthesquare.com.br/eventos-nova/#dan-marques",
-   "imagem": null
   },
   {
    "titulo": "FEIRA - Festival de Ideias e Realidades em Agroecologia - Floresta que Cresce",
@@ -4924,7 +4897,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/DfQgCVkscJr/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Cbqom63IVWIQ7kNvwGfFgk9&_nc_oc=AdogIwq6Wop9l6ta8f-Fwof9p6381jvdzfSY37oBmKxED9SarYrpkFd3nF30Jk2lCA0&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=42Qj1GbaXaWgoCM4tERAXg&_nc_tpa=Q5bMBQLM17CT35sv-vzH5Oqvcsu-U1lZXSFdAu0uPKuQZSKQ2OM1sl7mZ_2ZE1qr80fQx2OFjlfp3qwq&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQT_Ldi0tbtyeCbGJHfj9TAUzrbqK0_mo3cdBRKJIOVu1w&oe=6B02F385"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Cbqom63IVWIQ7kNvwGfFgk9&_nc_oc=AdogIwq6Wop9l6ta8f-Fwof9p6381jvdzfSY37oBmKxED9SarYrpkFd3nF30Jk2lCA0&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=hHslQb_-Opgj9nWhdgMZwA&_nc_tpa=Q5bMBQLmfmLh-0XriZdrjOOgvbNdeqCqcqzASbgvu47_xEDTjqsOT8fLwueaijkHeY4-pc_iANVGVb5R&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQR00KRSgl0HYKS36wfsGOPFANzfe35TXnAM3VjrE_rP7w&oe=6B03D485"
   },
   {
    "titulo": "Cinematerna",
