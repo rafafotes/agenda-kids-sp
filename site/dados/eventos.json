@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-18T18:03-03:00",
+ "gerado_em": "2026-11-19T06:04-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -101,7 +101,7 @@
    "shopping": "Shopping União",
    "url": "https://www.shoppinguniao.com.br/",
    "status": "ok",
-   "eventos": 3
+   "eventos": 4
   },
   {
    "shopping": "Open Mall The Square",
@@ -177,13 +177,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "add0858f046e",
+   "id": "6ffe604a9d31",
    "shopping": "MorumbiShopping",
    "bairro": "Morumbi",
    "regiao": "Zona Sul",
    "fonte": "MorumbiShopping",
    "tipo_local": "Shopping",
-   "url": "https://www.morumbishopping.com.br/eventos/zzat1t1uf7-diversao-e-na-hotzone/",
+   "url": "https://www.morumbishopping.com.br/lazer-e-eventos/eventos/zzat1t1uf7-diversao-e-na-hotzone/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/12/2d/122df6c7-2d3d-4958-ac17-554ced8d647f/hubimage__0x650_subsampling-2.webp"
   },
   {
@@ -308,13 +308,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "3aaaa72c86d0",
+   "id": "6d9b4725f0bd",
    "shopping": "Shopping Vila Olímpia",
    "bairro": "Vila Olímpia",
    "regiao": "Zona Sul",
    "fonte": "Shopping Vila Olímpia",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppingvilaolimpia.com.br/eventos/fjigfnncop-vr-land/",
+   "url": "https://www.shoppingvilaolimpia.com.br/lazer-e-eventos/eventos/fjigfnncop-vr-land/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/cc/29/cc29a88f-42c3-4ace-ba0f-7c63a127302f/hubimage__0x650_subsampling-2.webp"
   },
   {
@@ -2428,13 +2428,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "67cd71f2262a",
+   "id": "5b9a93435ae7",
    "shopping": "MorumbiShopping",
    "bairro": "Morumbi",
    "regiao": "Zona Sul",
    "fonte": "MorumbiShopping",
    "tipo_local": "Shopping",
-   "url": "https://www.morumbishopping.com.br/eventos/fakcn8avsd-grande-espetaculo-de-natal/",
+   "url": "https://www.morumbishopping.com.br/lazer-e-eventos/eventos/fakcn8avsd-grande-espetaculo-de-natal/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/91/11/9111dda6-ea6a-4bb3-99be-1ad6ee2e3508/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2457,13 +2457,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "c9785f089446",
+   "id": "ad83cd485bad",
    "shopping": "MorumbiShopping",
    "bairro": "Morumbi",
    "regiao": "Zona Sul",
    "fonte": "MorumbiShopping",
    "tipo_local": "Shopping",
-   "url": "https://www.morumbishopping.com.br/eventos/sh4a8jvs0i-natal-2026/",
+   "url": "https://www.morumbishopping.com.br/lazer-e-eventos/eventos/sh4a8jvs0i-natal-2026/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/6a/77/6a775aa2-0773-47f2-9945-914fd684073b/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -3295,7 +3295,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/Dfu_cEvhr52/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/915098692_18498320650108869_30718427924392948_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=5T--8qxRri0Q7kNvwHueAon&_nc_oc=AdqbzsfLuMUk0s-SDJtokXX2FuQvUGdESx8bSdRy13-uEtrliD7Wx6jdXqkAU9GM2dY&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=hHslQb_-Opgj9nWhdgMZwA&_nc_tpa=Q5bMBQK0BMd10RvaqarcQod-Ptlg_Xw4NOnlccdLjqWRAIlpuCWf1fDCTJ0jwnG2xDJBgIt9wCWwnHe8&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQSv15txjSYSvJdmNxzjEfTs7lqGLTevY9lHhY9kukpbIA&oe=6B03FCA2"
+   "imagem": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/915098692_18498320650108869_30718427924392948_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=5T--8qxRri0Q7kNvwHueAon&_nc_oc=AdqbzsfLuMUk0s-SDJtokXX2FuQvUGdESx8bSdRy13-uEtrliD7Wx6jdXqkAU9GM2dY&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=siuCwuJeq50Hn8zylZ989Q&_nc_tpa=Q5bMBQK_0RlfTOmSNAas1T7rOjRFd08VJENY-LDWfDPlZbL_WWZn0IYKMDdN_L_8p4kMhaLb6J_uCUX4&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQRck3iOh_b6aM37_kJQN0XVnhJTTe8v6tXhrRYphDge5Q&oe=6B0434E2"
   },
   {
    "titulo": "Cerâmica do território para o território - geração de renda e empoderamento",
@@ -3406,6 +3406,31 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/InShot_20261021_190143256-1.jpg"
   },
   {
+   "titulo": "Missão aceita: deixar o Natal mais fantástico",
+   "resumo": "Missão aceita: deixar o Natal mais fantástico. 🎅 O Papai Noel está chegando ao União para a fase mais esperada do ano. Seu objetivo agora é vir encontrar com ele. Anota na agenda: é dia 21/11. Vem viver um Natal Fantástico no Shopping União de Osasco.",
+   "inicio": "2026-11-21",
+   "fim": "2026-11-21",
+   "horario": null,
+   "faixa_etaria": null,
+   "gratuito": null,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": true,
+   "categorias": [],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "c3940526c9ea",
+   "shopping": "Shopping União",
+   "bairro": "Osasco",
+   "regiao": "Grande SP",
+   "fonte": "Shopping União",
+   "tipo_local": "Shopping",
+   "url": "https://www.instagram.com/reel/Df5n-Jmsom3/",
+   "imagem": "https://scontent-atl3-2.cdninstagram.com/v/t51.71878-15/915098693_1657281666036962_2838978724284369005_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=8hemzTjrHrUQ7kNvwE5j6PS&_nc_oc=AdqDO8o44HBxE6Do_WzNbJzveSdYXzCLzF0zR-mjufloEf-P8T9067JZugs5wVdcnLw&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=siuCwuJeq50Hn8zylZ989Q&_nc_tpa=Q5bMBQLCQkI_KDrfPMIlF0n-CYO0dAZNQ8JRQzqgrcTIyAEDNrEFUa9MyeEkWDq5UY3x47C5_X_svBnZ&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRIhLLtJaP-pVhW80fX2pXXYpDEUQ0mcLr9zdwaA2LTfw&oe=6B041F84"
+  },
+  {
    "titulo": "Mãos que brincam",
    "resumo": "com Coletivo Rua Brincante Público: Crianças Categorias: Encontros e Palestras Atividade gratuita Unidade: Sesc 24 de Maio",
    "inicio": "2026-11-21",
@@ -3455,7 +3480,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/Df2rPo1h6EO/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/911668098_18498529531108869_3476684062558574841_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=S31W258a7e0Q7kNvwFQPro7&_nc_oc=AdrGpR_4oq0H-Fjmt3zIwdV7nD9himnxOPwEnSGnNCc7Ki7NVLPrgtxnwpDBRuU5BNg&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=hHslQb_-Opgj9nWhdgMZwA&_nc_tpa=Q5bMBQL1I2mIvx2Qc_5Gl6Kwe5bGpgZsWPOiVt4429Jwn113yiitfyrsAOqfrFn8ede74qxqtxpZILVs&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSEf6GSxow4isShcp_F68f_SfYhxZUjZ_G-dr4usZ09vQ&oe=6B03CB26"
+   "imagem": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/911668098_18498529531108869_3476684062558574841_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=S31W258a7e0Q7kNvwFQPro7&_nc_oc=AdrGpR_4oq0H-Fjmt3zIwdV7nD9himnxOPwEnSGnNCc7Ki7NVLPrgtxnwpDBRuU5BNg&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=siuCwuJeq50Hn8zylZ989Q&_nc_tpa=Q5bMBQIVX31BwXrZATx1ZbPvFx1-YCsZppsRwf7BHYGNSLL9BIyS7l3TCFn8I2mY0Ur0Qa4plDU2l2bq&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQ98orX9vc2VUiiFqMKwC0VcXeGSPlH52-uHtzGzOUMcA&oe=6B043BA6"
   },
   {
    "titulo": "Projeto Observando os Rios",
@@ -4897,7 +4922,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/DfQgCVkscJr/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Cbqom63IVWIQ7kNvwGfFgk9&_nc_oc=AdogIwq6Wop9l6ta8f-Fwof9p6381jvdzfSY37oBmKxED9SarYrpkFd3nF30Jk2lCA0&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=hHslQb_-Opgj9nWhdgMZwA&_nc_tpa=Q5bMBQLmfmLh-0XriZdrjOOgvbNdeqCqcqzASbgvu47_xEDTjqsOT8fLwueaijkHeY4-pc_iANVGVb5R&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQR00KRSgl0HYKS36wfsGOPFANzfe35TXnAM3VjrE_rP7w&oe=6B03D485"
+   "imagem": "https://scontent-atl3-2.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Cbqom63IVWIQ7kNvwGfFgk9&_nc_oc=AdogIwq6Wop9l6ta8f-Fwof9p6381jvdzfSY37oBmKxED9SarYrpkFd3nF30Jk2lCA0&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=siuCwuJeq50Hn8zylZ989Q&_nc_tpa=Q5bMBQI0YCP-nAU8GuCkCWmSvxTUV_HUD1YZu9HWoxYDf1os8xUzoy4oDoDthTOoZpzh4nwg7m2Pd6jq&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQT6usZht80bahN7z1pwvNVWWiivCpcukNEIpX3TgWeTw&oe=6B044505"
   },
   {
    "titulo": "Cinematerna",
