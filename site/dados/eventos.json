@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-19T06:04-03:00",
+ "gerado_em": "2026-11-19T18:03-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -17,24 +17,24 @@
    "shopping": "Shopping Vila Olímpia",
    "url": "https://www.shoppingvilaolimpia.com.br/eventos/",
    "status": "ok",
-   "eventos": 1
+   "eventos": 2
   },
   {
    "shopping": "JK Iguatemi",
    "url": "https://iguatemi.com.br/jkiguatemi/eventos",
-   "status": "ok",
+   "status": "erro: HTTPError: HTTP Error 403: Forbidden",
    "eventos": 0
   },
   {
    "shopping": "Iguatemi São Paulo",
    "url": "https://iguatemi.com.br/saopaulo/eventos",
-   "status": "ok",
+   "status": "erro: HTTPError: HTTP Error 403: Forbidden",
    "eventos": 0
   },
   {
    "shopping": "Shopping Pátio Higienópolis",
    "url": "https://iguatemi.com.br/patiohigienopolis/eventos",
-   "status": "ok",
+   "status": "erro: HTTPError: HTTP Error 403: Forbidden",
    "eventos": 0
   },
   {
@@ -58,20 +58,20 @@
   {
    "shopping": "Shopping Pátio Paulista",
    "url": "https://iguatemi.com.br/shoppingpatiopaulista/eventos",
-   "status": "ok",
+   "status": "erro: HTTPError: HTTP Error 403: Forbidden",
    "eventos": 0
   },
   {
    "shopping": "Tietê Plaza Shopping",
    "url": "https://tieteplaza.com.br/eventos/",
    "status": "ok",
-   "eventos": 5
+   "eventos": 6
   },
   {
    "shopping": "Shopping Cidade São Paulo",
    "url": "https://shoppingcidadesp.com.br/eventos/",
    "status": "ok",
-   "eventos": 3
+   "eventos": 4
   },
   {
    "shopping": "Villa Romana Shopping",
@@ -101,7 +101,7 @@
    "shopping": "Shopping União",
    "url": "https://www.shoppinguniao.com.br/",
    "status": "ok",
-   "eventos": 4
+   "eventos": 3
   },
   {
    "shopping": "Open Mall The Square",
@@ -118,7 +118,7 @@
   {
    "shopping": "Shopping Penha",
    "url": "https://www.shoppingpenha.com.br/pt-BR/acontece",
-   "status": "ok",
+   "status": "erro: HTTPError: HTTP Error 404: Not Found",
    "eventos": 0
   },
   {
@@ -177,13 +177,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "6ffe604a9d31",
+   "id": "add0858f046e",
    "shopping": "MorumbiShopping",
    "bairro": "Morumbi",
    "regiao": "Zona Sul",
    "fonte": "MorumbiShopping",
    "tipo_local": "Shopping",
-   "url": "https://www.morumbishopping.com.br/lazer-e-eventos/eventos/zzat1t1uf7-diversao-e-na-hotzone/",
+   "url": "https://www.morumbishopping.com.br/eventos/zzat1t1uf7-diversao-e-na-hotzone/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/12/2d/122df6c7-2d3d-4958-ac17-554ced8d647f/hubimage__0x650_subsampling-2.webp"
   },
   {
@@ -262,6 +262,31 @@
    "imagem": "https://sites.madnezz.com.br/api/site/upload/Novidade/202608211715251.png"
   },
   {
+   "titulo": "Monopoly Experience - Tesouros do Brasil",
+   "resumo": "Monopoly Experience | Tesouros do Brasil | Shopping Cidade São Paulo 16/09 qua. 16/09 a 31/01 Monopoly Experience | Tesouros do Brasil 🎩 Chegou a sua vez de jogar! Você foi convidado para entrar nos cofres secretos do Mr. Monopoly. Venha descobrir os tesouros do Brasil e viva sua próxima grande aventura! Descubra a…",
+   "inicio": "2026-09-16",
+   "fim": "2027-08-06",
+   "horario": "das 12h às 21h",
+   "faixa_etaria": "4 a 12 anos",
+   "gratuito": false,
+   "agendamento": true,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "7df5cbee574f",
+   "shopping": "Shopping Cidade São Paulo",
+   "bairro": "Bela Vista (Av. Paulista)",
+   "regiao": "Centro",
+   "fonte": "Shopping Cidade São Paulo",
+   "tipo_local": "Shopping",
+   "url": "https://shoppingcidadesp.com.br/evento/monopoly-experience-tesouros-do-brasil/",
+   "imagem": "https://shoppingcidadesp.com.br/wp-content/uploads/2026/09/700x900-01.png"
+  },
+  {
    "titulo": "Human Bodies – Maravilhas do Corpo Humano",
    "resumo": "Explore os mistérios da anatomia humana em uma experiência que une ciência, educação e arte. A exposição apresenta corpos reais preservados pela técnica de plastinação, permitindo observar de perto músculos, órgãos e sistemas do corpo humano com riqueza de detalhes. 📅 A partir de 01/10 ⏱️Horário de Funcionamento…",
    "inicio": "2026-09-23",
@@ -308,13 +333,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "6d9b4725f0bd",
+   "id": "3aaaa72c86d0",
    "shopping": "Shopping Vila Olímpia",
    "bairro": "Vila Olímpia",
    "regiao": "Zona Sul",
    "fonte": "Shopping Vila Olímpia",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppingvilaolimpia.com.br/lazer-e-eventos/eventos/fjigfnncop-vr-land/",
+   "url": "https://www.shoppingvilaolimpia.com.br/eventos/fjigfnncop-vr-land/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/cc/29/cc29a88f-42c3-4ace-ba0f-7c63a127302f/hubimage__0x650_subsampling-2.webp"
   },
   {
@@ -2428,13 +2453,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "5b9a93435ae7",
+   "id": "67cd71f2262a",
    "shopping": "MorumbiShopping",
    "bairro": "Morumbi",
    "regiao": "Zona Sul",
    "fonte": "MorumbiShopping",
    "tipo_local": "Shopping",
-   "url": "https://www.morumbishopping.com.br/lazer-e-eventos/eventos/fakcn8avsd-grande-espetaculo-de-natal/",
+   "url": "https://www.morumbishopping.com.br/eventos/fakcn8avsd-grande-espetaculo-de-natal/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/91/11/9111dda6-ea6a-4bb3-99be-1ad6ee2e3508/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2457,13 +2482,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "ad83cd485bad",
+   "id": "c9785f089446",
    "shopping": "MorumbiShopping",
    "bairro": "Morumbi",
    "regiao": "Zona Sul",
    "fonte": "MorumbiShopping",
    "tipo_local": "Shopping",
-   "url": "https://www.morumbishopping.com.br/lazer-e-eventos/eventos/sh4a8jvs0i-natal-2026/",
+   "url": "https://www.morumbishopping.com.br/eventos/sh4a8jvs0i-natal-2026/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/6a/77/6a775aa2-0773-47f2-9945-914fd684073b/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2785,6 +2810,33 @@
    "tipo_local": "Shopping",
    "url": "https://www.shoppingcidadejardim.com/acontece-no-cj#decoracao-de-natal",
    "imagem": "https://shoppings.jhsfstatic.com/assets/ACONTECE_NATAL_2_jpg_db35f62855.jpeg"
+  },
+  {
+   "titulo": "MIAU DE NATAL | ONG DESABANDONE",
+   "resumo": "MIAU DE NATAL | ONG DESABANDONE No dia 28/11 , receberemos o Miau de Natal , com feirinha de adoção e duas oficinas com os gatinhos resgatados da ONG: Oficina de velas natalinas: das 11h às 12h, com Beatriz Salutti (Vela Soul). Oficina de bordado: das 15h às 16h, com Mucciolo (ateliê Behuten). Ingressos: turma única…",
+   "inicio": "2026-11-19",
+   "fim": "2026-11-28",
+   "horario": "das 11h às 12h",
+   "faixa_etaria": "Livre",
+   "gratuito": false,
+   "agendamento": true,
+   "como_agendar": null,
+   "link_inscricao": "https://linktr.ee/desabandone",
+   "natal": true,
+   "categorias": [
+    "Evento"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "5537e462dfbf",
+   "shopping": "Shopping Vila Olímpia",
+   "bairro": "Vila Olímpia",
+   "regiao": "Zona Sul",
+   "fonte": "Shopping Vila Olímpia",
+   "tipo_local": "Shopping",
+   "url": "https://www.shoppingvilaolimpia.com.br/eventos/sdy7pf4vm4-miau-de-natal-ong-desabandone/",
+   "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/23/70/2370d85e-3433-4f51-911a-eb117761844c/hubimage__0x650_subsampling-2.png"
   },
   {
    "titulo": "Mambembe",
@@ -3295,7 +3347,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/Dfu_cEvhr52/",
-   "imagem": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/915098692_18498320650108869_30718427924392948_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=5T--8qxRri0Q7kNvwHueAon&_nc_oc=AdqbzsfLuMUk0s-SDJtokXX2FuQvUGdESx8bSdRy13-uEtrliD7Wx6jdXqkAU9GM2dY&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=siuCwuJeq50Hn8zylZ989Q&_nc_tpa=Q5bMBQK_0RlfTOmSNAas1T7rOjRFd08VJENY-LDWfDPlZbL_WWZn0IYKMDdN_L_8p4kMhaLb6J_uCUX4&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQRck3iOh_b6aM37_kJQN0XVnhJTTe8v6tXhrRYphDge5Q&oe=6B0434E2"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/915098692_18498320650108869_30718427924392948_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=5T--8qxRri0Q7kNvwHueAon&_nc_oc=AdqbzsfLuMUk0s-SDJtokXX2FuQvUGdESx8bSdRy13-uEtrliD7Wx6jdXqkAU9GM2dY&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=fddJk2zVoEM6jgn3Mio-ow&_nc_tpa=Q5bMBQI81bq6yR5DTxLciAqL25pRz0AVKugor19aXUD5QrngDA06V2RsFtdYieDZ84IujYiJ98bgZALe&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQQ4RI03AXIgNFjLiXMpN2YWtml4vqGsFr63NRBRTxLGOA&oe=6B054E22"
   },
   {
    "titulo": "Cerâmica do território para o território - geração de renda e empoderamento",
@@ -3428,7 +3480,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/Df5n-Jmsom3/",
-   "imagem": "https://scontent-atl3-2.cdninstagram.com/v/t51.71878-15/915098693_1657281666036962_2838978724284369005_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=8hemzTjrHrUQ7kNvwE5j6PS&_nc_oc=AdqDO8o44HBxE6Do_WzNbJzveSdYXzCLzF0zR-mjufloEf-P8T9067JZugs5wVdcnLw&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=siuCwuJeq50Hn8zylZ989Q&_nc_tpa=Q5bMBQLCQkI_KDrfPMIlF0n-CYO0dAZNQ8JRQzqgrcTIyAEDNrEFUa9MyeEkWDq5UY3x47C5_X_svBnZ&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRIhLLtJaP-pVhW80fX2pXXYpDEUQ0mcLr9zdwaA2LTfw&oe=6B041F84"
+   "imagem": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/915098693_1657281666036962_2838978724284369005_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ucyAlvTfiPAQ7kNvwEOCMGI&_nc_oc=Adqh1CzURusCWRf_zddkVr_QSfd85oGiqQJN9-jhzDMBqbcLB8Cp_EqIADj3pw8Ntss&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=fddJk2zVoEM6jgn3Mio-ow&_nc_tpa=Q5bMBQJjXrtm_8CNAkgTdyIutl1T1sJ7274aj7yeP2ASUO8S0z_fUr9gGjVW5Dbs8Mj-LvXJCO6vD1_-&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQOzuyI3-6uExzRgs-3oPffJy5zbUgCJnI0saLO65F4xA&oe=6B0538C4"
   },
   {
    "titulo": "Mãos que brincam",
@@ -3480,7 +3532,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/Df2rPo1h6EO/",
-   "imagem": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/911668098_18498529531108869_3476684062558574841_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=S31W258a7e0Q7kNvwFQPro7&_nc_oc=AdrGpR_4oq0H-Fjmt3zIwdV7nD9himnxOPwEnSGnNCc7Ki7NVLPrgtxnwpDBRuU5BNg&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=siuCwuJeq50Hn8zylZ989Q&_nc_tpa=Q5bMBQIVX31BwXrZATx1ZbPvFx1-YCsZppsRwf7BHYGNSLL9BIyS7l3TCFn8I2mY0Ur0Qa4plDU2l2bq&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQ98orX9vc2VUiiFqMKwC0VcXeGSPlH52-uHtzGzOUMcA&oe=6B043BA6"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/911668098_18498529531108869_3476684062558574841_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=sbG4rlQXQ_YQ7kNvwFt8UTq&_nc_oc=AdrqaLVglARC7Izfecgr_wOKrmulFC-lVaRFkCL_H6jgmwQnCDMJHbstlKnA5BOjK1Q&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=fddJk2zVoEM6jgn3Mio-ow&_nc_tpa=Q5bMBQLEf_0xGIf17juVdJE7nEzG8Sp2-cIM6DHqrC0wgmsrsxy0bf-yvKTbwJJZJXuzrtQDNGnqn9VC&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQS4KZ8lwxI9JgYHuDU_HX4mFsgHs4MxZhgR4vwMLTfVvg&oe=6B051CA6"
   },
   {
    "titulo": "Projeto Observando os Rios",
@@ -4206,6 +4258,31 @@
    "imagem": null
   },
   {
+   "titulo": "Vacinação contra Meningite",
+   "resumo": "Tietê Saúde | Vacinação contra Meningite | Tietê Plaza 28/11 sáb. 28/11 a 28/11 Tietê Saúde | Vacinação contra Meningite O Tietê Plaza cuidando de você e da sua família ❤ No dia 28 de novembro , o Tietê Plaza em parceria com a Sub Prefeitura de Pirituba e Secretaria da Saúde de São Paulo, recebe uma ação gratuita de…",
+   "inicio": "2026-11-28",
+   "fim": "2026-11-28",
+   "horario": "das 11h às 16h",
+   "faixa_etaria": "11 a 14 anos",
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "0802c7f96ca2",
+   "shopping": "Tietê Plaza Shopping",
+   "bairro": "Jardim Íris / Pirituba",
+   "regiao": "Zona Oeste",
+   "fonte": "Tietê Plaza Shopping",
+   "tipo_local": "Shopping",
+   "url": "https://tieteplaza.com.br/evento/tiete-saude-vacinacao-sarampo/",
+   "imagem": "https://tieteplaza.com.br/wp-content/uploads/2025/08/Header_mobile.jpg"
+  },
+  {
    "titulo": "Banda Saracutaia",
    "resumo": "Palco Praça Gratuito Horários: 17h Atividade infantil",
    "inicio": "2026-11-29",
@@ -4313,7 +4390,7 @@
   },
   {
    "titulo": "Arena Saúde",
-   "resumo": "Arena Saúde | Tietê Plaza 01/01 a 01/12 Arena Saúde Como forma de incentivar o público a praticar atividades físicas, a iniciativa conta com professores especializados em aulas de ioga, pilates, ritbox e ritmos, além de exercícios para crianças, adultos e idosos melhorarem o condicionamento físico e desempenho da…",
+   "resumo": "Arena Saúde | Tietê Plaza 01/01 01/01 a 01/12 Arena Saúde Como forma de incentivar o público a praticar atividades físicas, a iniciativa conta com professores especializados em aulas de ioga, pilates, ritbox e ritmos, além de exercícios para crianças, adultos e idosos melhorarem o condicionamento físico e desempenho…",
    "inicio": "2026-12-01",
    "fim": "2027-01-01",
    "horario": null,
@@ -4824,7 +4901,7 @@
   },
   {
    "titulo": "Arena Star Laser",
-   "resumo": "ARENA STAR LASER | Tietê Plaza qua. 01/01 a 31/12 ARENA STAR LASER A Arena Star Laser chega ao Tietê Plaza trazendo diversão e adrenalina. A atração conta com um sensorial espacial totalmente temático, com robôs, luzes e lasers logo na fachada, ao passar pelo túnel de led na entrada, você encontra bolas infláveis de…",
+   "resumo": "ARENA STAR LASER | Tietê Plaza 01/01 qua. 01/01 a 31/12 ARENA STAR LASER A Arena Star Laser chega ao Tietê Plaza trazendo diversão e adrenalina. A atração conta com um sensorial espacial totalmente temático, com robôs, luzes e lasers logo na fachada, ao passar pelo túnel de led na entrada, você encontra bolas…",
    "inicio": "2026-12-31",
    "fim": "2027-01-01",
    "horario": "das 10h às 22h",
@@ -4898,31 +4975,6 @@
    "tipo_local": "Shopping",
    "url": "https://shoppingcidadesp.com.br/evento/experiencias-imersivas-no-espaco-vr/",
    "imagem": "https://shoppingcidadesp.com.br/wp-content/uploads/2026/06/Exposicao-Impressionistas-VR-21.jpg"
-  },
-  {
-   "titulo": "A temporada de Halloween do Shopping União acabou, mas a diversão para os pequenos e toda …",
-   "resumo": "👻🎃 A temporada de Halloween do Shopping União acabou, mas a diversão para os pequenos e toda a família continua! ✨ Fique de olho em nossas redes e não perca nenhuma novidade... E você, já sabe qual será a nossa próxima travessura, quer dizer, aventura? 👀😅",
-   "inicio": null,
-   "fim": null,
-   "horario": null,
-   "faixa_etaria": null,
-   "gratuito": null,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "6fc29467fa22",
-   "shopping": "Shopping União",
-   "bairro": "Osasco",
-   "regiao": "Grande SP",
-   "fonte": "Shopping União",
-   "tipo_local": "Shopping",
-   "url": "https://www.instagram.com/reel/DfQgCVkscJr/",
-   "imagem": "https://scontent-atl3-2.cdninstagram.com/v/t51.71878-15/860024517_977816798208744_617067304644313594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Cbqom63IVWIQ7kNvwGfFgk9&_nc_oc=AdogIwq6Wop9l6ta8f-Fwof9p6381jvdzfSY37oBmKxED9SarYrpkFd3nF30Jk2lCA0&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=siuCwuJeq50Hn8zylZ989Q&_nc_tpa=Q5bMBQI0YCP-nAU8GuCkCWmSvxTUV_HUD1YZu9HWoxYDf1os8xUzoy4oDoDthTOoZpzh4nwg7m2Pd6jq&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQT6usZht80bahN7z1pwvNVWWiivCpcukNEIpX3TgWeTw&oe=6B044505"
   },
   {
    "titulo": "Cinematerna",
