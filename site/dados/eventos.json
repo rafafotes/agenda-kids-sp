@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-20T06:03-03:00",
+ "gerado_em": "2026-11-20T18:03-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -177,13 +177,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "6ffe604a9d31",
+   "id": "add0858f046e",
    "shopping": "MorumbiShopping",
    "bairro": "Morumbi",
    "regiao": "Zona Sul",
    "fonte": "MorumbiShopping",
    "tipo_local": "Shopping",
-   "url": "https://www.morumbishopping.com.br/lazer-e-eventos/eventos/zzat1t1uf7-diversao-e-na-hotzone/",
+   "url": "https://www.morumbishopping.com.br/eventos/zzat1t1uf7-diversao-e-na-hotzone/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/12/2d/122df6c7-2d3d-4958-ac17-554ced8d647f/hubimage__0x650_subsampling-2.webp"
   },
   {
@@ -304,13 +304,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "936026f6e48e",
+   "id": "8cb91728c4e0",
    "shopping": "Shopping Anália Franco",
    "bairro": "Anália Franco",
    "regiao": "Zona Leste",
    "fonte": "Shopping Anália Franco",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppinganaliafranco.com.br/lazer-e-eventos/eventos/omat9gclyx-human-bodies-maravilhas-do-corpo-humano/",
+   "url": "https://www.shoppinganaliafranco.com.br/eventos/omat9gclyx-human-bodies-maravilhas-do-corpo-humano/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/20/5d/205d2b53-5e07-4c0f-a11c-626d0e401d55/hubimage__0x650_subsampling-2.webp"
   },
   {
@@ -2134,13 +2134,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "4042c7c59a4e",
+   "id": "d279d3bddbdf",
    "shopping": "Shopping Anália Franco",
    "bairro": "Anália Franco",
    "regiao": "Zona Leste",
    "fonte": "Shopping Anália Franco",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppinganaliafranco.com.br/lazer-e-eventos/eventos/3gg1agadlh-oficina-solidaria-de-natal/",
+   "url": "https://www.shoppinganaliafranco.com.br/eventos/3gg1agadlh-oficina-solidaria-de-natal/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/94/4e/944eec43-a065-4114-a13f-7c9df03a7857/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2238,13 +2238,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "52cea71d9626",
+   "id": "5e9ad836faf9",
    "shopping": "Shopping Anália Franco",
    "bairro": "Anália Franco",
    "regiao": "Zona Leste",
    "fonte": "Shopping Anália Franco",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppinganaliafranco.com.br/lazer-e-eventos/eventos/dim8nzgpnx-carrossel-do-analia/",
+   "url": "https://www.shoppinganaliafranco.com.br/eventos/dim8nzgpnx-carrossel-do-analia/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/30/01/30018bb9-0d89-4897-89ba-b1314f51b36b/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2265,13 +2265,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "dfed3f04ff06",
+   "id": "5befef14cae3",
    "shopping": "Shopping Anália Franco",
    "bairro": "Anália Franco",
    "regiao": "Zona Leste",
    "fonte": "Shopping Anália Franco",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppinganaliafranco.com.br/lazer-e-eventos/eventos/roa5zkqp6b-fotos-com-o-papai-noel/",
+   "url": "https://www.shoppinganaliafranco.com.br/eventos/roa5zkqp6b-fotos-com-o-papai-noel/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/f4/99/f49904a6-9e5e-4286-881d-894d7f509d90/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2292,13 +2292,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "69dfbdab00d3",
+   "id": "693e4f68a95f",
    "shopping": "Shopping Anália Franco",
    "bairro": "Anália Franco",
    "regiao": "Zona Leste",
    "fonte": "Shopping Anália Franco",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppinganaliafranco.com.br/lazer-e-eventos/eventos/tgodyan9fh-teatrinho-de-natal/",
+   "url": "https://www.shoppinganaliafranco.com.br/eventos/tgodyan9fh-teatrinho-de-natal/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/66/42/66424d84-26b0-44a8-9b81-7b54c9b56152/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2397,13 +2397,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "5b9a93435ae7",
+   "id": "67cd71f2262a",
    "shopping": "MorumbiShopping",
    "bairro": "Morumbi",
    "regiao": "Zona Sul",
    "fonte": "MorumbiShopping",
    "tipo_local": "Shopping",
-   "url": "https://www.morumbishopping.com.br/lazer-e-eventos/eventos/fakcn8avsd-grande-espetaculo-de-natal/",
+   "url": "https://www.morumbishopping.com.br/eventos/fakcn8avsd-grande-espetaculo-de-natal/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/91/11/9111dda6-ea6a-4bb3-99be-1ad6ee2e3508/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2426,13 +2426,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "ad83cd485bad",
+   "id": "c9785f089446",
    "shopping": "MorumbiShopping",
    "bairro": "Morumbi",
    "regiao": "Zona Sul",
    "fonte": "MorumbiShopping",
    "tipo_local": "Shopping",
-   "url": "https://www.morumbishopping.com.br/lazer-e-eventos/eventos/sh4a8jvs0i-natal-2026/",
+   "url": "https://www.morumbishopping.com.br/eventos/sh4a8jvs0i-natal-2026/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/6a/77/6a775aa2-0773-47f2-9945-914fd684073b/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2774,13 +2774,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "258307dbce4b",
+   "id": "84625879fa03",
    "shopping": "MorumbiShopping",
    "bairro": "Morumbi",
    "regiao": "Zona Sul",
    "fonte": "MorumbiShopping",
    "tipo_local": "Shopping",
-   "url": "https://www.morumbishopping.com.br/lazer-e-eventos/eventos/etdsmqtqfm-encontro-com-o-papai-noel/",
+   "url": "https://www.morumbishopping.com.br/eventos/etdsmqtqfm-encontro-com-o-papai-noel/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/7b/d4/7bd414f4-afd8-4897-8149-7a808a98a811/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2828,13 +2828,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "f4a3b1949735",
+   "id": "dac316b53263",
    "shopping": "MorumbiShopping",
    "bairro": "Morumbi",
    "regiao": "Zona Sul",
    "fonte": "MorumbiShopping",
    "tipo_local": "Shopping",
-   "url": "https://www.morumbishopping.com.br/lazer-e-eventos/eventos/rep7gbx5lw-o-quebra-nozes-apresentacoes-especiais/",
+   "url": "https://www.morumbishopping.com.br/eventos/rep7gbx5lw-o-quebra-nozes-apresentacoes-especiais/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/2c/45/2c4538de-67cf-43e6-ab1a-e7f4c719fb0a/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2856,13 +2856,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "7bafea7f72d1",
+   "id": "6d78b377c83b",
    "shopping": "MorumbiShopping",
    "bairro": "Morumbi",
    "regiao": "Zona Sul",
    "fonte": "MorumbiShopping",
    "tipo_local": "Shopping",
-   "url": "https://www.morumbishopping.com.br/lazer-e-eventos/eventos/faqdet7ayw-oficina-de-cartinhas/",
+   "url": "https://www.morumbishopping.com.br/eventos/faqdet7ayw-oficina-de-cartinhas/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/76/cd/76cd4241-6e13-485e-bd1c-437d88e2ddf1/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2883,13 +2883,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "afeb36a099b7",
+   "id": "a0f2e1cf257f",
    "shopping": "MorumbiShopping",
    "bairro": "Morumbi",
    "regiao": "Zona Sul",
    "fonte": "MorumbiShopping",
    "tipo_local": "Shopping",
-   "url": "https://www.morumbishopping.com.br/lazer-e-eventos/eventos/gaul4l4qwh-parquinho-de-natal/",
+   "url": "https://www.morumbishopping.com.br/eventos/gaul4l4qwh-parquinho-de-natal/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/64/0e/640e75d6-2949-48fd-9806-0ea0c3730a3b/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -3347,7 +3347,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/Dfu_cEvhr52/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/915098692_18498320650108869_30718427924392948_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=5T--8qxRri0Q7kNvwHueAon&_nc_oc=AdqbzsfLuMUk0s-SDJtokXX2FuQvUGdESx8bSdRy13-uEtrliD7Wx6jdXqkAU9GM2dY&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=siNZlkaCyKo06TfnzYGe_Q&_nc_tpa=Q5bMBQIZb7zUo_3cy-4dOwfQbp3-mc5gV5OzDMPn8FPhVHfRMyHxO5Y25BrC3ykhwP8DlW49yME4ED2v&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQTfcV-cv4WtK5afEvx5p3Ujx81CHBIV-WDn3pNG5bJ-yg&oe=6B058662"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/915098692_18498320650108869_30718427924392948_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=5T--8qxRri0Q7kNvwHueAon&_nc_oc=AdqbzsfLuMUk0s-SDJtokXX2FuQvUGdESx8bSdRy13-uEtrliD7Wx6jdXqkAU9GM2dY&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=pZCPrv_QYri434r1pqSP4w&_nc_tpa=Q5bMBQKNhvlSneMbIWw_zw5ThiyVamrj6mCXyYFsjHfFI7IeI4Rs2-RCwiqGLsKyGYcuiZCpLK6HrQ2Z&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQQHViBAw_Xi8Q29LnQMEGyqygzeHXhIivWYYVWlzMzfig&oe=6B069FA2"
   },
   {
    "titulo": "Cerâmica do território para o território - geração de renda e empoderamento",
@@ -3480,7 +3480,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/Df5n-Jmsom3/",
-   "imagem": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/915098693_1657281666036962_2838978724284369005_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ucyAlvTfiPAQ7kNvwEOCMGI&_nc_oc=Adqh1CzURusCWRf_zddkVr_QSfd85oGiqQJN9-jhzDMBqbcLB8Cp_EqIADj3pw8Ntss&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=siNZlkaCyKo06TfnzYGe_Q&_nc_tpa=Q5bMBQLbQG04rFL37BPA6KFHDi3T91P97PF4UK51U0hoJAXk-Stl75_5xrfrZLhbj0DBjzev7TFvJmzf&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQR2GZRy17J7U_ZW_kERkKgfKQSvnkHMrLjfD3ViszBFEw&oe=6B057104"
+   "imagem": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/915098693_1657281666036962_2838978724284369005_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ucyAlvTfiPAQ7kNvwEOCMGI&_nc_oc=Adqh1CzURusCWRf_zddkVr_QSfd85oGiqQJN9-jhzDMBqbcLB8Cp_EqIADj3pw8Ntss&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=pZCPrv_QYri434r1pqSP4w&_nc_tpa=Q5bMBQJH53YaN7Y_TRqYUFdk8xEu2VGPAcF4hXiQfZ2NUbgGNs0V1NjAS8ZQ0UIMK9qD3GyKJWiwy_Sa&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRAD2NHK2ihYMGvzFVkLpCRx5-9fMMtsEtP7EKQuZwKsQ&oe=6B068A44"
   },
   {
    "titulo": "Mãos que brincam",
@@ -3532,7 +3532,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/Df2rPo1h6EO/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/911668098_18498529531108869_3476684062558574841_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=sbG4rlQXQ_YQ7kNvwFt8UTq&_nc_oc=AdrqaLVglARC7Izfecgr_wOKrmulFC-lVaRFkCL_H6jgmwQnCDMJHbstlKnA5BOjK1Q&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=siNZlkaCyKo06TfnzYGe_Q&_nc_tpa=Q5bMBQLoGWp4qLiGal4VRNCmyjuqLN5OTRL2k08eYsTCQQ4pirWjowPiN8FUHuL60t5F2ORVmMka_NKI&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQR0gJ1Rx-Xa7PGjpeWYIQ5LW6S07OnbAnaPI6fE6zDQ2g&oe=6B058D26"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/911668098_18498529531108869_3476684062558574841_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=sbG4rlQXQ_YQ7kNvwFt8UTq&_nc_oc=AdrqaLVglARC7Izfecgr_wOKrmulFC-lVaRFkCL_H6jgmwQnCDMJHbstlKnA5BOjK1Q&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=pZCPrv_QYri434r1pqSP4w&_nc_tpa=Q5bMBQKnIvgb6_xfc35O_wnA3WZlsLDTvj5mF6m7Xo6cGrTkpfQE6PwPHjVS9n4i2oR_re9tIbn5EU-f&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSjUube9EDRDDLIrXwNYVIE-Ff5c8Sw1udBLDrkrcOWeg&oe=6B066E26"
   },
   {
    "titulo": "Projeto Observando os Rios",
@@ -4999,7 +4999,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/Df8BzbxDJKv/",
-   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/914798926_1708198664195725_6295280109043490028_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=aoU-9sdoUSMQ7kNvwH2G8Od&_nc_oc=AdoD01wXY9Q68hCtMpXxyxS7X6RnTTgrzE21WVEgFx7bkATGkoJnLnzwme_jkB1t_Wc&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=siNZlkaCyKo06TfnzYGe_Q&_nc_tpa=Q5bMBQIfTVd7Qj0rzSTxZpj8Kcov8jOc71RE8aipSolPGqs15ssSZBxAAurTz7MYsp_YfdS6y49gJp4x&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRxw6RMGlhW6IxvQqRq04A0hKCYQPxntKqhCsc8QCpeXw&oe=6B0587DF"
+   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/914798926_1708198664195725_6295280109043490028_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=aoU-9sdoUSMQ7kNvwH2G8Od&_nc_oc=AdoD01wXY9Q68hCtMpXxyxS7X6RnTTgrzE21WVEgFx7bkATGkoJnLnzwme_jkB1t_Wc&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=pZCPrv_QYri434r1pqSP4w&_nc_tpa=Q5bMBQLPSJW1qN-i5C2dE5u-R4PSf5bjAhVgm8bX-mo0GsVpFGtRfb36i5WoFsWQMiTKY7JvRNEDvui9&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQ6Ig6jhyVFwhEiHqZGMXd3bMbeFcNuuDydXt0WQ8Kcuw&oe=6B06A11F"
   },
   {
    "titulo": "Cinematerna",
