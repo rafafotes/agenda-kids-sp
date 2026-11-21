@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-20T18:03-03:00",
+ "gerado_em": "2026-11-21T06:03-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -107,7 +107,7 @@
    "shopping": "Open Mall The Square",
    "url": "https://openmallthesquare.com.br/eventos-nova/",
    "status": "ok",
-   "eventos": 24
+   "eventos": 22
   },
   {
    "shopping": "Shopping Cidade Jardim",
@@ -155,7 +155,7 @@
    "shopping": "Sesc SP",
    "url": "https://www.sescsp.org.br/programacao/",
    "status": "erro: HTTPError: HTTP Error 403: Forbidden",
-   "eventos": 119
+   "eventos": 114
   }
  ],
  "eventos": [
@@ -526,33 +526,6 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/brincar-em-todo-lugar",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2024/02/EB-Espaco-de-Brincar.jpg"
-  },
-  {
-   "titulo": "Brinquedos de ninar e cantigas para brincar",
-   "resumo": "com Coletivo TransBordando Afeto Público: Crianças Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc 24 de Maio",
-   "inicio": "2026-11-05",
-   "fim": "2026-11-20",
-   "horario": "próxima sessão 8/11 às 17h30",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Cursos e Oficinas"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "6bc436302ef3",
-   "shopping": "Sesc 24 de Maio",
-   "bairro": "República",
-   "regiao": "Centro",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/brinquedos-de-ninar-e-cantigas-para-brincar-3",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Fotos-para-Portal-29.png"
   },
   {
    "titulo": "Cantinho do Omodé: Acolhimento e Mediação das Infâncias",
@@ -2893,33 +2866,6 @@
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/64/0e/640e75d6-2949-48fd-9806-0ea0c3730a3b/hubimage__0x650_subsampling-2.png"
   },
   {
-   "titulo": "Aguaceiro de Menino Bentu",
-   "resumo": "com Cia Menina Fulô Público: Crianças Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc Pinheiros",
-   "inicio": "2026-11-20",
-   "fim": "2026-11-20",
-   "horario": "próxima sessão 20/11 às 16h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Shows, Espetáculos e Performances"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "0e9327202bad",
-   "shopping": "Sesc Pinheiros",
-   "bairro": "Pinheiros",
-   "regiao": "Zona Oeste",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/aguaceiro-de-menino-bentu-10",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/aguaceiro.png"
-  },
-  {
    "titulo": "Banzo",
    "resumo": "com Ateliê Afrocultural Público: Crianças, Diversas idades Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc Interlagos",
    "inicio": "2026-11-20",
@@ -2947,33 +2893,6 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2023/05/Banzo_Sofia_Calabria_2_2023-01-03-13-01-55.jpg"
   },
   {
-   "titulo": "Beto Ribeiro",
-   "resumo": "Palco Praça Gratuito Horários: 14h Atividade infantil",
-   "inicio": "2026-11-20",
-   "fim": "2026-11-20",
-   "horario": "14h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Infantil"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "b4cfa98c8c00",
-   "shopping": "Open Mall The Square",
-   "bairro": "Granja Viana (Cotia)",
-   "regiao": "Grande SP",
-   "fonte": "Open Mall The Square",
-   "tipo_local": "Shopping",
-   "url": "https://openmallthesquare.com.br/eventos-nova/#beto-ribeiro",
-   "imagem": null
-  },
-  {
    "titulo": "Curumininices: Muitas Formas de Desenhar",
    "resumo": "Com educadores(as) do Programa Curumim Público: Crianças Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Ipiranga",
    "inicio": "2026-11-20",
@@ -2999,33 +2918,6 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/curumininices-muitas-formas-de-desenhar",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/20260618_102239.jpg"
-  },
-  {
-   "titulo": "ERANKO AYO",
-   "resumo": "Com Circo de Ébanos Público: Diversas idades Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc Itaquera",
-   "inicio": "2026-11-20",
-   "fim": "2026-11-20",
-   "horario": "próxima sessão 20/11 às 15h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Shows, Espetáculos e Performances"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "f5be1a219092",
-   "shopping": "Sesc Itaquera",
-   "bairro": "Itaquera",
-   "regiao": "Zona Leste",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/eranko-ayo",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/09/ERANKO-AYO-Foto-Leonardo-Souzza.png"
   },
   {
    "titulo": "Encontro de Lutas | Ancestralidade Marcial",
@@ -3082,33 +2974,6 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/feirapreta.jpg"
   },
   {
-   "titulo": "Heloisa Lucas",
-   "resumo": "Palco Praça Gratuito Horários: 17h Atividade infantil",
-   "inicio": "2026-11-20",
-   "fim": "2026-11-20",
-   "horario": "17h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Infantil"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "0ce459977029",
-   "shopping": "Open Mall The Square",
-   "bairro": "Granja Viana (Cotia)",
-   "regiao": "Grande SP",
-   "fonte": "Open Mall The Square",
-   "tipo_local": "Shopping",
-   "url": "https://openmallthesquare.com.br/eventos-nova/#heloisa-lucas",
-   "imagem": null
-  },
-  {
    "titulo": "Hoje tem festa no céu",
    "resumo": "Com autoria de Cíntia Alves e direção de Eduardo Figueiredo Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc 24 de Maio",
    "inicio": "2026-11-20",
@@ -3134,33 +2999,6 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/hoje-tem-festa-no-ceu-3",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/imagem_5_2026-06-23-15-40-03.png"
-  },
-  {
-   "titulo": "Kalunga-Mar",
-   "resumo": "com Indômita Cia Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc Consolação",
-   "inicio": "2026-11-20",
-   "fim": "2026-11-20",
-   "horario": "próxima sessão 20/11 às 17h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Shows, Espetáculos e Performances"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "55b541f8b8bc",
-   "shopping": "Sesc Consolação",
-   "bairro": "Consolação",
-   "regiao": "Centro",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/kalunga-mar-2",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/foto_Sergio_Fernandes2.jpg"
   },
   {
    "titulo": "Os Coloridos",
@@ -3244,33 +3082,6 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Captura-de-Tela-2026-10-21-as-13.48.09.png"
   },
   {
-   "titulo": "Teatro de sombras: Itãs e tecnologias ancestrais",
-   "resumo": "com Karla Ribeiro e Victor Falcirolli, educadores da exposição O Mundo Através da IA Público: Diversas idades Categorias: Cursos e Oficinas Retirada de ingresso Unidade: Sesc 24 de Maio",
-   "inicio": "2026-11-20",
-   "fim": "2026-11-20",
-   "horario": "próxima sessão 20/11 às 15h30",
-   "faixa_etaria": null,
-   "gratuito": null,
-   "agendamento": true,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Cursos e Oficinas"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "c6be63080934",
-   "shopping": "Sesc 24 de Maio",
-   "bairro": "República",
-   "regiao": "Centro",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/teatro-de-sombras-itas-e-tecnologias-ancestrais",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/teatro_de_sombras_2026-10-11-13-17-46.png"
-  },
-  {
    "titulo": "Vivência de Impressão 3D para as famílias",
    "resumo": "com Bruno Fioreli Público: Diversas idades Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Vila Mariana",
    "inicio": "2026-11-20",
@@ -3347,7 +3158,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/Dfu_cEvhr52/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/915098692_18498320650108869_30718427924392948_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=5T--8qxRri0Q7kNvwHueAon&_nc_oc=AdqbzsfLuMUk0s-SDJtokXX2FuQvUGdESx8bSdRy13-uEtrliD7Wx6jdXqkAU9GM2dY&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=pZCPrv_QYri434r1pqSP4w&_nc_tpa=Q5bMBQKNhvlSneMbIWw_zw5ThiyVamrj6mCXyYFsjHfFI7IeI4Rs2-RCwiqGLsKyGYcuiZCpLK6HrQ2Z&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQQHViBAw_Xi8Q29LnQMEGyqygzeHXhIivWYYVWlzMzfig&oe=6B069FA2"
+   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/919503334_18499070233108869_3829259588633932869_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=oBOchQgfUZ8Q7kNvwFLPy5I&_nc_oc=AdoPgeZaoZX-uNoktCKMfyPckKZMJoCKLcB52f5q4G8jNXGgcBNJeHS2QR0jfYiF3MM&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=bcS6W-Odk9qjNXudUSdQIA&_nc_tpa=Q5bMBQIAoEStXJUjiSYY9ZxxRPG-Ds_tQKYP10-g0OZ9NDYjwryX6RqkmeW0rHdi8klhwpLgtwhwRC05&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQSWSBlCr1SN_TZXuPa8i2sW6trPDYbwWIoCn26e0OPprg&oe=6B06E2E7"
   },
   {
    "titulo": "Cerâmica do território para o território - geração de renda e empoderamento",
@@ -3480,7 +3291,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/Df5n-Jmsom3/",
-   "imagem": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/915098693_1657281666036962_2838978724284369005_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ucyAlvTfiPAQ7kNvwEOCMGI&_nc_oc=Adqh1CzURusCWRf_zddkVr_QSfd85oGiqQJN9-jhzDMBqbcLB8Cp_EqIADj3pw8Ntss&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=pZCPrv_QYri434r1pqSP4w&_nc_tpa=Q5bMBQJH53YaN7Y_TRqYUFdk8xEu2VGPAcF4hXiQfZ2NUbgGNs0V1NjAS8ZQ0UIMK9qD3GyKJWiwy_Sa&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRAD2NHK2ihYMGvzFVkLpCRx5-9fMMtsEtP7EKQuZwKsQ&oe=6B068A44"
+   "imagem": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/915098693_1657281666036962_2838978724284369005_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ucyAlvTfiPAQ7kNvwEOCMGI&_nc_oc=Adqh1CzURusCWRf_zddkVr_QSfd85oGiqQJN9-jhzDMBqbcLB8Cp_EqIADj3pw8Ntss&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=bcS6W-Odk9qjNXudUSdQIA&_nc_tpa=Q5bMBQLaIr_jchNwFAWR5nPzDsweogDJU_KhEB2BvI5EzLOQrD2Z1C9kTxR_kWOUDD8w28yb8R6x7o21&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQT5dXnqy7JwVTSrNoIwrOxaoi4xsdLAtVuO_vN-z7F3zQ&oe=6B06C284"
   },
   {
    "titulo": "Mãos que brincam",
@@ -3532,7 +3343,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/Df2rPo1h6EO/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/911668098_18498529531108869_3476684062558574841_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=sbG4rlQXQ_YQ7kNvwFt8UTq&_nc_oc=AdrqaLVglARC7Izfecgr_wOKrmulFC-lVaRFkCL_H6jgmwQnCDMJHbstlKnA5BOjK1Q&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=pZCPrv_QYri434r1pqSP4w&_nc_tpa=Q5bMBQKnIvgb6_xfc35O_wnA3WZlsLDTvj5mF6m7Xo6cGrTkpfQE6PwPHjVS9n4i2oR_re9tIbn5EU-f&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSjUube9EDRDDLIrXwNYVIE-Ff5c8Sw1udBLDrkrcOWeg&oe=6B066E26"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/911668098_18498529531108869_3476684062558574841_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=sbG4rlQXQ_YQ7kNvwFt8UTq&_nc_oc=AdrqaLVglARC7Izfecgr_wOKrmulFC-lVaRFkCL_H6jgmwQnCDMJHbstlKnA5BOjK1Q&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=bcS6W-Odk9qjNXudUSdQIA&_nc_tpa=Q5bMBQLxskNn_s6XX0S5ZuThW2oWyly-jGK0I5KmC6iNZexp11FKuIsYiZ7uj3zZrY4gCxsIyrfegSQX&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQS0RwoKMzKazIrQkX_FuyKiGcer_2liWOOIK_DCg9IBnA&oe=6B06DEA6"
   },
   {
    "titulo": "Projeto Observando os Rios",
@@ -4999,7 +4810,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/Df8BzbxDJKv/",
-   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/914798926_1708198664195725_6295280109043490028_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=aoU-9sdoUSMQ7kNvwH2G8Od&_nc_oc=AdoD01wXY9Q68hCtMpXxyxS7X6RnTTgrzE21WVEgFx7bkATGkoJnLnzwme_jkB1t_Wc&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=pZCPrv_QYri434r1pqSP4w&_nc_tpa=Q5bMBQLPSJW1qN-i5C2dE5u-R4PSf5bjAhVgm8bX-mo0GsVpFGtRfb36i5WoFsWQMiTKY7JvRNEDvui9&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQ6Ig6jhyVFwhEiHqZGMXd3bMbeFcNuuDydXt0WQ8Kcuw&oe=6B06A11F"
+   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/914798926_1708198664195725_6295280109043490028_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=aoU-9sdoUSMQ7kNvwH2G8Od&_nc_oc=AdoD01wXY9Q68hCtMpXxyxS7X6RnTTgrzE21WVEgFx7bkATGkoJnLnzwme_jkB1t_Wc&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=bcS6W-Odk9qjNXudUSdQIA&_nc_tpa=Q5bMBQJ-jaLSWCoAh_7CFi6PGJYayTCR7luCTOjfSlFynRPoMQheDGm9FcvuTTxFeqZ7Z8q_HXG9MQiD&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQJS6pokqumq7IbG7h-165c4uXco5eSi0dFFRHUkfgaeQ&oe=6B06D95F"
   },
   {
    "titulo": "Cinematerna",
