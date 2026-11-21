@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-21T06:03-03:00",
+ "gerado_em": "2026-11-21T18:03-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -101,7 +101,7 @@
    "shopping": "Shopping União",
    "url": "https://www.shoppinguniao.com.br/",
    "status": "ok",
-   "eventos": 4
+   "eventos": 6
   },
   {
    "shopping": "Open Mall The Square",
@@ -2736,7 +2736,7 @@
    "horario": "das 10h às 22h",
    "faixa_etaria": "Livre",
    "gratuito": true,
-   "agendamento": false,
+   "agendamento": true,
    "como_agendar": null,
    "link_inscricao": null,
    "natal": true,
@@ -2774,13 +2774,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "5537e462dfbf",
+   "id": "ef26fcc87d63",
    "shopping": "Shopping Vila Olímpia",
    "bairro": "Vila Olímpia",
    "regiao": "Zona Sul",
    "fonte": "Shopping Vila Olímpia",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppingvilaolimpia.com.br/eventos/sdy7pf4vm4-miau-de-natal-ong-desabandone/",
+   "url": "https://www.shoppingvilaolimpia.com.br/lazer-e-eventos/eventos/sdy7pf4vm4-miau-de-natal-ong-desabandone/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/23/70/2370d85e-3433-4f51-911a-eb117761844c/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -3158,7 +3158,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/Dfu_cEvhr52/",
-   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/919503334_18499070233108869_3829259588633932869_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=oBOchQgfUZ8Q7kNvwFLPy5I&_nc_oc=AdoPgeZaoZX-uNoktCKMfyPckKZMJoCKLcB52f5q4G8jNXGgcBNJeHS2QR0jfYiF3MM&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=bcS6W-Odk9qjNXudUSdQIA&_nc_tpa=Q5bMBQIAoEStXJUjiSYY9ZxxRPG-Ds_tQKYP10-g0OZ9NDYjwryX6RqkmeW0rHdi8klhwpLgtwhwRC05&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQSWSBlCr1SN_TZXuPa8i2sW6trPDYbwWIoCn26e0OPprg&oe=6B06E2E7"
+   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/919503334_18499070233108869_3829259588633932869_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=oBOchQgfUZ8Q7kNvwFLPy5I&_nc_oc=AdoPgeZaoZX-uNoktCKMfyPckKZMJoCKLcB52f5q4G8jNXGgcBNJeHS2QR0jfYiF3MM&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=E3P5cDwYt2jMUqVGeL4wWw&_nc_tpa=Q5bMBQL32aqgY1VKW_Ep0KGL_et648iuBVyfFnal8eBO9OyPvtq145p7BT0HYzCI38H-f7UgB3QjrGQ7&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQRRZGoLBIypprc0SJm8Mi8B261r5mhDTNkjwMZjCLHTig&oe=6B07C3E7"
   },
   {
    "titulo": "Cerâmica do território para o território - geração de renda e empoderamento",
@@ -3291,7 +3291,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/Df5n-Jmsom3/",
-   "imagem": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/915098693_1657281666036962_2838978724284369005_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ucyAlvTfiPAQ7kNvwEOCMGI&_nc_oc=Adqh1CzURusCWRf_zddkVr_QSfd85oGiqQJN9-jhzDMBqbcLB8Cp_EqIADj3pw8Ntss&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=bcS6W-Odk9qjNXudUSdQIA&_nc_tpa=Q5bMBQLaIr_jchNwFAWR5nPzDsweogDJU_KhEB2BvI5EzLOQrD2Z1C9kTxR_kWOUDD8w28yb8R6x7o21&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQT5dXnqy7JwVTSrNoIwrOxaoi4xsdLAtVuO_vN-z7F3zQ&oe=6B06C284"
+   "imagem": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/915098693_1657281666036962_2838978724284369005_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ucyAlvTfiPAQ7kNvwEOCMGI&_nc_oc=Adqh1CzURusCWRf_zddkVr_QSfd85oGiqQJN9-jhzDMBqbcLB8Cp_EqIADj3pw8Ntss&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=E3P5cDwYt2jMUqVGeL4wWw&_nc_tpa=Q5bMBQINmWEu56x8cfZoPC4fhMpmwjl8nR4g5VdgKER0morANq7a5CmOkxW_0X8maQ-TAmXZWOuspH5Q&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRbaztAGw5Vl7X2URTuFHztstjUbwWkrSU5qidppRQ5tg&oe=6B07DBC4"
   },
   {
    "titulo": "Mãos que brincam",
@@ -3343,7 +3343,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/Df2rPo1h6EO/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/911668098_18498529531108869_3476684062558574841_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=sbG4rlQXQ_YQ7kNvwFt8UTq&_nc_oc=AdrqaLVglARC7Izfecgr_wOKrmulFC-lVaRFkCL_H6jgmwQnCDMJHbstlKnA5BOjK1Q&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=bcS6W-Odk9qjNXudUSdQIA&_nc_tpa=Q5bMBQLxskNn_s6XX0S5ZuThW2oWyly-jGK0I5KmC6iNZexp11FKuIsYiZ7uj3zZrY4gCxsIyrfegSQX&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQS0RwoKMzKazIrQkX_FuyKiGcer_2liWOOIK_DCg9IBnA&oe=6B06DEA6"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/911668098_18498529531108869_3476684062558574841_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=sbG4rlQXQ_YQ7kNvwFt8UTq&_nc_oc=AdrqaLVglARC7Izfecgr_wOKrmulFC-lVaRFkCL_H6jgmwQnCDMJHbstlKnA5BOjK1Q&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=E3P5cDwYt2jMUqVGeL4wWw&_nc_tpa=Q5bMBQKj17czTUR0nYt2TJugn-lpGE38x1VJFaDx3VcM6gxXclctDJ0wuPzbk3Cv1vkrN-evHwCW7JlS&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTSJWCQfRf3JSL7gFjVRsj6RBJALbHgJ_kH9OE7t_XWxA&oe=6B07BFA6"
   },
   {
    "titulo": "Projeto Observando os Rios",
@@ -4810,7 +4810,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/Df8BzbxDJKv/",
-   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/914798926_1708198664195725_6295280109043490028_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=aoU-9sdoUSMQ7kNvwH2G8Od&_nc_oc=AdoD01wXY9Q68hCtMpXxyxS7X6RnTTgrzE21WVEgFx7bkATGkoJnLnzwme_jkB1t_Wc&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=bcS6W-Odk9qjNXudUSdQIA&_nc_tpa=Q5bMBQJ-jaLSWCoAh_7CFi6PGJYayTCR7luCTOjfSlFynRPoMQheDGm9FcvuTTxFeqZ7Z8q_HXG9MQiD&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQJS6pokqumq7IbG7h-165c4uXco5eSi0dFFRHUkfgaeQ&oe=6B06D95F"
+   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/914798926_1708198664195725_6295280109043490028_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=aoU-9sdoUSMQ7kNvwH2G8Od&_nc_oc=AdoD01wXY9Q68hCtMpXxyxS7X6RnTTgrzE21WVEgFx7bkATGkoJnLnzwme_jkB1t_Wc&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=E3P5cDwYt2jMUqVGeL4wWw&_nc_tpa=Q5bMBQL9OJweQbrQdJFV-HbZ2q92nJ0GXXH_GanYIKs5Ich45bwu6_Alveewzl2AAy3yxm_wUIuv24ab&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSrTY-lGm7Mq311E84Posy6ppNgvoazSi4Z4d7CFTmnQw&oe=6B07F29F"
   },
   {
    "titulo": "Cinematerna",
@@ -4863,6 +4863,31 @@
    "imagem": "https://www.shoppingitaquera.com.br/sites/metro-itaquera/files/shopping-media/Novidade/2023-04/KV_TEA_Card_Site.jpg"
   },
   {
+   "titulo": "Tem um passageiro muito especial chegando por aqui hoje",
+   "resumo": "Tem um passageiro muito especial chegando por aqui hoje. E pode avisar a família toda: o bom Velhinho vai trocar o trenó por um helicóptero e fazer um pouso cheio de magia. Antes dessa chegada emocionante, pegue o lápis, escreva a cartinha com os pedidos mais especiais e traga as crianças para viver uma manhã de muita…",
+   "inicio": null,
+   "fim": null,
+   "horario": "10h30, 12h",
+   "faixa_etaria": null,
+   "gratuito": null,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": true,
+   "categorias": [],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "4aab4d0a4dce",
+   "shopping": "Shopping União",
+   "bairro": "Osasco",
+   "regiao": "Grande SP",
+   "fonte": "Shopping União",
+   "tipo_local": "Shopping",
+   "url": "https://www.instagram.com/p/Df__lDul6HB/",
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/920823913_18499187368108869_1759026874840678789_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=5uhfjVIyCpAQ7kNvwEOI8TH&_nc_oc=AdoA27g16Ndeub60qhfjfexgngxgxvgF2aIHzzErjVH8gWwIj3IKYXc7edgL8yNzKfM&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=E3P5cDwYt2jMUqVGeL4wWw&_nc_tpa=Q5bMBQI6s3Ky9cfiSoJBLsE5SfdNI6mNCmekhB19yPiRIcPqLAM6iGRbJgzngb0HWPax4pwB93cWUgQp&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRh5Y2ELxFZyfv1Rb5_ARJt6GDAodKB1xxi8SpIAXGAhg&oe=6B07C4CF"
+  },
+  {
    "titulo": "Visite O Trono Do Papai Noel",
    "resumo": "VISITE O TRONO DO PAPAI NOEL | Shopping Cidade São Paulo VISITE O TRONO DO PAPAI NOEL O Natal chegou no Cidade SP! Venha visitar o Trono do Papai Noel🎄 📲Registre esse momento especial e marque o Shopping no Instagram @shoppingcidadesp ⏰ Horário de atendimento: Segunda a sábado: das 12h às 20h Atendimento por ordem de…",
    "inicio": null,
@@ -4886,6 +4911,31 @@
    "tipo_local": "Shopping",
    "url": "https://shoppingcidadesp.com.br/evento/visite-o-trono-do-papai-noel/",
    "imagem": "https://shoppingcidadesp.com.br/wp-content/uploads/2026/11/App_1080X1080-100.jpg"
+  },
+  {
+   "titulo": "É OFICIAL!",
+   "resumo": "É OFICIAL! O Bom Velhinho já pousou aqui no Shopping União e preparou os horários de atendimento para te receber! 🎅 Venha fazer seu pedido de Natal e tirar uma foto linda para guardar de recordação. Confira os horários, chame a família, reúna a criançada e venha viver esse momento cheio de alegria e magia com a gente!…",
+   "inicio": null,
+   "fim": null,
+   "horario": null,
+   "faixa_etaria": null,
+   "gratuito": null,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": true,
+   "categorias": [],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "94f38aa97144",
+   "shopping": "Shopping União",
+   "bairro": "Osasco",
+   "regiao": "Grande SP",
+   "fonte": "Shopping União",
+   "tipo_local": "Shopping",
+   "url": "https://www.instagram.com/p/DgAcwQ8F7sy/",
+   "imagem": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/919398784_18499221934108869_390165213436694499_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=1cBEFdv1wzIQ7kNvwE07sJi&_nc_oc=AdoCrNG56QF9H6Hyhw7fKNOnzan2MuxATOVLo-CGmIq9tNH9WOFRa8PoGzRNMM74s6I&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=E3P5cDwYt2jMUqVGeL4wWw&_nc_tpa=Q5bMBQImWc1T4b7ad6VH901PelKCT8sL81bG4j8aQYgFtwIw1F5JrenbixfkCg-zAz1Mdx1Pb4KKsUYS&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQR3vaw7evXwiUm6GXPWWxmEbHrznzyqKvoWY3HOUh8uKQ&oe=6B07F0EC"
   }
  ]
 }
