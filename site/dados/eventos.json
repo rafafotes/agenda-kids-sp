@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-21T18:03-03:00",
+ "gerado_em": "2026-11-22T06:03-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -17,7 +17,7 @@
    "shopping": "Shopping Vila Olímpia",
    "url": "https://www.shoppingvilaolimpia.com.br/eventos/",
    "status": "ok",
-   "eventos": 1
+   "eventos": 2
   },
   {
    "shopping": "JK Iguatemi",
@@ -101,13 +101,13 @@
    "shopping": "Shopping União",
    "url": "https://www.shoppinguniao.com.br/",
    "status": "ok",
-   "eventos": 6
+   "eventos": 3
   },
   {
    "shopping": "Open Mall The Square",
    "url": "https://openmallthesquare.com.br/eventos-nova/",
    "status": "ok",
-   "eventos": 22
+   "eventos": 20
   },
   {
    "shopping": "Shopping Cidade Jardim",
@@ -155,7 +155,7 @@
    "shopping": "Sesc SP",
    "url": "https://www.sescsp.org.br/programacao/",
    "status": "erro: HTTPError: HTTP Error 403: Forbidden",
-   "eventos": 114
+   "eventos": 111
   }
  ],
  "eventos": [
@@ -2090,6 +2090,34 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Image_2026_09_08_at_21.57.34_2026-09-09-10-39-12.jpeg"
   },
   {
+   "titulo": "NATAL NO BOSQUE 🎅🎄",
+   "resumo": "O Natal no Bosque do Shopping Vila Olímpia traz uma programação especial para toda a família. Programe sua visita e venha viver essa experiência com a gente! 🎅 Trono do Papai Noel O Bom Velhinho espera crianças e famílias para o tradicional encontro e as fotos de Natal. Local: 2º piso, Trono do Noel Horário: todos os…",
+   "inicio": "2026-11-08",
+   "fim": "2026-12-24",
+   "horario": "das 12h às 20h",
+   "faixa_etaria": "Livre",
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": true,
+   "categorias": [
+    "Diversão",
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "a0d47af241b3",
+   "shopping": "Shopping Vila Olímpia",
+   "bairro": "Vila Olímpia",
+   "regiao": "Zona Sul",
+   "fonte": "Shopping Vila Olímpia",
+   "tipo_local": "Shopping",
+   "url": "https://www.shoppingvilaolimpia.com.br/eventos/urovlczida-natal-no-bosque/",
+   "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/c4/1c/c41c3312-5e82-4ed2-b116-1208da4513e5/hubimage__0x650_subsampling-2.webp"
+  },
+  {
    "titulo": "Oficina Solidária de Natal",
    "resumo": "Dois bonecos de neve. Um deles tem uma missão especial! ☃️❤️ De 11 de novembro a 6 de dezembro, os pequenos poderão colocar a criatividade em prática na Oficina Solidária de Natal. A brincadeira começa com a criação de dois bonecos de neve feitos com meia: um para levar para casa e outro para ser doado pelo Papai Noel…",
    "inicio": "2026-11-08",
@@ -2571,33 +2599,6 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Mare_de_historias_EB_foto_Ana_Souza_2026-01-17-14-28-36.jpg"
   },
   {
-   "titulo": "Obompó-Roponga: a encantaria das árvores",
-   "resumo": "com O Jardim Público: Crianças Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc Pompeia",
-   "inicio": "2026-11-14",
-   "fim": "2026-11-21",
-   "horario": "próxima sessão 14/11 às 12h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Shows, Espetáculos e Performances"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "c7ecc8bbf0cf",
-   "shopping": "Sesc Pompeia",
-   "bairro": "Pompeia",
-   "regiao": "Zona Oeste",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/obompo-roponga-a-encantaria-das-arvores",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/25_IMG_6682_1_2026-06-11-13-40-07.jpg"
-  },
-  {
    "titulo": "Sarau das Crianças",
    "resumo": "com Cia Muvuca Público: Diversas idades Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc Santana",
    "inicio": "2026-11-14",
@@ -2774,13 +2775,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "ef26fcc87d63",
+   "id": "5537e462dfbf",
    "shopping": "Shopping Vila Olímpia",
    "bairro": "Vila Olímpia",
    "regiao": "Zona Sul",
    "fonte": "Shopping Vila Olímpia",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppingvilaolimpia.com.br/lazer-e-eventos/eventos/sdy7pf4vm4-miau-de-natal-ong-desabandone/",
+   "url": "https://www.shoppingvilaolimpia.com.br/eventos/sdy7pf4vm4-miau-de-natal-ong-desabandone/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/23/70/2370d85e-3433-4f51-911a-eb117761844c/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -3109,58 +3110,6 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/modelagem_3d_BrunoFiorelliReis1_2026-07-30-20-52-15.jpeg"
   },
   {
-   "titulo": "A Cabaça e o Canto Ancestral",
-   "resumo": "com Ateliê Afrocultural Público: Crianças, Diversas idades Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc Interlagos",
-   "inicio": "2026-11-21",
-   "fim": "2026-11-21",
-   "horario": "próxima sessão 21/11 às 15h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Shows, Espetáculos e Performances"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "79b68f4f2bf1",
-   "shopping": "Sesc Interlagos",
-   "bairro": "Interlagos",
-   "regiao": "Zona Sul",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/a-cabaca-e-o-canto-ancestral",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2023/03/A-cabaca-e-o-canto-ancestral.jpg"
-  },
-  {
-   "titulo": "Alô, Osasco!",
-   "resumo": "🚁🎅 Alô, Osasco! Tem um passageiro muito especial chegando por aí! E pode avisar a família toda: no dia 21/11, o bom velhinho vai trocar o trenó por um helicóptero e fazer um pouso cheio de magia aqui no Shopping União! ✨🎄 E antes dessa chegada emocionante, a diversão já está garantida com um show especial de Maria…",
-   "inicio": "2026-11-21",
-   "fim": "2026-11-21",
-   "horario": "10h30, 12h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": true,
-   "categorias": [],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "fffdc6d571f1",
-   "shopping": "Shopping União",
-   "bairro": "Osasco",
-   "regiao": "Grande SP",
-   "fonte": "Shopping União",
-   "tipo_local": "Shopping",
-   "url": "https://www.instagram.com/reel/Dfu_cEvhr52/",
-   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/919503334_18499070233108869_3829259588633932869_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=oBOchQgfUZ8Q7kNvwFLPy5I&_nc_oc=AdoPgeZaoZX-uNoktCKMfyPckKZMJoCKLcB52f5q4G8jNXGgcBNJeHS2QR0jfYiF3MM&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=E3P5cDwYt2jMUqVGeL4wWw&_nc_tpa=Q5bMBQL32aqgY1VKW_Ep0KGL_et648iuBVyfFnal8eBO9OyPvtq145p7BT0HYzCI38H-f7UgB3QjrGQ7&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQRRZGoLBIypprc0SJm8Mi8B261r5mhDTNkjwMZjCLHTig&oe=6B07C3E7"
-  },
-  {
    "titulo": "Cerâmica do território para o território - geração de renda e empoderamento",
    "resumo": "com ceramistas da Balauarte Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc 14 Bis",
    "inicio": "2026-11-21",
@@ -3186,33 +3135,6 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/ceramica-do-territorio-para-o-territorio-geracao-de-renda-e-empoderamento",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/ceramica2.jpeg"
-  },
-  {
-   "titulo": "Chinela Voadora",
-   "resumo": "Palco Praça Gratuito Horários: 20h Atividade infantil",
-   "inicio": "2026-11-21",
-   "fim": "2026-11-21",
-   "horario": "20h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Infantil"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "b158040934b5",
-   "shopping": "Open Mall The Square",
-   "bairro": "Granja Viana (Cotia)",
-   "regiao": "Grande SP",
-   "fonte": "Open Mall The Square",
-   "tipo_local": "Shopping",
-   "url": "https://openmallthesquare.com.br/eventos-nova/#chinela-voadora",
-   "imagem": null
   },
   {
    "titulo": "Dan Marques",
@@ -3269,31 +3191,6 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/InShot_20261021_190143256-1.jpg"
   },
   {
-   "titulo": "Missão aceita: deixar o Natal mais fantástico",
-   "resumo": "Missão aceita: deixar o Natal mais fantástico. 🎅 O Papai Noel está chegando ao União para a fase mais esperada do ano. Seu objetivo agora é vir encontrar com ele. Anota na agenda: é dia 21/11. Vem viver um Natal Fantástico no Shopping União de Osasco.",
-   "inicio": "2026-11-21",
-   "fim": "2026-11-21",
-   "horario": null,
-   "faixa_etaria": null,
-   "gratuito": null,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": true,
-   "categorias": [],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "c3940526c9ea",
-   "shopping": "Shopping União",
-   "bairro": "Osasco",
-   "regiao": "Grande SP",
-   "fonte": "Shopping União",
-   "tipo_local": "Shopping",
-   "url": "https://www.instagram.com/reel/Df5n-Jmsom3/",
-   "imagem": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/915098693_1657281666036962_2838978724284369005_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ucyAlvTfiPAQ7kNvwEOCMGI&_nc_oc=Adqh1CzURusCWRf_zddkVr_QSfd85oGiqQJN9-jhzDMBqbcLB8Cp_EqIADj3pw8Ntss&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=E3P5cDwYt2jMUqVGeL4wWw&_nc_tpa=Q5bMBQINmWEu56x8cfZoPC4fhMpmwjl8nR4g5VdgKER0morANq7a5CmOkxW_0X8maQ-TAmXZWOuspH5Q&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRbaztAGw5Vl7X2URTuFHztstjUbwWkrSU5qidppRQ5tg&oe=6B07DBC4"
-  },
-  {
    "titulo": "Mãos que brincam",
    "resumo": "com Coletivo Rua Brincante Público: Crianças Categorias: Encontros e Palestras Atividade gratuita Unidade: Sesc 24 de Maio",
    "inicio": "2026-11-21",
@@ -3319,85 +3216,6 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/maos-que-brincam-2",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Fotos-para-Portal-26.png"
-  },
-  {
-   "titulo": "O Papai Noel está preparando uma chegada pra lá de especial!",
-   "resumo": "O Papai Noel está preparando uma chegada pra lá de especial!🎅 Neste Natal, o bom velhinho vai deixar o trenó de lado e chegar pelos ares para espalhar ainda mais encanto e alegria por Osasco! 🚁 Venha viver esse momento especial com a gente. É neste sábado, dia 21/11: 10h30 - Show Infantil - Maria Clara e JP 12h -…",
-   "inicio": "2026-11-21",
-   "fim": "2026-11-21",
-   "horario": "10h30, 12h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": true,
-   "categorias": [],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "cef654e2ef94",
-   "shopping": "Shopping União",
-   "bairro": "Osasco",
-   "regiao": "Grande SP",
-   "fonte": "Shopping União",
-   "tipo_local": "Shopping",
-   "url": "https://www.instagram.com/reel/Df2rPo1h6EO/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/911668098_18498529531108869_3476684062558574841_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=sbG4rlQXQ_YQ7kNvwFt8UTq&_nc_oc=AdrqaLVglARC7Izfecgr_wOKrmulFC-lVaRFkCL_H6jgmwQnCDMJHbstlKnA5BOjK1Q&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=E3P5cDwYt2jMUqVGeL4wWw&_nc_tpa=Q5bMBQKj17czTUR0nYt2TJugn-lpGE38x1VJFaDx3VcM6gxXclctDJ0wuPzbk3Cv1vkrN-evHwCW7JlS&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTSJWCQfRf3JSL7gFjVRsj6RBJALbHgJ_kH9OE7t_XWxA&oe=6B07BFA6"
-  },
-  {
-   "titulo": "Projeto Observando os Rios",
-   "resumo": "Monitoramento da qualidade da água em parceria com a Fundação SOS Mata Atlântica Público: Adulto, Crianças, Diversas idades, Jovens Categorias: Encontros e Palestras Atividade gratuita Unidade: Sesc Interlagos",
-   "inicio": "2026-11-21",
-   "fim": "2026-11-21",
-   "horario": "próxima sessão 21/11 às 12h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Encontros e Palestras"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "fedb16ade45a",
-   "shopping": "Sesc Interlagos",
-   "bairro": "Interlagos",
-   "regiao": "Zona Sul",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/projeto-observando-os-rios-2",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2023/09/800x400-Larissa-Macedo-3.png"
-  },
-  {
-   "titulo": "Sampél Trio",
-   "resumo": "Palco Praça Gratuito Horários: 14h Atividade infantil",
-   "inicio": "2026-11-21",
-   "fim": "2026-11-21",
-   "horario": "14h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Infantil"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "5badcc1c484f",
-   "shopping": "Open Mall The Square",
-   "bairro": "Granja Viana (Cotia)",
-   "regiao": "Grande SP",
-   "fonte": "Open Mall The Square",
-   "tipo_local": "Shopping",
-   "url": "https://openmallthesquare.com.br/eventos-nova/#sampel-trio",
-   "imagem": null
   },
   {
    "titulo": "Bailinho Diladim",
@@ -4810,7 +4628,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/Df8BzbxDJKv/",
-   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/914798926_1708198664195725_6295280109043490028_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=aoU-9sdoUSMQ7kNvwH2G8Od&_nc_oc=AdoD01wXY9Q68hCtMpXxyxS7X6RnTTgrzE21WVEgFx7bkATGkoJnLnzwme_jkB1t_Wc&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=E3P5cDwYt2jMUqVGeL4wWw&_nc_tpa=Q5bMBQL9OJweQbrQdJFV-HbZ2q92nJ0GXXH_GanYIKs5Ich45bwu6_Alveewzl2AAy3yxm_wUIuv24ab&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSrTY-lGm7Mq311E84Posy6ppNgvoazSi4Z4d7CFTmnQw&oe=6B07F29F"
+   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/914798926_1708198664195725_6295280109043490028_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=aoU-9sdoUSMQ7kNvwH2G8Od&_nc_oc=AdoD01wXY9Q68hCtMpXxyxS7X6RnTTgrzE21WVEgFx7bkATGkoJnLnzwme_jkB1t_Wc&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=yBO4o-dmmrdoC8qq8EN3xw&_nc_tpa=Q5bMBQKvNhpTmy3nFmEISTnwlnGbxw9LCY7W8ATLpv5WDkbxZM-iwoPmET93j92_Oq55ivKZvnpG8ZIv&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQeWKD3aVlCxKpSmbsJiL4To0C5BhEc5F7tvTuXI_WBww&oe=6B082ADF"
   },
   {
    "titulo": "Cinematerna",
@@ -4885,7 +4703,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/Df__lDul6HB/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/920823913_18499187368108869_1759026874840678789_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=5uhfjVIyCpAQ7kNvwEOI8TH&_nc_oc=AdoA27g16Ndeub60qhfjfexgngxgxvgF2aIHzzErjVH8gWwIj3IKYXc7edgL8yNzKfM&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=E3P5cDwYt2jMUqVGeL4wWw&_nc_tpa=Q5bMBQI6s3Ky9cfiSoJBLsE5SfdNI6mNCmekhB19yPiRIcPqLAM6iGRbJgzngb0HWPax4pwB93cWUgQp&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRh5Y2ELxFZyfv1Rb5_ARJt6GDAodKB1xxi8SpIAXGAhg&oe=6B07C4CF"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/920823913_18499187368108869_1759026874840678789_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=5uhfjVIyCpAQ7kNvwEOI8TH&_nc_oc=AdoA27g16Ndeub60qhfjfexgngxgxvgF2aIHzzErjVH8gWwIj3IKYXc7edgL8yNzKfM&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=yBO4o-dmmrdoC8qq8EN3xw&_nc_tpa=Q5bMBQLcd_7SMQtYFYOwdTUvLUlSyqwEhxSCDNZrSQlVgJMqt4MGuc5ESZ9CUbkEtmzGfOi3MErnDL-x&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQUcb94n-IpOQzEkgYGdJS_oqY5UNAnz-45qfjTVzBFJw&oe=6B08354F"
   },
   {
    "titulo": "Visite O Trono Do Papai Noel",
@@ -4935,7 +4753,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/DgAcwQ8F7sy/",
-   "imagem": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/919398784_18499221934108869_390165213436694499_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=1cBEFdv1wzIQ7kNvwE07sJi&_nc_oc=AdoCrNG56QF9H6Hyhw7fKNOnzan2MuxATOVLo-CGmIq9tNH9WOFRa8PoGzRNMM74s6I&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=E3P5cDwYt2jMUqVGeL4wWw&_nc_tpa=Q5bMBQImWc1T4b7ad6VH901PelKCT8sL81bG4j8aQYgFtwIw1F5JrenbixfkCg-zAz1Mdx1Pb4KKsUYS&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQR3vaw7evXwiUm6GXPWWxmEbHrznzyqKvoWY3HOUh8uKQ&oe=6B07F0EC"
+   "imagem": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/919398784_18499221934108869_390165213436694499_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=1cBEFdv1wzIQ7kNvwE07sJi&_nc_oc=AdoCrNG56QF9H6Hyhw7fKNOnzan2MuxATOVLo-CGmIq9tNH9WOFRa8PoGzRNMM74s6I&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=yBO4o-dmmrdoC8qq8EN3xw&_nc_tpa=Q5bMBQIh31egcgG-4PQM-Rvqny9uCqSwIOAwPb_BIoofzSwv1XgkFqnHwPay1s9RvzaxYZSpdCsqzQ38&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTLfVTp4ThI1IZHb8dKCZBVaIeFER50OXnGpgMg2sSL4A&oe=6B08292C"
   }
  ]
 }
