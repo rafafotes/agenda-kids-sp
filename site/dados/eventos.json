@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-22T06:03-03:00",
+ "gerado_em": "2026-11-22T18:02-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -143,7 +143,7 @@
    "shopping": "Shopping Eldorado",
    "url": "https://www.shoppingeldorado.com.br/",
    "status": "ok",
-   "eventos": 0
+   "eventos": 1
   },
   {
    "shopping": "Shopping Tamboré",
@@ -4606,6 +4606,31 @@
    "imagem": "https://shoppingcidadesp.com.br/wp-content/uploads/2026/06/Exposicao-Impressionistas-VR-21.jpg"
   },
   {
+   "titulo": "Family Fest by Hasbro 2026: passeio com crianças em SP tem 50% de desconto na Black Friday",
+   "resumo": "A vila temática de mais de 2 mil m² ocupa o Shopping Eldorado , em Pinheiros, zona oeste de São Paulo . O evento está em cartaz até 24 de janeiro de 2027. O passeio é para a família participar, não para assistir. Cada criança recebe um Passaporte Explorador , percorre sete cenários inspirados em marcas como Peppa Pig…",
+   "inicio": null,
+   "fim": "2027-01-24",
+   "horario": null,
+   "faixa_etaria": "até 2 anos",
+   "gratuito": false,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "96cdf37b834b",
+   "shopping": "Shopping Eldorado",
+   "bairro": "Pinheiros",
+   "regiao": "Zona Oeste",
+   "fonte": "Shopping Eldorado",
+   "tipo_local": "Shopping",
+   "url": "https://saopauloparacriancas.com.br/family-fest-by-hasbro-sp/",
+   "imagem": null
+  },
+  {
    "titulo": "Atenção, passageiros!",
    "resumo": "Atenção, passageiros! Prepare-se para um dia cheio de música, diversão e magia no União! Maria Clara e JP chegam para fazer a alegria da criançada. E a festa continua com a chegada do Papai Noel de helicóptero! 🎅 Confira a programação: 🎶 10h30 · Show de Maria Clara e JP 🚁 12h · Chegada do Papai Noel Estacionamento…",
    "inicio": null,
@@ -4628,7 +4653,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/Df8BzbxDJKv/",
-   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/914798926_1708198664195725_6295280109043490028_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=aoU-9sdoUSMQ7kNvwH2G8Od&_nc_oc=AdoD01wXY9Q68hCtMpXxyxS7X6RnTTgrzE21WVEgFx7bkATGkoJnLnzwme_jkB1t_Wc&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=yBO4o-dmmrdoC8qq8EN3xw&_nc_tpa=Q5bMBQKvNhpTmy3nFmEISTnwlnGbxw9LCY7W8ATLpv5WDkbxZM-iwoPmET93j92_Oq55ivKZvnpG8ZIv&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQeWKD3aVlCxKpSmbsJiL4To0C5BhEc5F7tvTuXI_WBww&oe=6B082ADF"
+   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/914798926_1708198664195725_6295280109043490028_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=QqjotMRggScQ7kNvwHsZu1S&_nc_oc=AdrqoUSjRUq6NnqsV2vPMDEOhR1JFfHT7LeaFX576UEoTNI4aArgGZL4VZUTnrlXRgg&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=-66WUsRzEXnzv4DTMmjzIA&_nc_tpa=Q5bMBQKc9YEWRCSc7Mr0jccdb0kg9WFB5HOhAzUotT3WiA9Uh-enjWSA3A-UIrnd1xNH290dbsUURTS8&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQMnaPLd--93ZY25VaZE1mlm54lRNw6JuQEU5bvKXsDVg&oe=6B09441F"
   },
   {
    "titulo": "Cinematerna",
@@ -4703,7 +4728,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/Df__lDul6HB/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/920823913_18499187368108869_1759026874840678789_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=5uhfjVIyCpAQ7kNvwEOI8TH&_nc_oc=AdoA27g16Ndeub60qhfjfexgngxgxvgF2aIHzzErjVH8gWwIj3IKYXc7edgL8yNzKfM&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=yBO4o-dmmrdoC8qq8EN3xw&_nc_tpa=Q5bMBQLcd_7SMQtYFYOwdTUvLUlSyqwEhxSCDNZrSQlVgJMqt4MGuc5ESZ9CUbkEtmzGfOi3MErnDL-x&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQUcb94n-IpOQzEkgYGdJS_oqY5UNAnz-45qfjTVzBFJw&oe=6B08354F"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/920823913_18499187368108869_1759026874840678789_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=5uhfjVIyCpAQ7kNvwEOI8TH&_nc_oc=AdoA27g16Ndeub60qhfjfexgngxgxvgF2aIHzzErjVH8gWwIj3IKYXc7edgL8yNzKfM&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=-66WUsRzEXnzv4DTMmjzIA&_nc_tpa=Q5bMBQIwO2Q0Bc9B7f1WYVGg1Sr5W5Bmx5-tAxsYKBo7Q8ufSfqWZMOcRH78ykAhjPZdzs_8rLohAMms&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQPHplEBazBs0BcXYR_bXrxC9P82GrvoeU1zzDdtpxDOg&oe=6B09164F"
   },
   {
    "titulo": "Visite O Trono Do Papai Noel",
@@ -4753,7 +4778,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/DgAcwQ8F7sy/",
-   "imagem": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/919398784_18499221934108869_390165213436694499_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=1cBEFdv1wzIQ7kNvwE07sJi&_nc_oc=AdoCrNG56QF9H6Hyhw7fKNOnzan2MuxATOVLo-CGmIq9tNH9WOFRa8PoGzRNMM74s6I&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=yBO4o-dmmrdoC8qq8EN3xw&_nc_tpa=Q5bMBQIh31egcgG-4PQM-Rvqny9uCqSwIOAwPb_BIoofzSwv1XgkFqnHwPay1s9RvzaxYZSpdCsqzQ38&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTLfVTp4ThI1IZHb8dKCZBVaIeFER50OXnGpgMg2sSL4A&oe=6B08292C"
+   "imagem": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/919398784_18499221934108869_390165213436694499_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=hDTS478_A9UQ7kNvwEmsUQ-&_nc_oc=AdqGy3Q1zdidMaGns-yOurnMUaI_vJJ9e2TMkZ4KUMzHe2pLWxmnTpIuMdCjMfYwbno&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=-66WUsRzEXnzv4DTMmjzIA&_nc_tpa=Q5bMBQLmL5jXHr2dDaAIXBmHQpixw-lny4Sl4RS_QHnc5b4t4yXwxt6LcQ47QI8RiWVs9iWG3ANIkKCM&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRtConK7NR1JcQIkgp33Zwovv_8G9MONkOy_RNt8C8eVw&oe=6B09426C"
   }
  ]
 }
