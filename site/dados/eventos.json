@@ -1,11 +1,11 @@
 {
- "gerado_em": "2026-11-22T18:02-03:00",
+ "gerado_em": "2026-11-23T06:03-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
    "url": "https://www.morumbishopping.com.br/eventos/",
    "status": "ok",
-   "eventos": 7
+   "eventos": 6
   },
   {
    "shopping": "Shopping Anália Franco",
@@ -107,13 +107,13 @@
    "shopping": "Open Mall The Square",
    "url": "https://openmallthesquare.com.br/eventos-nova/",
    "status": "ok",
-   "eventos": 20
+   "eventos": 18
   },
   {
    "shopping": "Shopping Cidade Jardim",
    "url": "https://www.shoppingcidadejardim.com/acontece-no-cj",
    "status": "ok",
-   "eventos": 1
+   "eventos": 2
   },
   {
    "shopping": "Shopping Penha",
@@ -155,7 +155,7 @@
    "shopping": "Sesc SP",
    "url": "https://www.sescsp.org.br/programacao/",
    "status": "erro: HTTPError: HTTP Error 403: Forbidden",
-   "eventos": 111
+   "eventos": 95
   }
  ],
  "eventos": [
@@ -285,6 +285,31 @@
    "tipo_local": "Shopping",
    "url": "https://shoppingcidadesp.com.br/evento/monopoly-experience-tesouros-do-brasil/",
    "imagem": "https://shoppingcidadesp.com.br/wp-content/uploads/2026/09/700x900-01.png"
+  },
+  {
+   "titulo": "Fashion Weekend Kids",
+   "resumo": "Nos dias 19 e 20 de setembro de 2026, o Shopping Cidade Jardim recebeu a 51ª edição do Fashion Weekend Kids, realizada na Casa Braz. O evento reuniu uma programação especial de desfiles com algumas das principais marcas do universo infantil, entre elas Brooksfield, Mandarina e Cris Barros.",
+   "inicio": "2026-09-20",
+   "fim": "2027-09-19",
+   "horario": null,
+   "faixa_etaria": null,
+   "gratuito": null,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "7c56f7a74225",
+   "shopping": "Shopping Cidade Jardim",
+   "bairro": "Cidade Jardim",
+   "regiao": "Zona Oeste",
+   "fonte": "Shopping Cidade Jardim",
+   "tipo_local": "Shopping",
+   "url": "https://www.shoppingcidadejardim.com/acontece-no-cj#fashion-weekend-kids",
+   "imagem": "https://shoppings.jhsfstatic.com/assets/FASHION_WEEKEND_KIDS_ACONTECE_700x500px_2_a72c1da2ca.webp"
   },
   {
    "titulo": "Human Bodies – Maravilhas do Corpo Humano",
@@ -906,33 +931,6 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/noe-e-nihnho.png"
   },
   {
-   "titulo": "O Barco, de Grada Kilomba",
-   "resumo": "Exposição Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Exposições Atividade gratuita Unidade: Sesc Pompeia",
-   "inicio": "2026-11-05",
-   "fim": "2026-11-22",
-   "horario": "próxima sessão 10/11 às 21h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Exposições"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "98c2a5eeece0",
-   "shopping": "Sesc Pompeia",
-   "bairro": "Pompeia",
-   "regiao": "Zona Oeste",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/o-barco-de-grada-kilomba",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/09/1.Grada-Kilomba-O-Barco-2021.-Vista-de-Instalacao-em-Instituto-Inhotim.-Photo-by-Brendon-Campos-1.jpg"
-  },
-  {
    "titulo": "Oficina de Modelagem e Criação de Roupa para Bonecas",
    "resumo": "Com Ces Martins Público: Diversas idades Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Itaquera",
    "inicio": "2026-11-05",
@@ -1201,33 +1199,6 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/quintal-do-curumim-brincadeiras-na-praca",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/08/Quintal-do-Curumim-Brinquedos-e-Brincadeiras-Divulgacao.jpg"
-  },
-  {
-   "titulo": "Rockabilly",
-   "resumo": "Com Danilo Brum e Aline Cortes Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Esporte e Atividade Física Atividade gratuita Unidade: Sesc Consolação",
-   "inicio": "2026-11-05",
-   "fim": "2026-11-22",
-   "horario": "próxima sessão 15/11 às 16h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Esporte e Atividade Física"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "bf01ccb27b8c",
-   "shopping": "Sesc Consolação",
-   "bairro": "Consolação",
-   "regiao": "Centro",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/rockabilly",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2024/07/Rockabilly.png"
   },
   {
    "titulo": "Roda Gigante Natal 2026",
@@ -2380,34 +2351,6 @@
    "imagem": "https://tieteplaza.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-11-12-at-16.36.00.jpeg"
   },
   {
-   "titulo": "Grande espetáculo de Natal",
-   "resumo": "No dia 21 de novembro, a partir das 19h, venha celebrar a abertura do Natal com um grande espetáculo musical a céu aberto, com música ao vivo, ballet, acrobacias, dança vertical, efeitos especiais e uma fanfarra com 30 músicos. O momento mais esperado será a chegada do Papai Noel e o acendimento da nossa grandiosa…",
-   "inicio": "2026-11-13",
-   "fim": "2026-11-22",
-   "horario": "19h, 20h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": true,
-   "categorias": [
-    "Música",
-    "Evento"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "67cd71f2262a",
-   "shopping": "MorumbiShopping",
-   "bairro": "Morumbi",
-   "regiao": "Zona Sul",
-   "fonte": "MorumbiShopping",
-   "tipo_local": "Shopping",
-   "url": "https://www.morumbishopping.com.br/eventos/fakcn8avsd-grande-espetaculo-de-natal/",
-   "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/91/11/9111dda6-ea6a-4bb3-99be-1ad6ee2e3508/hubimage__0x650_subsampling-2.png"
-  },
-  {
    "titulo": "Reino Mágico dos Quebra-nozes",
    "resumo": "GRANDE ESPETÁCULO DE NATAL E CHEGADA DO PAPAI NOEL: SÁBADO, 21/11 ÀS 19H - ATRIUM | ÁREA EXTERNA | PISO TÉRREO (ACESSO C) Confira todas as atrações: Decoração Inédita - Atrium | Piso Térreo - Vão Central | Piso Lazer – Rooftop | Piso G4 Árvore de Natal interna de 13 metros com Presépio de Gênova - Vão Central | Piso…",
    "inicio": "2026-11-13",
@@ -2518,60 +2461,6 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/ChaveiroAmuletoAdinkta_NosRaizes.jpg"
   },
   {
-   "titulo": "Introdução ao Lettering e Caligrafia",
-   "resumo": "Com Danise Eliom Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Avenida Paulista",
-   "inicio": "2026-11-14",
-   "fim": "2026-11-22",
-   "horario": "próxima sessão 15/11 às 12h30",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Cursos e Oficinas"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "71d26039e05a",
-   "shopping": "Sesc Avenida Paulista",
-   "bairro": "Bela Vista",
-   "regiao": "Centro",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/introducao-ao-lettering-e-caligrafia",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/WhatsApp_Image_2026_07_16_at_00.35.52_2026-07-16-10-42-41.jpeg"
-  },
-  {
-   "titulo": "Letreirando: Um Passeio Pela Caligrafia Popular do Brasil",
-   "resumo": "Com Danise Eliom Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Avenida Paulista",
-   "inicio": "2026-11-14",
-   "fim": "2026-11-22",
-   "horario": "próxima sessão 14/11 às 16h30",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Cursos e Oficinas"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "692002f4fc11",
-   "shopping": "Sesc Avenida Paulista",
-   "bairro": "Bela Vista",
-   "regiao": "Centro",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/letreirando-um-passeio-pela-caligrafia-popular-do-brasil",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/WhatsApp_Image_2026_07_16_at_00.28.06_2026-07-16-10-45-5.jpeg"
-  },
-  {
    "titulo": "Maré de Histórias",
    "resumo": "com educadores do Espaço de Brincar Público: Crianças Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc 24 de Maio",
    "inicio": "2026-11-14",
@@ -2676,33 +2565,6 @@
    "tipo_local": "Shopping",
    "url": "https://www.partagesantana.com.br/eventos?novidade_id=54859",
    "imagem": "https://sites.madnezz.com.br/api/site/upload/Novidade/202611171713281.png"
-  },
-  {
-   "titulo": "Pirâmides de Bambu",
-   "resumo": "Brincadeiras e experimentações Público: Crianças, Diversas idades Categorias: Esporte e Atividade Física Atividade gratuita Unidade: Sesc Campo Limpo",
-   "inicio": "2026-11-17",
-   "fim": "2026-11-22",
-   "horario": "próxima sessão 20/11 às 18h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Esporte e Atividade Física"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "078170c95fe6",
-   "shopping": "Sesc Campo Limpo",
-   "bairro": "Campo Limpo",
-   "regiao": "Zona Sul",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/piramides-de-bambu",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/2019_01_12_Recreacao_FT_levi_bianco-2.png"
   },
   {
    "titulo": "Decoração de Natal",
@@ -2894,114 +2756,6 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2023/05/Banzo_Sofia_Calabria_2_2023-01-03-13-01-55.jpg"
   },
   {
-   "titulo": "Curumininices: Muitas Formas de Desenhar",
-   "resumo": "Com educadores(as) do Programa Curumim Público: Crianças Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Ipiranga",
-   "inicio": "2026-11-20",
-   "fim": "2026-11-22",
-   "horario": "próxima sessão 21/11 às 14h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Cursos e Oficinas"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "d18d960f754d",
-   "shopping": "Sesc Ipiranga",
-   "bairro": "Ipiranga",
-   "regiao": "Zona Sul",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/curumininices-muitas-formas-de-desenhar",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/20260618_102239.jpg"
-  },
-  {
-   "titulo": "Encontro de Lutas | Ancestralidade Marcial",
-   "resumo": "Com Leonardo Sodré, Kazuo Nagamine, Renato Ribeiro, Márcio Babilon, Mestre Cesar, Igor Bello, Diogo Nascimento, Ulisses Godoy e Marina Ricardo. Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Esporte e Atividade Física Atividade gratuita Unidade: Sesc Consolação",
-   "inicio": "2026-11-20",
-   "fim": "2026-11-22",
-   "horario": "próxima sessão 22/11 às 18h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Esporte e Atividade Física"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "0ea7e5bd4a86",
-   "shopping": "Sesc Consolação",
-   "bairro": "Consolação",
-   "regiao": "Centro",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/encontro-de-lutas-ancestralidade-marcial",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/PS.png"
-  },
-  {
-   "titulo": "Feira Preta pocket!",
-   "resumo": "com pessoas artesãs pretas Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Encontros e Palestras Atividade gratuita Unidade: Sesc 14 Bis",
-   "inicio": "2026-11-20",
-   "fim": "2026-11-22",
-   "horario": "próxima sessão 22/11 às 15h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Encontros e Palestras"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "e138a0670e27",
-   "shopping": "Sesc 14 Bis",
-   "bairro": "Bela Vista",
-   "regiao": "Centro",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/feira-preta-pocket-9",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/feirapreta.jpg"
-  },
-  {
-   "titulo": "Hoje tem festa no céu",
-   "resumo": "Com autoria de Cíntia Alves e direção de Eduardo Figueiredo Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc 24 de Maio",
-   "inicio": "2026-11-20",
-   "fim": "2026-11-22",
-   "horario": "próxima sessão 21/11 às 17h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Shows, Espetáculos e Performances"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "f1833fcade9c",
-   "shopping": "Sesc 24 de Maio",
-   "bairro": "República",
-   "regiao": "Centro",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/hoje-tem-festa-no-ceu-3",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/imagem_5_2026-06-23-15-40-03.png"
-  },
-  {
    "titulo": "Os Coloridos",
    "resumo": "Com Cia. Os Crespos Público: Crianças, Diversas idades Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc 14 Bis",
    "inicio": "2026-11-20",
@@ -3027,33 +2781,6 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/os-coloridos-29",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/oscoloridos.png"
-  },
-  {
-   "titulo": "Quintais do Corpo: Brincadeiras Para Imaginar Outros Mundos",
-   "resumo": "Com Cia Sansacroma Público: Diversas idades Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc Bom Retiro",
-   "inicio": "2026-11-20",
-   "fim": "2026-11-22",
-   "horario": "próxima sessão 22/11 às 14h30",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Shows, Espetáculos e Performances"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "b3b1fa836b70",
-   "shopping": "Sesc Bom Retiro",
-   "bairro": "Bom Retiro",
-   "regiao": "Centro",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/quintais-do-corpo-brincadeiras-para-imaginar-outros-mundos",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Quintais-do-Corpo-brincadeiras-para-imaginar-outros-mundos.jpg"
   },
   {
    "titulo": "Requebrando",
@@ -3110,33 +2837,6 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/modelagem_3d_BrunoFiorelliReis1_2026-07-30-20-52-15.jpeg"
   },
   {
-   "titulo": "Cerâmica do território para o território - geração de renda e empoderamento",
-   "resumo": "com ceramistas da Balauarte Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc 14 Bis",
-   "inicio": "2026-11-21",
-   "fim": "2026-11-22",
-   "horario": "próxima sessão 22/11 às 13h30",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Cursos e Oficinas"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "b9ec24bb2400",
-   "shopping": "Sesc 14 Bis",
-   "bairro": "Bela Vista",
-   "regiao": "Centro",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/ceramica-do-territorio-para-o-territorio-geracao-de-renda-e-empoderamento",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/ceramica2.jpeg"
-  },
-  {
    "titulo": "Dan Marques",
    "resumo": "Palco Praça Gratuito Horários: 17h, 14h Atividade infantil",
    "inicio": "2026-11-21",
@@ -3164,33 +2864,6 @@
    "imagem": null
   },
   {
-   "titulo": "Feira Manualidades brasileiras",
-   "resumo": "Produção MÃOS (Movimento artesãs e ofícios) Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Encontros e Palestras Atividade gratuita Unidade: Sesc Avenida Paulista",
-   "inicio": "2026-11-21",
-   "fim": "2026-11-22",
-   "horario": "próxima sessão 22/11 às 18h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Encontros e Palestras"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "07053f86d6cf",
-   "shopping": "Sesc Avenida Paulista",
-   "bairro": "Bela Vista",
-   "regiao": "Centro",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/manualidades-brasileiras",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/InShot_20261021_190143256-1.jpg"
-  },
-  {
    "titulo": "Mãos que brincam",
    "resumo": "com Coletivo Rua Brincante Público: Crianças Categorias: Encontros e Palestras Atividade gratuita Unidade: Sesc 24 de Maio",
    "inicio": "2026-11-21",
@@ -3216,168 +2889,6 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/maos-que-brincam-2",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Fotos-para-Portal-26.png"
-  },
-  {
-   "titulo": "Bailinho Diladim",
-   "resumo": "Com Diladim Público: Diversas idades Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc Bom Retiro",
-   "inicio": "2026-11-22",
-   "fim": "2026-11-22",
-   "horario": "próxima sessão 22/11 às 17h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Shows, Espetáculos e Performances"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "8adc3020a28e",
-   "shopping": "Sesc Bom Retiro",
-   "bairro": "Bom Retiro",
-   "regiao": "Centro",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/bailinho-diladim",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Bailinho-Diladim.png"
-  },
-  {
-   "titulo": "Divas 2000",
-   "resumo": "Mabi Palco Praça Gratuito Horários: 17h Atividade infantil",
-   "inicio": "2026-11-22",
-   "fim": "2026-11-22",
-   "horario": "17h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Infantil"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "4782722b0c3b",
-   "shopping": "Open Mall The Square",
-   "bairro": "Granja Viana (Cotia)",
-   "regiao": "Grande SP",
-   "fonte": "Open Mall The Square",
-   "tipo_local": "Shopping",
-   "url": "https://openmallthesquare.com.br/eventos-nova/#divas-2000",
-   "imagem": null
-  },
-  {
-   "titulo": "Hip Hop Circus",
-   "resumo": "Com Super Circo Público: Crianças, Diversas idades Categorias: Shows, Espetáculos e Performances Atividade gratuita Unidade: Sesc Campo Limpo",
-   "inicio": "2026-11-22",
-   "fim": "2026-11-22",
-   "horario": "próxima sessão 22/11 às 17h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Shows, Espetáculos e Performances"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "0758f7fd1362",
-   "shopping": "Sesc Campo Limpo",
-   "bairro": "Campo Limpo",
-   "regiao": "Zona Sul",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/hip-hop-circus-5",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/IMG_7568.png"
-  },
-  {
-   "titulo": "Master Blaster",
-   "resumo": "Palco Praça Gratuito Horários: 14h Atividade infantil",
-   "inicio": "2026-11-22",
-   "fim": "2026-11-22",
-   "horario": "14h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Infantil"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "6ddfaee91793",
-   "shopping": "Open Mall The Square",
-   "bairro": "Granja Viana (Cotia)",
-   "regiao": "Grande SP",
-   "fonte": "Open Mall The Square",
-   "tipo_local": "Shopping",
-   "url": "https://openmallthesquare.com.br/eventos-nova/#master-blaster",
-   "imagem": null
-  },
-  {
-   "titulo": "Meio Ambiente em Jogos",
-   "resumo": "com agentes de Educação Ambiental do Sesc Interlagos Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Encontros e Palestras Atividade gratuita Unidade: Sesc Interlagos",
-   "inicio": "2026-11-22",
-   "fim": "2026-11-22",
-   "horario": "próxima sessão 22/11 às 15h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Encontros e Palestras"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "667614438943",
-   "shopping": "Sesc Interlagos",
-   "bairro": "Interlagos",
-   "regiao": "Zona Sul",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/meio-ambiente-em-jogos-2",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Tony_Vascon_06_2026-10-24-13-52-43.jpg"
-  },
-  {
-   "titulo": "ORE - Vivência com Universo Sankofa Arcade",
-   "resumo": "Com Game Arte Público: Crianças, Diversas idades Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Bom Retiro",
-   "inicio": "2026-11-22",
-   "fim": "2026-11-22",
-   "horario": "próxima sessão 22/11 às 16h30",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Cursos e Oficinas"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "c1fe18f7da47",
-   "shopping": "Sesc Bom Retiro",
-   "bairro": "Bom Retiro",
-   "regiao": "Centro",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/ore-vivencia-com-universo-sankofa-arcade",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/09/ORE-Vivencia-com-Universo-Sankofa-Arcade.jpg"
   },
   {
    "titulo": "Comicidades negras e brincadeiras populares",
@@ -4653,7 +4164,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/Df8BzbxDJKv/",
-   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/914798926_1708198664195725_6295280109043490028_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=QqjotMRggScQ7kNvwHsZu1S&_nc_oc=AdrqoUSjRUq6NnqsV2vPMDEOhR1JFfHT7LeaFX576UEoTNI4aArgGZL4VZUTnrlXRgg&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=-66WUsRzEXnzv4DTMmjzIA&_nc_tpa=Q5bMBQKc9YEWRCSc7Mr0jccdb0kg9WFB5HOhAzUotT3WiA9Uh-enjWSA3A-UIrnd1xNH290dbsUURTS8&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQMnaPLd--93ZY25VaZE1mlm54lRNw6JuQEU5bvKXsDVg&oe=6B09441F"
+   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/914798926_1708198664195725_6295280109043490028_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=QqjotMRggScQ7kNvwHsZu1S&_nc_oc=AdrqoUSjRUq6NnqsV2vPMDEOhR1JFfHT7LeaFX576UEoTNI4aArgGZL4VZUTnrlXRgg&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=zdQOfJXE7AHQACgxRcUtFA&_nc_tpa=Q5bMBQIyvCQGL4GKJL6XqX2Myn4emJ60RppD8lTQlg_MTtqqEgs1mx8J96M1m2kBzkYtPugUYECm3o3_&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTkfmxMezVdYNzsyDSPabibtfShqYSUcuYiNB1C99rP7g&oe=6B097C5F"
   },
   {
    "titulo": "Cinematerna",
@@ -4728,7 +4239,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/Df__lDul6HB/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/920823913_18499187368108869_1759026874840678789_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=5uhfjVIyCpAQ7kNvwEOI8TH&_nc_oc=AdoA27g16Ndeub60qhfjfexgngxgxvgF2aIHzzErjVH8gWwIj3IKYXc7edgL8yNzKfM&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=-66WUsRzEXnzv4DTMmjzIA&_nc_tpa=Q5bMBQIwO2Q0Bc9B7f1WYVGg1Sr5W5Bmx5-tAxsYKBo7Q8ufSfqWZMOcRH78ykAhjPZdzs_8rLohAMms&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQPHplEBazBs0BcXYR_bXrxC9P82GrvoeU1zzDdtpxDOg&oe=6B09164F"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/920823913_18499187368108869_1759026874840678789_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=5uhfjVIyCpAQ7kNvwEOI8TH&_nc_oc=AdoA27g16Ndeub60qhfjfexgngxgxvgF2aIHzzErjVH8gWwIj3IKYXc7edgL8yNzKfM&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=zdQOfJXE7AHQACgxRcUtFA&_nc_tpa=Q5bMBQKtOf2sqweY3TFMXrDVvJV3jkNT74B0Gda6Yn5Py1S2RpIrIqdzes1rMtnzdMUQoctYXsYJQBnx&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQae6V-deHDpmrxsBB09zv3_eeifkXK-X9zdEGUybPUBg&oe=6B0986CF"
   },
   {
    "titulo": "Visite O Trono Do Papai Noel",
@@ -4778,7 +4289,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/DgAcwQ8F7sy/",
-   "imagem": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/919398784_18499221934108869_390165213436694499_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=hDTS478_A9UQ7kNvwEmsUQ-&_nc_oc=AdqGy3Q1zdidMaGns-yOurnMUaI_vJJ9e2TMkZ4KUMzHe2pLWxmnTpIuMdCjMfYwbno&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=-66WUsRzEXnzv4DTMmjzIA&_nc_tpa=Q5bMBQLmL5jXHr2dDaAIXBmHQpixw-lny4Sl4RS_QHnc5b4t4yXwxt6LcQ47QI8RiWVs9iWG3ANIkKCM&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRtConK7NR1JcQIkgp33Zwovv_8G9MONkOy_RNt8C8eVw&oe=6B09426C"
+   "imagem": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/919398784_18499221934108869_390165213436694499_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=hDTS478_A9UQ7kNvwEmsUQ-&_nc_oc=AdqGy3Q1zdidMaGns-yOurnMUaI_vJJ9e2TMkZ4KUMzHe2pLWxmnTpIuMdCjMfYwbno&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=zdQOfJXE7AHQACgxRcUtFA&_nc_tpa=Q5bMBQJ2aOSCV8cDCFCPdLIvSnj2vQ3PwiHjT-Er0rpRstahamBxpx7jffK8nW9XwrGTGWqZlzCLOonk&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSXI8iPIRD7kEG22-UdZJ7Ht4Z57RUL2yB9jiEFlnvPzw&oe=6B097AAC"
   }
  ]
 }
