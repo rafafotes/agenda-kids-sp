@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-23T18:03-03:00",
+ "gerado_em": "2026-11-24T06:03-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -177,13 +177,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "6ffe604a9d31",
+   "id": "add0858f046e",
    "shopping": "MorumbiShopping",
    "bairro": "Morumbi",
    "regiao": "Zona Sul",
    "fonte": "MorumbiShopping",
    "tipo_local": "Shopping",
-   "url": "https://www.morumbishopping.com.br/lazer-e-eventos/eventos/zzat1t1uf7-diversao-e-na-hotzone/",
+   "url": "https://www.morumbishopping.com.br/eventos/zzat1t1uf7-diversao-e-na-hotzone/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/12/2d/122df6c7-2d3d-4958-ac17-554ced8d647f/hubimage__0x650_subsampling-2.webp"
   },
   {
@@ -2370,13 +2370,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "ad83cd485bad",
+   "id": "c9785f089446",
    "shopping": "MorumbiShopping",
    "bairro": "Morumbi",
    "regiao": "Zona Sul",
    "fonte": "MorumbiShopping",
    "tipo_local": "Shopping",
-   "url": "https://www.morumbishopping.com.br/lazer-e-eventos/eventos/sh4a8jvs0i-natal-2026/",
+   "url": "https://www.morumbishopping.com.br/eventos/sh4a8jvs0i-natal-2026/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/6a/77/6a775aa2-0773-47f2-9945-914fd684073b/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2593,7 +2593,7 @@
   },
   {
    "titulo": "Encontro com o Papai Noel",
-   "resumo": "As crianças poderão encontrar o Bom Velhinho, compartilhar seus pedidos de Natal e registrar esse momento especial em família. De 22/11 a 24/12 Horários: Segunda à Sábado: 10h às 22h | Domingos e Feriados: 12h às 20h Intervalos: Das 13h às 13h40 | Das 15h50 às 16h10 | Das 19h às 19h40 Idade permitida: Livre Local…",
+   "resumo": "As crianças poderão encontrar o Bom Velhinho, compartilhar seus pedidos de Natal e registrar esse momento especial em família. De 22/11 a 24/12 Horários: Segunda à Sábado: 10h às 22h | Intervalos: Das 13h às 14h | Das 15h50 às 16h10 | Das 19h às 20h Domingos e Feriados: 12h às 21h | Intervalos: Das 16h às 17h Idade…",
    "inicio": "2026-11-19",
    "fim": "2026-12-24",
    "horario": "das 10h às 22h",
@@ -2610,13 +2610,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "258307dbce4b",
+   "id": "84625879fa03",
    "shopping": "MorumbiShopping",
    "bairro": "Morumbi",
    "regiao": "Zona Sul",
    "fonte": "MorumbiShopping",
    "tipo_local": "Shopping",
-   "url": "https://www.morumbishopping.com.br/lazer-e-eventos/eventos/etdsmqtqfm-encontro-com-o-papai-noel/",
+   "url": "https://www.morumbishopping.com.br/eventos/etdsmqtqfm-encontro-com-o-papai-noel/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/7b/d4/7bd414f4-afd8-4897-8149-7a808a98a811/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2664,13 +2664,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "f4a3b1949735",
+   "id": "dac316b53263",
    "shopping": "MorumbiShopping",
    "bairro": "Morumbi",
    "regiao": "Zona Sul",
    "fonte": "MorumbiShopping",
    "tipo_local": "Shopping",
-   "url": "https://www.morumbishopping.com.br/lazer-e-eventos/eventos/rep7gbx5lw-o-quebra-nozes-apresentacoes-especiais/",
+   "url": "https://www.morumbishopping.com.br/eventos/rep7gbx5lw-o-quebra-nozes-apresentacoes-especiais/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/2c/45/2c4538de-67cf-43e6-ab1a-e7f4c719fb0a/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2692,13 +2692,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "7bafea7f72d1",
+   "id": "6d78b377c83b",
    "shopping": "MorumbiShopping",
    "bairro": "Morumbi",
    "regiao": "Zona Sul",
    "fonte": "MorumbiShopping",
    "tipo_local": "Shopping",
-   "url": "https://www.morumbishopping.com.br/lazer-e-eventos/eventos/faqdet7ayw-oficina-de-cartinhas/",
+   "url": "https://www.morumbishopping.com.br/eventos/faqdet7ayw-oficina-de-cartinhas/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/76/cd/76cd4241-6e13-485e-bd1c-437d88e2ddf1/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2719,13 +2719,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "afeb36a099b7",
+   "id": "a0f2e1cf257f",
    "shopping": "MorumbiShopping",
    "bairro": "Morumbi",
    "regiao": "Zona Sul",
    "fonte": "MorumbiShopping",
    "tipo_local": "Shopping",
-   "url": "https://www.morumbishopping.com.br/lazer-e-eventos/eventos/gaul4l4qwh-parquinho-de-natal/",
+   "url": "https://www.morumbishopping.com.br/eventos/gaul4l4qwh-parquinho-de-natal/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/64/0e/640e75d6-2949-48fd-9806-0ea0c3730a3b/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -4216,7 +4216,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/Df8BzbxDJKv/",
-   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/914798926_1708198664195725_6295280109043490028_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=QqjotMRggScQ7kNvwHsZu1S&_nc_oc=AdrqoUSjRUq6NnqsV2vPMDEOhR1JFfHT7LeaFX576UEoTNI4aArgGZL4VZUTnrlXRgg&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=kNUrMjg788Nx_8RjV_JhHg&_nc_tpa=Q5bMBQL05J5Lyfk8n9ACkfrFbWvGA9apB3k_Si2q0QBbbHJqMbOipOW7TaJFCKi3F8cfJJhGIi449P6N&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRZMN0skIc7exMegwwvPssarwK8_XJC1iQKBgJv_V_TwA&oe=6B0A959F"
+   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/914798926_1708198664195725_6295280109043490028_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=QqjotMRggScQ7kNvwHsZu1S&_nc_oc=AdrqoUSjRUq6NnqsV2vPMDEOhR1JFfHT7LeaFX576UEoTNI4aArgGZL4VZUTnrlXRgg&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=4X0U7-XxL6Xe_IObcvAb3Q&_nc_tpa=Q5bMBQLISz6oc6FKIeV1R_GKdhQZJXNZJM3ArZO1aNWgdk7_V0WPWoVbrqUOlzCvBD5bQcm_nLZ9AhHc&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTR3Bvgb7FHaRddGsxyH-Gvb2Hg1dlwkNoVTMSHAhAuEw&oe=6B0ACDDF"
   },
   {
    "titulo": "Cinematerna",
@@ -4291,7 +4291,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/Df__lDul6HB/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/920823913_18499187368108869_1759026874840678789_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=5uhfjVIyCpAQ7kNvwEOI8TH&_nc_oc=AdoA27g16Ndeub60qhfjfexgngxgxvgF2aIHzzErjVH8gWwIj3IKYXc7edgL8yNzKfM&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=kNUrMjg788Nx_8RjV_JhHg&_nc_tpa=Q5bMBQIWwOORcXNDukkgxQ1N5i3s4zlOce8Dg4abovXH5FYWF5M8Q_OcKStLjadMh05ZBg4J9W1-LWdr&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQr4pfP4ip39CQKhT8PvClFh-lp7jIRpGW82oTfmNZz-Q&oe=6B0A67CF"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/920823913_18499187368108869_1759026874840678789_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=5uhfjVIyCpAQ7kNvwEOI8TH&_nc_oc=AdoA27g16Ndeub60qhfjfexgngxgxvgF2aIHzzErjVH8gWwIj3IKYXc7edgL8yNzKfM&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=4X0U7-XxL6Xe_IObcvAb3Q&_nc_tpa=Q5bMBQJ1iK1fG-g-_9NnQ4lifhkeTswigQ1JVmAmBXVVuGd3I25N2FKiPgteCkYBzknLQgBigI94VAlc&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSiDzIyYsZXHrWODSHhTrql1PNGLmaMHxrQ47rhCQ2cHw&oe=6B0AD84F"
   },
   {
    "titulo": "Visite O Trono Do Papai Noel",
@@ -4341,7 +4341,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/DgAcwQ8F7sy/",
-   "imagem": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/919398784_18499221934108869_390165213436694499_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=hDTS478_A9UQ7kNvwEmsUQ-&_nc_oc=AdqGy3Q1zdidMaGns-yOurnMUaI_vJJ9e2TMkZ4KUMzHe2pLWxmnTpIuMdCjMfYwbno&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=kNUrMjg788Nx_8RjV_JhHg&_nc_tpa=Q5bMBQKj7s60BHGq_tOxLlUR9Nno6L0k6m3TsW4oichvLsFuPwHQMKmCWTNuBH-fafaSMXIc1wL2r665&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQUyXkJIf7S-TyGkKPw4w0BU-CuOoaTW5WJLQeKjH4VoQ&oe=6B0A93EC"
+   "imagem": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/919398784_18499221934108869_390165213436694499_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=hDTS478_A9UQ7kNvwEmsUQ-&_nc_oc=AdqGy3Q1zdidMaGns-yOurnMUaI_vJJ9e2TMkZ4KUMzHe2pLWxmnTpIuMdCjMfYwbno&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=4X0U7-XxL6Xe_IObcvAb3Q&_nc_tpa=Q5bMBQJjZ0CbkS8yO0iHsBj2hC-JIplFYQ_P-GQOdD1VEQ3NplccUjWscONKtx5zbiYAya0NFb1Dfjph&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSJjfholFYr8APPx490gXj7PJ-pMc_EP2lwI2W3a051dA&oe=6B0ACC2C"
   }
  ]
 }
