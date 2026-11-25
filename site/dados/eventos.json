@@ -1,11 +1,11 @@
 {
- "gerado_em": "2026-11-24T18:02-03:00",
+ "gerado_em": "2026-11-25T06:03-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
    "url": "https://www.morumbishopping.com.br/eventos/",
    "status": "ok",
-   "eventos": 6
+   "eventos": 5
   },
   {
    "shopping": "Shopping Anália Franco",
@@ -16,7 +16,7 @@
   {
    "shopping": "Shopping Vila Olímpia",
    "url": "https://www.shoppingvilaolimpia.com.br/eventos/",
-   "status": "ok",
+   "status": "erro: HTTPError: HTTP Error 500: Internal Server Error",
    "eventos": 2
   },
   {
@@ -95,13 +95,13 @@
    "shopping": "Shopping West Plaza",
    "url": "https://www.westplaza.com.br/",
    "status": "ok",
-   "eventos": 0
+   "eventos": 1
   },
   {
    "shopping": "Shopping União",
    "url": "https://www.shoppinguniao.com.br/",
    "status": "ok",
-   "eventos": 3
+   "eventos": 4
   },
   {
    "shopping": "Open Mall The Square",
@@ -155,7 +155,7 @@
    "shopping": "Sesc SP",
    "url": "https://www.sescsp.org.br/programacao/",
    "status": "erro: HTTPError: HTTP Error 403: Forbidden",
-   "eventos": 95
+   "eventos": 93
   }
  ],
  "eventos": [
@@ -2699,34 +2699,6 @@
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/2c/45/2c4538de-67cf-43e6-ab1a-e7f4c719fb0a/hubimage__0x650_subsampling-2.png"
   },
   {
-   "titulo": "Oficina de Cartinhas",
-   "resumo": "Um espaço lúdico para as crianças soltarem a imaginação e escreverem suas cartinhas, compartilhando seus desejos para o Natal. De 21/11 a 24/12 Horários: Segunda à Sábado: 10h às 22h | Domingos e Feriados: 12h às 20h Idade permitida: Até 12 anos Local: Piso Superior | Próximo a ZARA Evento gratuito. Não é necessário…",
-   "inicio": "2026-11-19",
-   "fim": "2026-11-24",
-   "horario": "das 10h às 22h",
-   "faixa_etaria": "até 12 anos",
-   "gratuito": true,
-   "agendamento": true,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": true,
-   "categorias": [
-    "Infantil",
-    "Oficina"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "6d78b377c83b",
-   "shopping": "MorumbiShopping",
-   "bairro": "Morumbi",
-   "regiao": "Zona Sul",
-   "fonte": "MorumbiShopping",
-   "tipo_local": "Shopping",
-   "url": "https://www.morumbishopping.com.br/eventos/faqdet7ayw-oficina-de-cartinhas/",
-   "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/76/cd/76cd4241-6e13-485e-bd1c-437d88e2ddf1/hubimage__0x650_subsampling-2.png"
-  },
-  {
    "titulo": "Parquinho de Natal",
    "resumo": "Um espaço especial para as crianças aproveitarem o clima natalino com brinquedos temáticos. De 21/11 a 03/01 Horário: Segunda à Sábado: 10h às 22h | Domingos e Feriados: 12h às 20h Idade permitida: Livre Local: Atrium | Piso Térreo Bilheteria no local. Ingresso Individual: R$ 25,00 Atrações: Trenzinho de Natal Trenó…",
    "inicio": "2026-11-19",
@@ -2939,60 +2911,6 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/comicidades-negras-e-brincadeiras-populares",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/09/portal-2-2.png"
-  },
-  {
-   "titulo": "Pequenos Jardineiros",
-   "resumo": "Com Educadores Ambientais do Sesc Público: Crianças Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Campo Limpo",
-   "inicio": "2026-11-24",
-   "fim": "2026-11-24",
-   "horario": "próxima sessão 24/11 às 16h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Cursos e Oficinas"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "003d37094639",
-   "shopping": "Sesc Campo Limpo",
-   "bairro": "Campo Limpo",
-   "regiao": "Zona Sul",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/pequenos-jardineiros-2",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/08/IMG_20260728_141621471_HDR.png"
-  },
-  {
-   "titulo": "Thamiris Cunha",
-   "resumo": "Raízes Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Shows, Espetáculos e Performances Unidade: Sesc Consolação",
-   "inicio": "2026-11-24",
-   "fim": "2026-11-24",
-   "horario": "próxima sessão 24/11 às 19h",
-   "faixa_etaria": null,
-   "gratuito": false,
-   "agendamento": true,
-   "como_agendar": null,
-   "link_inscricao": "https://www.sescsp.org.br/programacao/thamiris-cunha",
-   "natal": false,
-   "categorias": [
-    "Shows, Espetáculos e Performances"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "347b2924a6ae",
-   "shopping": "Sesc Consolação",
-   "bairro": "Consolação",
-   "regiao": "Centro",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/thamiris-cunha",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Charleston-Willian.jpg"
   },
   {
    "titulo": "Diálogos sobre neurodiversidade e cuidado",
@@ -4219,6 +4137,31 @@
    "imagem": null
   },
   {
+   "titulo": "A magia do Natal desembarcou por aqui!",
+   "resumo": "A magia do Natal desembarcou por aqui! 🎅🎄 Cada detalhe foi preparado para fazer os olhos brilharem e o coração ficar quentinho. Nosso Papai Noel já está no seu trono, pronto para receber as crianças, ouvir seus pedidos e criar lembranças especiais! Dê o play e faça um tour pelo Trono do Bom Velhinho, mas não deixe de…",
+   "inicio": null,
+   "fim": null,
+   "horario": null,
+   "faixa_etaria": null,
+   "gratuito": null,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": true,
+   "categorias": [],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "9a81857a0fbf",
+   "shopping": "Shopping União",
+   "bairro": "Osasco",
+   "regiao": "Grande SP",
+   "fonte": "Shopping União",
+   "tipo_local": "Shopping",
+   "url": "https://www.instagram.com/reel/DgI2yhrNyRx/",
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/928403877_18499842025108869_6398433005302032779_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=QIxS0p0ZBOYQ7kNvwHRNVL-&_nc_oc=AdqwZJ-iJsV5wAhGYAMhfaleMaO3ttM9hpGieBzOY68VYe4clDewWB38n4uf9pr1TsU&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=oBhvW2gMYHOZX5FVuU7gVA&_nc_tpa=Q5bMBQIilyrlv_FdABvIE2PtHtYRChETEOoD-zrsIlathUmCq0eKJEA5DuFIoM2LiljAR1e-5T4jI9m2&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQQL1NsRf9Jb-8hS-xibx52ZjdIqNkDcUoN6NqwhYaPzTw&oe=6B0C23EB"
+  },
+  {
    "titulo": "Atenção, passageiros!",
    "resumo": "Atenção, passageiros! Prepare-se para um dia cheio de música, diversão e magia no União! Maria Clara e JP chegam para fazer a alegria da criançada. E a festa continua com a chegada do Papai Noel de helicóptero! 🎅 Confira a programação: 🎶 10h30 · Show de Maria Clara e JP 🚁 12h · Chegada do Papai Noel Estacionamento…",
    "inicio": null,
@@ -4241,7 +4184,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/Df8BzbxDJKv/",
-   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/914798926_1708198664195725_6295280109043490028_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=QqjotMRggScQ7kNvwHsZu1S&_nc_oc=AdrqoUSjRUq6NnqsV2vPMDEOhR1JFfHT7LeaFX576UEoTNI4aArgGZL4VZUTnrlXRgg&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=zCcomtn_TvoPKCt68Mbc8Q&_nc_tpa=Q5bMBQJKGtE2DduTllpH4jBz4vWMi_FmVLyAjP7TsxS1Ww_5aZhsKMc5vwxTf7KdUnD8UxrQsYFCGkPd&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQShyV-KeKc-cLY5OqT1rKKp6tr6ICENZ65T74000_4-Pg&oe=6B0BE71F"
+   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/914798926_1708198664195725_6295280109043490028_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=QqjotMRggScQ7kNvwHsZu1S&_nc_oc=AdrqoUSjRUq6NnqsV2vPMDEOhR1JFfHT7LeaFX576UEoTNI4aArgGZL4VZUTnrlXRgg&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=oBhvW2gMYHOZX5FVuU7gVA&_nc_tpa=Q5bMBQLbmxOSAIEPwcIudK82bBrT3H2b3sg34aJX4lRdAcqWmdhal6SlecjTbe7r26ktzYf7ldrVIcRP&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQpx--af-co3blxgbln_crtMAHihFPbTuBwC8MDnoxTBA&oe=6B0C1F5F"
   },
   {
    "titulo": "Cinematerna",
@@ -4316,7 +4259,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/Df__lDul6HB/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/920823913_18499187368108869_1759026874840678789_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=WHNorgl6TXQQ7kNvwG0613g&_nc_oc=AdqnokI12p-6Ba6ibR2H03zjp4p5WnadFySZZeTUKVZbT8W3cmhues49_lv-wd9RhB4&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=zCcomtn_TvoPKCt68Mbc8Q&_nc_tpa=Q5bMBQI5EEvXgjRXcDZSfXA2bFtr_WCcImY-bRkbzAAwmrjwtOnoQg0KaPkOMFJxsAKa95s1ogNACg6J&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQeq5IMxHT4ZP3Cva94rLpo6qvYoLr-VWYLy1J9h_kvlw&oe=6B0BB94F"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/920823913_18499187368108869_1759026874840678789_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=WHNorgl6TXQQ7kNvwG0613g&_nc_oc=AdqnokI12p-6Ba6ibR2H03zjp4p5WnadFySZZeTUKVZbT8W3cmhues49_lv-wd9RhB4&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=oBhvW2gMYHOZX5FVuU7gVA&_nc_tpa=Q5bMBQKBpsz5eK_ynBwIZL6klLA_S7EH3RRwPcTPJXsomtT9GCv32xbXJiTq0gKaxGon5wbe9JH_4lw-&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTZfSnYeUO8iSBPmL7-CnrxpANnAKLuaZRWEwycocUOvg&oe=6B0C29CF"
   },
   {
    "titulo": "Visite O Trono Do Papai Noel",
@@ -4344,6 +4287,31 @@
    "imagem": "https://shoppingcidadesp.com.br/wp-content/uploads/2026/11/App_1080X1080-100.jpg"
   },
   {
+   "titulo": "West Plaza",
+   "resumo": "West Plaza ALIMENTAÇÃO CINEMA COMO CHEGAR ESTACIONAMENTO FACILIDADES FALE CONOSCO HORÁRIOS LOJAS NOVIDADES PORTAL DO LOJISTA SEJA NOSSO LOJISTA SHOPPING SOCIOAMBIENTAL TEATRO Voltar Acessos ao Estacionamento Data: 16/09/2024 Acesso Facilitado ao Estacionamento para Clientes de Shows e Jogos do Allianz Parque. Para…",
+   "inicio": null,
+   "fim": null,
+   "horario": "das 10h às 22h",
+   "faixa_etaria": null,
+   "gratuito": false,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "204b46a57e4f",
+   "shopping": "Shopping West Plaza",
+   "bairro": "Água Branca",
+   "regiao": "Zona Oeste",
+   "fonte": "Shopping West Plaza",
+   "tipo_local": "Shopping",
+   "url": "https://www.westplaza.com.br/evento/?evento=acessos-ao-estacionamento",
+   "imagem": null
+  },
+  {
    "titulo": "É OFICIAL!",
    "resumo": "É OFICIAL! O Bom Velhinho já pousou aqui no Shopping União e preparou os horários de atendimento para te receber! 🎅 Venha fazer seu pedido de Natal e tirar uma foto linda para guardar de recordação. Confira os horários, chame a família, reúna a criançada e venha viver esse momento cheio de alegria e magia com a gente!…",
    "inicio": null,
@@ -4366,7 +4334,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/DgAcwQ8F7sy/",
-   "imagem": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/919398784_18499221934108869_390165213436694499_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=hDTS478_A9UQ7kNvwEmsUQ-&_nc_oc=AdqGy3Q1zdidMaGns-yOurnMUaI_vJJ9e2TMkZ4KUMzHe2pLWxmnTpIuMdCjMfYwbno&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=zCcomtn_TvoPKCt68Mbc8Q&_nc_tpa=Q5bMBQLRigiyndZ1dkI45-r9_hU_iUlcVnQQjeoXLFLJwa0subYioel9x0jv4lgoPSaW5YdyBJbRN6yV&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQS7mbsl7PfZCDbI41OMXitEVA1ZTEVbKdVkxn1M-4m36w&oe=6B0BE56C"
+   "imagem": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/919398784_18499221934108869_390165213436694499_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=hDTS478_A9UQ7kNvwEmsUQ-&_nc_oc=AdqGy3Q1zdidMaGns-yOurnMUaI_vJJ9e2TMkZ4KUMzHe2pLWxmnTpIuMdCjMfYwbno&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=oBhvW2gMYHOZX5FVuU7gVA&_nc_tpa=Q5bMBQJcRKwYqrumWLt9LXD_9ZiT-wKTsOUNOh5ihRIZIHWAiZR0gWqGMyyFAdqdk7BEtGq5zm3YYFrN&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTzougTsXBID77RzRjiY8ERnlWtroj-F6gXbWRcf15MMw&oe=6B0C1DAC"
   }
  ]
 }
