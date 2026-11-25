@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-25T06:03-03:00",
+ "gerado_em": "2026-11-25T18:03-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -16,8 +16,8 @@
   {
    "shopping": "Shopping Vila Olímpia",
    "url": "https://www.shoppingvilaolimpia.com.br/eventos/",
-   "status": "erro: HTTPError: HTTP Error 500: Internal Server Error",
-   "eventos": 2
+   "status": "ok",
+   "eventos": 3
   },
   {
    "shopping": "JK Iguatemi",
@@ -235,6 +235,35 @@
    "tipo_local": "Shopping",
    "url": "https://www.shoppingitaquera.com.br/novidade/itaquerinha-parque-0",
    "imagem": "https://www.shoppingitaquera.com.br/sites/metro-itaquera/files/shopping-media/Novidade/2026-04/2700.2_Desdobramentos_Itaquerinha_V2Banner%20App_1238x500px.jpg"
+  },
+  {
+   "titulo": "Quintal no Terraço",
+   "resumo": "O Quintal no Terraço é um espaço gratuito pensado para estimular a imaginação e a diversão das crianças por meio de brinquedos lúdicos. Indicado para crianças de 2 a 8 anos, o espaço convida os pequenos a brincar, explorar e criar momentos especiais em família. Venha conhecer essa novidade no Terraço, 3º Piso do…",
+   "inicio": "2026-07-17",
+   "fim": "2026-12-31",
+   "horario": null,
+   "faixa_etaria": "Livre",
+   "gratuito": true,
+   "agendamento": false,
+   "como_agendar": null,
+   "link_inscricao": null,
+   "natal": false,
+   "categorias": [
+    "Diversão",
+    "Ao ar livre",
+    "Infantil"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "ea9bfcfa4ca2",
+   "shopping": "Shopping Vila Olímpia",
+   "bairro": "Vila Olímpia",
+   "regiao": "Zona Sul",
+   "fonte": "Shopping Vila Olímpia",
+   "tipo_local": "Shopping",
+   "url": "https://www.shoppingvilaolimpia.com.br/eventos/nhozigchha-quintal-no-terraco/",
+   "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/f3/ed/f3edca18-b4ec-4156-b60d-da99d57ad1c5/hubimage__0x650_subsampling-2.webp"
   },
   {
    "titulo": "Cinematerna",
@@ -2079,13 +2108,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "dd0d9e30bee4",
+   "id": "a0d47af241b3",
    "shopping": "Shopping Vila Olímpia",
    "bairro": "Vila Olímpia",
    "regiao": "Zona Sul",
    "fonte": "Shopping Vila Olímpia",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppingvilaolimpia.com.br/lazer-e-eventos/eventos/urovlczida-natal-no-bosque/",
+   "url": "https://www.shoppingvilaolimpia.com.br/eventos/urovlczida-natal-no-bosque/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/c4/1c/c41c3312-5e82-4ed2-b116-1208da4513e5/hubimage__0x650_subsampling-2.webp"
   },
   {
@@ -2662,13 +2691,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "ef26fcc87d63",
+   "id": "5537e462dfbf",
    "shopping": "Shopping Vila Olímpia",
    "bairro": "Vila Olímpia",
    "regiao": "Zona Sul",
    "fonte": "Shopping Vila Olímpia",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppingvilaolimpia.com.br/lazer-e-eventos/eventos/sdy7pf4vm4-miau-de-natal-ong-desabandone/",
+   "url": "https://www.shoppingvilaolimpia.com.br/eventos/sdy7pf4vm4-miau-de-natal-ong-desabandone/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/23/70/2370d85e-3433-4f51-911a-eb117761844c/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -4159,7 +4188,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/DgI2yhrNyRx/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/928403877_18499842025108869_6398433005302032779_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=QIxS0p0ZBOYQ7kNvwHRNVL-&_nc_oc=AdqwZJ-iJsV5wAhGYAMhfaleMaO3ttM9hpGieBzOY68VYe4clDewWB38n4uf9pr1TsU&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=oBhvW2gMYHOZX5FVuU7gVA&_nc_tpa=Q5bMBQIilyrlv_FdABvIE2PtHtYRChETEOoD-zrsIlathUmCq0eKJEA5DuFIoM2LiljAR1e-5T4jI9m2&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQQL1NsRf9Jb-8hS-xibx52ZjdIqNkDcUoN6NqwhYaPzTw&oe=6B0C23EB"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/928403877_18499842025108869_6398433005302032779_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=qcvoJ1XPTYwQ7kNvwEzg3B2&_nc_oc=Adr9QYgIJ7_Sx8fNr47i8-HTdNRxyeriHkUlkpcgHxPraBiqfomrp-HPTunyX2OwtXA&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=PJhk0NzW-OaobLxB3XgpYA&_nc_tpa=Q5bMBQKKpn51DDTWgWGcvxegHMohiZEVMIINoV5LbHoq0IoEwF4WneEZ-E4nQE6TdVJ1SPoV8LWMPOnu&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQQwtpkoqPQCvcvWq4lHrIIy_V8XhFjfne2uVMxt4jYd7g&oe=6B0D04EB"
   },
   {
    "titulo": "Atenção, passageiros!",
@@ -4184,7 +4213,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/Df8BzbxDJKv/",
-   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/914798926_1708198664195725_6295280109043490028_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=QqjotMRggScQ7kNvwHsZu1S&_nc_oc=AdrqoUSjRUq6NnqsV2vPMDEOhR1JFfHT7LeaFX576UEoTNI4aArgGZL4VZUTnrlXRgg&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=oBhvW2gMYHOZX5FVuU7gVA&_nc_tpa=Q5bMBQLbmxOSAIEPwcIudK82bBrT3H2b3sg34aJX4lRdAcqWmdhal6SlecjTbe7r26ktzYf7ldrVIcRP&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQpx--af-co3blxgbln_crtMAHihFPbTuBwC8MDnoxTBA&oe=6B0C1F5F"
+   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/914798926_1708198664195725_6295280109043490028_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jnoSQCVIM0AQ7kNvwHFYC0u&_nc_oc=AdrprJTjBZQpTlFPISOrE_NCFcWrfkMIU_506TQgixkaftEojF3hw9FsbF_Ovfu1n-4&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=PJhk0NzW-OaobLxB3XgpYA&_nc_tpa=Q5bMBQKXnu6RrwUHc1FU5eXHrl1fHSah6kZfER6ZGkeTN8RXz1wXldNlkht0TIogoeOvDrsIDsHGCHmk&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQQxyG-JXAollFQIwwuA3C6SdRVaHQ-wue7rYDBlSOytQ&oe=6B0D389F"
   },
   {
    "titulo": "Cinematerna",
@@ -4259,7 +4288,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/Df__lDul6HB/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/920823913_18499187368108869_1759026874840678789_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=WHNorgl6TXQQ7kNvwG0613g&_nc_oc=AdqnokI12p-6Ba6ibR2H03zjp4p5WnadFySZZeTUKVZbT8W3cmhues49_lv-wd9RhB4&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=oBhvW2gMYHOZX5FVuU7gVA&_nc_tpa=Q5bMBQKBpsz5eK_ynBwIZL6klLA_S7EH3RRwPcTPJXsomtT9GCv32xbXJiTq0gKaxGon5wbe9JH_4lw-&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTZfSnYeUO8iSBPmL7-CnrxpANnAKLuaZRWEwycocUOvg&oe=6B0C29CF"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/920823913_18499187368108869_1759026874840678789_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=WHNorgl6TXQQ7kNvwG0613g&_nc_oc=AdqnokI12p-6Ba6ibR2H03zjp4p5WnadFySZZeTUKVZbT8W3cmhues49_lv-wd9RhB4&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=PJhk0NzW-OaobLxB3XgpYA&_nc_tpa=Q5bMBQIXysXgGb-26KelCqnJ0ANgkSj3vL5JikgM1_1wxBs1evPJbrK01PkUNo9appkCQRwQjHnSJWIx&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQG7_9UbBrG8cD_2sDv1UC1aHl8TyyHIQz-o0Wlw4BEfw&oe=6B0D0ACF"
   },
   {
    "titulo": "Visite O Trono Do Papai Noel",
@@ -4334,7 +4363,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/DgAcwQ8F7sy/",
-   "imagem": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/919398784_18499221934108869_390165213436694499_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=hDTS478_A9UQ7kNvwEmsUQ-&_nc_oc=AdqGy3Q1zdidMaGns-yOurnMUaI_vJJ9e2TMkZ4KUMzHe2pLWxmnTpIuMdCjMfYwbno&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=oBhvW2gMYHOZX5FVuU7gVA&_nc_tpa=Q5bMBQJcRKwYqrumWLt9LXD_9ZiT-wKTsOUNOh5ihRIZIHWAiZR0gWqGMyyFAdqdk7BEtGq5zm3YYFrN&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTzougTsXBID77RzRjiY8ERnlWtroj-F6gXbWRcf15MMw&oe=6B0C1DAC"
+   "imagem": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/919398784_18499221934108869_390165213436694499_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=dgnPcwbzy5QQ7kNvwHpxm4R&_nc_oc=Adq2Qm_IasGRzopVljJYKZp-vqUxcLFWl33vUooks3nZRrG1IBdq9L6zphVX9pGWrVE&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=PJhk0NzW-OaobLxB3XgpYA&_nc_tpa=Q5bMBQIqxG348RkwlsBaj3DKWJpQRsuEq46l543fJeIUtWxYjKtU0TkCIdA-boAGMYCdxBuV7DZhM-7B&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQj0ueWB2fbcFHzmS-BfK58liGx0riO8g3AIPaFDjYfxA&oe=6B0D36EC"
   }
  ]
 }
