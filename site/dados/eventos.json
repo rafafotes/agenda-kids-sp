@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-26T06:03-03:00",
+ "gerado_em": "2026-11-26T18:03-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -77,7 +77,7 @@
    "shopping": "Villa Romana Shopping",
    "url": "https://villaromanashopping.com.br/novidades/",
    "status": "ok",
-   "eventos": 3
+   "eventos": 2
   },
   {
    "shopping": "Shopping Itaquera",
@@ -358,13 +358,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "936026f6e48e",
+   "id": "8cb91728c4e0",
    "shopping": "Shopping Anália Franco",
    "bairro": "Anália Franco",
    "regiao": "Zona Leste",
    "fonte": "Shopping Anália Franco",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppinganaliafranco.com.br/lazer-e-eventos/eventos/omat9gclyx-human-bodies-maravilhas-do-corpo-humano/",
+   "url": "https://www.shoppinganaliafranco.com.br/eventos/omat9gclyx-human-bodies-maravilhas-do-corpo-humano/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/20/5d/205d2b53-5e07-4c0f-a11c-626d0e401d55/hubimage__0x650_subsampling-2.webp"
   },
   {
@@ -2081,13 +2081,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "4042c7c59a4e",
+   "id": "d279d3bddbdf",
    "shopping": "Shopping Anália Franco",
    "bairro": "Anália Franco",
    "regiao": "Zona Leste",
    "fonte": "Shopping Anália Franco",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppinganaliafranco.com.br/lazer-e-eventos/eventos/3gg1agadlh-oficina-solidaria-de-natal/",
+   "url": "https://www.shoppinganaliafranco.com.br/eventos/3gg1agadlh-oficina-solidaria-de-natal/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/94/4e/944eec43-a065-4114-a13f-7c9df03a7857/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2185,13 +2185,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "52cea71d9626",
+   "id": "5e9ad836faf9",
    "shopping": "Shopping Anália Franco",
    "bairro": "Anália Franco",
    "regiao": "Zona Leste",
    "fonte": "Shopping Anália Franco",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppinganaliafranco.com.br/lazer-e-eventos/eventos/dim8nzgpnx-carrossel-do-analia/",
+   "url": "https://www.shoppinganaliafranco.com.br/eventos/dim8nzgpnx-carrossel-do-analia/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/30/01/30018bb9-0d89-4897-89ba-b1314f51b36b/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2212,13 +2212,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "dfed3f04ff06",
+   "id": "5befef14cae3",
    "shopping": "Shopping Anália Franco",
    "bairro": "Anália Franco",
    "regiao": "Zona Leste",
    "fonte": "Shopping Anália Franco",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppinganaliafranco.com.br/lazer-e-eventos/eventos/roa5zkqp6b-fotos-com-o-papai-noel/",
+   "url": "https://www.shoppinganaliafranco.com.br/eventos/roa5zkqp6b-fotos-com-o-papai-noel/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/f4/99/f49904a6-9e5e-4286-881d-894d7f509d90/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2239,13 +2239,13 @@
    "inscricoes_abrem": null,
    "esgotado": false,
    "analisado_por": "heuristica",
-   "id": "69dfbdab00d3",
+   "id": "693e4f68a95f",
    "shopping": "Shopping Anália Franco",
    "bairro": "Anália Franco",
    "regiao": "Zona Leste",
    "fonte": "Shopping Anália Franco",
    "tipo_local": "Shopping",
-   "url": "https://www.shoppinganaliafranco.com.br/lazer-e-eventos/eventos/tgodyan9fh-teatrinho-de-natal/",
+   "url": "https://www.shoppinganaliafranco.com.br/eventos/tgodyan9fh-teatrinho-de-natal/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/66/42/66424d84-26b0-44a8-9b81-7b54c9b56152/hubimage__0x650_subsampling-2.png"
   },
   {
@@ -2567,7 +2567,7 @@
    "imagem": "https://sites.madnezz.com.br/api/site/upload/Novidade/202611171713281.png"
   },
   {
-   "titulo": "Decoração de Natal",
+   "titulo": "Decoração De Natal",
    "resumo": "Neste Natal, o Shopping Cidade Jardim convida crianças e adultos a embarcarem em uma experiência mágica e cheia de encantamento! De 18 de novembro a 24 de dezembro, a Praça Central se transforma em um cenário especial inspirado nos bastidores do espetáculo natalino, com atrações interativas, brincadeiras e atividades…",
    "inicio": "2026-11-18",
    "fim": "2026-12-24",
@@ -2968,31 +2968,6 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/a-hora-da-carta",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Fotos-para-Portal-44.png"
-  },
-  {
-   "titulo": "Cinema Adaptado Em Florianópolis: Conheça As Sessões Inclusivas Para Diferentes Públicos No Cinesystem",
-   "resumo": "Assistir a um filme no cinema pode ser uma experiência diferente para cada pessoa. Famílias com bebês, pessoas com sensibilidade a sons e iluminação,",
-   "inicio": null,
-   "fim": "2026-11-26",
-   "horario": null,
-   "faixa_etaria": null,
-   "gratuito": null,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "e0e4fd297cb0",
-   "shopping": "Villa Romana Shopping",
-   "bairro": "Vila Romana",
-   "regiao": "Zona Oeste",
-   "fonte": "Villa Romana Shopping",
-   "tipo_local": "Shopping",
-   "url": "https://villaromanashopping.com.br/novidades/cinema-adaptado-em-florianopolis-conheca-as-sessoes-inclusivas-para-diferentes-publicos-no-cinesystem/",
-   "imagem": "https://villaromanashopping.com.br/wp-content/uploads/2026/11/CABECALHO-SITE-VILLA-cinema.png"
   },
   {
    "titulo": "Pernambucaninhus",
@@ -4135,7 +4110,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/DgI2yhrNyRx/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/928403877_18499842025108869_6398433005302032779_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=qcvoJ1XPTYwQ7kNvwEzg3B2&_nc_oc=Adr9QYgIJ7_Sx8fNr47i8-HTdNRxyeriHkUlkpcgHxPraBiqfomrp-HPTunyX2OwtXA&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=1bn2vm-r8_jTj5KqIplM2Q&_nc_tpa=Q5bMBQKteZl2VkxP0wg1A50-YxfavdzPGZCb-LnxnfHnQA5yB3r8etQRSz3ROEClvFNGhQfEVchgr8tn&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQRGCfRpxhdtYHnvtIxXvSMn7BM74Cde6gTiqIUGFC_v2A&oe=6B0D756B"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/928403877_18499842025108869_6398433005302032779_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=qcvoJ1XPTYwQ7kNvwEzg3B2&_nc_oc=Adr9QYgIJ7_Sx8fNr47i8-HTdNRxyeriHkUlkpcgHxPraBiqfomrp-HPTunyX2OwtXA&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=FyaXHpGMzgKAgp4uh0H_cg&_nc_tpa=Q5bMBQLMH8FYgVixaacpFoRZbrU8-SoQNGmAVzvIve_ZaZVTmTzuxXI7W1ZsauZBPtdLOrQ8KLyXHiCj&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQTiYSDtaZ9Ev61hJdUMawFGdp0VjcRI_Y7SrudIlq59iw&oe=6B0E566B"
   },
   {
    "titulo": "Atenção, passageiros!",
@@ -4160,7 +4135,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/Df8BzbxDJKv/",
-   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/914798926_1708198664195725_6295280109043490028_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jnoSQCVIM0AQ7kNvwHFYC0u&_nc_oc=AdrprJTjBZQpTlFPISOrE_NCFcWrfkMIU_506TQgixkaftEojF3hw9FsbF_Ovfu1n-4&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=1bn2vm-r8_jTj5KqIplM2Q&_nc_tpa=Q5bMBQKNHQLc9gxhe1p3aMOC_8ZDNbJG89xXkhIGS0A6-KUDFxEvOlfrI3NHajROV4h777xx_YGRTdBw&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRzi7MB8wQAGRhCjpNA9Gh7LV-ChZuBI4_9epw8FnHmeg&oe=6B0D70DF"
+   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/914798926_1708198664195725_6295280109043490028_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jnoSQCVIM0AQ7kNvwHFYC0u&_nc_oc=AdrprJTjBZQpTlFPISOrE_NCFcWrfkMIU_506TQgixkaftEojF3hw9FsbF_Ovfu1n-4&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=FyaXHpGMzgKAgp4uh0H_cg&_nc_tpa=Q5bMBQIcn6JcJCZAEAkpEb1BM5dGu3TtlFSGxrOd3gv_jvyKdBF0kPMV2oGJ2_kpd9X0Q6lnCp6TIlmg&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTDDg0N2FpmZqMg9ae9YKCAz2dLdPah-WNPxxITF1UIFQ&oe=6B0E8A1F"
   },
   {
    "titulo": "Cinematerna",
@@ -4235,7 +4210,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/Df__lDul6HB/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/920823913_18499187368108869_1759026874840678789_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=WHNorgl6TXQQ7kNvwG0613g&_nc_oc=AdqnokI12p-6Ba6ibR2H03zjp4p5WnadFySZZeTUKVZbT8W3cmhues49_lv-wd9RhB4&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=1bn2vm-r8_jTj5KqIplM2Q&_nc_tpa=Q5bMBQL5l7Vz1KnIpaWYNokELQmF5xnzQs9nfTzPUFT-1ETL3HpoTpm3RSZjIBhPWxlQwGw2M9PZz2Pm&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSx69mH8OYd8U8oHpm6VT_FM5rebq9HO_jqy5sw4IcAiw&oe=6B0D7B4F"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/920823913_18499187368108869_1759026874840678789_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=WHNorgl6TXQQ7kNvwG0613g&_nc_oc=AdqnokI12p-6Ba6ibR2H03zjp4p5WnadFySZZeTUKVZbT8W3cmhues49_lv-wd9RhB4&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=FyaXHpGMzgKAgp4uh0H_cg&_nc_tpa=Q5bMBQKyIOC2Fr8MmAW7wasb5FJ_CpmmBspSFdgBoB1OiW7ns-5vj8VRCDLJYc_OCsXDjtYKYkW20Kv9&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQStSb9B3QMVNxOifQsD2hUdB1j_kS-DFc_snj619acsew&oe=6B0E5C4F"
   },
   {
    "titulo": "Visite O Trono Do Papai Noel",
@@ -4310,7 +4285,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/DgAcwQ8F7sy/",
-   "imagem": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/919398784_18499221934108869_390165213436694499_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=dgnPcwbzy5QQ7kNvwHpxm4R&_nc_oc=Adq2Qm_IasGRzopVljJYKZp-vqUxcLFWl33vUooks3nZRrG1IBdq9L6zphVX9pGWrVE&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=1bn2vm-r8_jTj5KqIplM2Q&_nc_tpa=Q5bMBQLkfAg_Nc-_m-MtauNZkbZpPawH3gAtnS-NyQOu7voZrNpeFQvGAGQUWA_ijXNJCAad1QOymr5q&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSXOPF8LuBMcAGanwL7AOk_dgvFSrRzeKWalJ6w50K5Bw&oe=6B0D6F2C"
+   "imagem": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/919398784_18499221934108869_390165213436694499_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=dgnPcwbzy5QQ7kNvwHpxm4R&_nc_oc=Adq2Qm_IasGRzopVljJYKZp-vqUxcLFWl33vUooks3nZRrG1IBdq9L6zphVX9pGWrVE&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=FyaXHpGMzgKAgp4uh0H_cg&_nc_tpa=Q5bMBQItY8ZpFys1YuwAodM1oN-q3sb7dB8C_TYSR8ZIto9e_9q0UOun_XieiHRFngubEcd1xZcPZjdQ&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQzeadcIZ3T0DYRyUFi9QmdqUXd15DN-Y-p8_Zrmo3EmQ&oe=6B0E886C"
   }
  ]
 }
