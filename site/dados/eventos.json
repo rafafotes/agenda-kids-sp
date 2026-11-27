@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-27T06:03-03:00",
+ "gerado_em": "2026-11-27T18:02-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -17,7 +17,7 @@
    "shopping": "Shopping Vila Olímpia",
    "url": "https://www.shoppingvilaolimpia.com.br/eventos/",
    "status": "ok",
-   "eventos": 3
+   "eventos": 4
   },
   {
    "shopping": "JK Iguatemi",
@@ -240,7 +240,7 @@
    "titulo": "Quintal no Terraço",
    "resumo": "O Quintal no Terraço é um espaço gratuito pensado para estimular a imaginação e a diversão das crianças por meio de brinquedos lúdicos. Indicado para crianças de 2 a 8 anos, o espaço convida os pequenos a brincar, explorar e criar momentos especiais em família. Venha conhecer essa novidade no Terraço, 3º Piso do…",
    "inicio": "2026-07-17",
-   "fim": "2026-12-31",
+   "fim": "2026-11-27",
    "horario": null,
    "faixa_etaria": "Livre",
    "gratuito": true,
@@ -2889,6 +2889,34 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Fotos-para-Portal-33.png"
   },
   {
+   "titulo": "Encontro de Shih Tzus 🐶🎄",
+   "resumo": "🐶 Natal dos Shih Tzus no Shopping Vila Olímpia 🎄 Prepare a fantasia do seu AUmigo e venha viver um domingo mágico com a nossa família de Shih Tzus! 🐾✨ 📅 Data: 29/11, a partir das 10h 📍 Local: Terraço - 3º Piso 🎁 Desfile pet com premiação para a melhor fantasia de Natal, foto em grupo com o Papai Noel e uma programação…",
+   "inicio": "2026-11-27",
+   "fim": "2026-11-29",
+   "horario": "10h",
+   "faixa_etaria": "Livre",
+   "gratuito": true,
+   "agendamento": true,
+   "como_agendar": null,
+   "link_inscricao": "https://forms.gle/tQgrNQboYx279LtSA",
+   "natal": true,
+   "categorias": [
+    "Diversão",
+    "Evento"
+   ],
+   "inscricoes_abrem": null,
+   "esgotado": false,
+   "analisado_por": "heuristica",
+   "id": "7eb9081eb602",
+   "shopping": "Shopping Vila Olímpia",
+   "bairro": "Vila Olímpia",
+   "regiao": "Zona Sul",
+   "fonte": "Shopping Vila Olímpia",
+   "tipo_local": "Shopping",
+   "url": "https://www.shoppingvilaolimpia.com.br/eventos/exccifiwgu-encontro-de-shih-tzus/",
+   "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/89/45/8945409b-f1c1-45a5-90cc-37c11e7bc743/hubimage__0x650_subsampling-2.webp"
+  },
+  {
    "titulo": "Feriado Prolongado Terá Papai Noel E Encontro Com Personagens No Villa Romana Shopping - Villa Romana Shopping",
    "resumo": "Na sexta-feira (20), shopping terá horário especial; atrações de Natal seguem durante o fim de semana, com encontro infantil no domingo (22)",
    "inicio": null,
@@ -4002,7 +4030,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/DgI2yhrNyRx/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/928403877_18499842025108869_6398433005302032779_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=qcvoJ1XPTYwQ7kNvwEzg3B2&_nc_oc=Adr9QYgIJ7_Sx8fNr47i8-HTdNRxyeriHkUlkpcgHxPraBiqfomrp-HPTunyX2OwtXA&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=JNQUGazdlD7RiXuLN62FCA&_nc_tpa=Q5bMBQIQjs0b1ZCrbTLS5FV9vsHw77eK2hWhwlVxOA8FgSKHlUlkQWikAUfP1MozmqWVnXnJb3yhO-e7&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQWwDp2vr2wSuAeTe2WBDV0bNe3wcdTUzhtpggqabq2sxw&oe=6B0EC6EB"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/928403877_18499842025108869_6398433005302032779_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=qcvoJ1XPTYwQ7kNvwEzg3B2&_nc_oc=Adr9QYgIJ7_Sx8fNr47i8-HTdNRxyeriHkUlkpcgHxPraBiqfomrp-HPTunyX2OwtXA&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=4SCaTZ4oxelVXuzvLB8DkA&_nc_tpa=Q5bMBQIIxA24SEv2Mu8nCYxw8zu2gs2LHdn4HCpy60XyxaaZY0sfHWhCZbdCtqjMTqdQ0KlsZuhl85wx&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQWcyB3dI13115mqjZiCACsCHX-t8Mf6ns9JNZvNLKpQuw&oe=6B0FA7EB"
   },
   {
    "titulo": "Atenção, passageiros!",
@@ -4027,7 +4055,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/Df8BzbxDJKv/",
-   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/914798926_1708198664195725_6295280109043490028_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jnoSQCVIM0AQ7kNvwHFYC0u&_nc_oc=AdrprJTjBZQpTlFPISOrE_NCFcWrfkMIU_506TQgixkaftEojF3hw9FsbF_Ovfu1n-4&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=JNQUGazdlD7RiXuLN62FCA&_nc_tpa=Q5bMBQJfDswrFhNfhLI3q6wo9MtYPR9I3_UzdDsvymLLO-b7kwPKzu9Wc3OPaSTn4VGJKdxnJYhxCcK0&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQX6IN2i_AHtKUKiSJnqUoqepVDWqcxPrtGP1CJm1iYGMg&oe=6B0EC25F"
+   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/914798926_1708198664195725_6295280109043490028_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jnoSQCVIM0AQ7kNvwHFYC0u&_nc_oc=AdrprJTjBZQpTlFPISOrE_NCFcWrfkMIU_506TQgixkaftEojF3hw9FsbF_Ovfu1n-4&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=4SCaTZ4oxelVXuzvLB8DkA&_nc_tpa=Q5bMBQKhiaFnxHJaFxRzHAYbrMU_E_T5t2O3kmNSdjCeT1lWMnK40LuQ7kKTQUTw1Jb5vUHzaVmjZhlR&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQXILFD-_jqjJdJax9ohDUfVQ2crLTxVSFeTlxbNaWkoXw&oe=6B0FDB9F"
   },
   {
    "titulo": "Cinematerna",
@@ -4102,7 +4130,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/Df__lDul6HB/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/920823913_18499187368108869_1759026874840678789_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=WHNorgl6TXQQ7kNvwG0613g&_nc_oc=AdqnokI12p-6Ba6ibR2H03zjp4p5WnadFySZZeTUKVZbT8W3cmhues49_lv-wd9RhB4&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=JNQUGazdlD7RiXuLN62FCA&_nc_tpa=Q5bMBQKWz1KhP8XJ5DMuv1YOHqvkOzoEJBsMVlktLZqynaF-y17eDC5xKgqLbtYzLypXssYfGoHs7zF7&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQX_44E7fUNYfi1w-KGlB96M_eb3w6pktGJtyxVKoYzlxg&oe=6B0ECCCF"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/920823913_18499187368108869_1759026874840678789_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=etxoNgUqwksQ7kNvwEC1AZU&_nc_oc=Adq4zyHZxjEAIB76yrdwjcNTU1-3s-a6Ps15jXJVw73czsues4huSnzXjPrDuuBI5jY&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=4SCaTZ4oxelVXuzvLB8DkA&_nc_tpa=Q5bMBQKDBnSkA3YYbDRxSp7Y9xfi877LwaUOTasKbh6dNmd9MZXmRHf60cfUienv669VO7no0oqU_xS2&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQXvEN-oqqe7aiFMKuJDTMrXGv1Yi9c07jqlWRdFjtBAdQ&oe=6B0FADCF"
   },
   {
    "titulo": "Visite O Trono Do Papai Noel",
@@ -4177,7 +4205,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/DgAcwQ8F7sy/",
-   "imagem": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/919398784_18499221934108869_390165213436694499_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=dgnPcwbzy5QQ7kNvwHpxm4R&_nc_oc=Adq2Qm_IasGRzopVljJYKZp-vqUxcLFWl33vUooks3nZRrG1IBdq9L6zphVX9pGWrVE&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=JNQUGazdlD7RiXuLN62FCA&_nc_tpa=Q5bMBQKWavV3-PuxDHic7YiJHmF56bGy6dfcFndkEMCkn-ee60vOGiRSmjJl5zoea5NZYBkAJY_i_kqK&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQWsWpkRagcNfw8RyMhi7_o9AwqaZoLIZYVIZP2DkNaB6A&oe=6B0EC0AC"
+   "imagem": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/919398784_18499221934108869_390165213436694499_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=dgnPcwbzy5QQ7kNvwHpxm4R&_nc_oc=Adq2Qm_IasGRzopVljJYKZp-vqUxcLFWl33vUooks3nZRrG1IBdq9L6zphVX9pGWrVE&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=4SCaTZ4oxelVXuzvLB8DkA&_nc_tpa=Q5bMBQKs2IE8lmGgYb8zPKHcC4ThlqazRCL0DITzLoOjbVVV-54QDwPf_zNBbKc9v-rIA9WsHzpX44fp&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQUWWJq6631QQgD8SN2lJm1wloLFEVAiC8UyF7J8ob5dww&oe=6B0FD9EC"
   }
  ]
 }
