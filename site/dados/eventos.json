@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-26T18:03-03:00",
+ "gerado_em": "2026-11-27T06:03-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -155,7 +155,7 @@
    "shopping": "Sesc SP",
    "url": "https://www.sescsp.org.br/programacao/",
    "status": "erro: HTTPError: HTTP Error 403: Forbidden",
-   "eventos": 90
+   "eventos": 86
   }
  ],
  "eventos": [
@@ -418,60 +418,6 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/arquitetando-6",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/arquitetando.png"
-  },
-  {
-   "titulo": "Ateliê de Artes Visuais: Quadrinhos e Charges - Quintas",
-   "resumo": "com Leonardo Alves, educador em Tecnologias e Artes Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Interlagos",
-   "inicio": "2026-11-05",
-   "fim": "2026-11-26",
-   "horario": "próxima sessão 12/11 às 16h30",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Cursos e Oficinas"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "fd5f82c69581",
-   "shopping": "Sesc Interlagos",
-   "bairro": "Interlagos",
-   "regiao": "Zona Sul",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/atelie-de-artes-visuais-quadrinhos-e-charges-quintas",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/09/Quadrinhos_divulgacao.jpg"
-  },
-  {
-   "titulo": "Ateliê de Artes Visuais: Quadrinhos e Charges - Sábados",
-   "resumo": "com Leonardo Alves, educador em Tecnologias e Artes Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Interlagos",
-   "inicio": "2026-11-05",
-   "fim": "2026-11-26",
-   "horario": "próxima sessão 12/11 às 11h30",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Cursos e Oficinas"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "934cd57f29b1",
-   "shopping": "Sesc Interlagos",
-   "bairro": "Interlagos",
-   "regiao": "Zona Sul",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/atelie-de-artes-visuais-quadrinhos-e-charges",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/09/Quadrinhos_divulgacao.jpg"
   },
   {
    "titulo": "Ateliê para a família: criando com material reciclável",
@@ -877,33 +823,6 @@
    "tipo_local": "Sesc",
    "url": "https://www.sescsp.org.br/programacao/leiturinha-vozes-negras-na-literatura",
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Leiturinha_StephanyTiveron.jpg"
-  },
-  {
-   "titulo": "Música e Movimento para Bebês",
-   "resumo": "Com Tali Alcalá Público: Crianças Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Consolação",
-   "inicio": "2026-11-05",
-   "fim": "2026-11-26",
-   "horario": "próxima sessão 12/11 às 17h30",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Cursos e Oficinas"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": true,
-   "analisado_por": "heuristica",
-   "id": "77c3562f5409",
-   "shopping": "Sesc Consolação",
-   "bairro": "Consolação",
-   "regiao": "Centro",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/musica-e-movimento-para-bebes",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/02/Foto-Veronica-Pereira.png"
   },
   {
    "titulo": "Nós e ninhos, roupa de brincar",
@@ -2272,33 +2191,6 @@
    "tipo_local": "Shopping",
    "url": "https://www.shoppingitaquera.com.br/novidade/encontro-com-o-papai-noel-no-shopping-metro-itaquera",
    "imagem": "https://www.shoppingitaquera.com.br/sites/metro-itaquera/files/shopping-media/Novidade/2026-11/2956.5_Ita_NatalBrinquedos_BannerSite_App_1238x500px%20%281%29.jpg"
-  },
-  {
-   "titulo": "Laboratório de Impressão 3D e Reciclagem",
-   "resumo": "Com Daniel Seda, educador de Tecnologias e Artes Público: Adulto, Crianças, Diversas idades, Jovens, Pessoas idosas Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc Avenida Paulista",
-   "inicio": "2026-11-12",
-   "fim": "2026-11-26",
-   "horario": "próxima sessão 26/11 às 20h30",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Cursos e Oficinas"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "ec374ca29c20",
-   "shopping": "Sesc Avenida Paulista",
-   "bairro": "Bela Vista",
-   "regiao": "Centro",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/laboratorio-de-impressao-3d-e-reciclagem-2",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/20260512_213238_2026-08-29-16-01-06.jpg"
   },
   {
    "titulo": "Os Smurfs",
@@ -4110,7 +4002,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/DgI2yhrNyRx/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/928403877_18499842025108869_6398433005302032779_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=qcvoJ1XPTYwQ7kNvwEzg3B2&_nc_oc=Adr9QYgIJ7_Sx8fNr47i8-HTdNRxyeriHkUlkpcgHxPraBiqfomrp-HPTunyX2OwtXA&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=FyaXHpGMzgKAgp4uh0H_cg&_nc_tpa=Q5bMBQLMH8FYgVixaacpFoRZbrU8-SoQNGmAVzvIve_ZaZVTmTzuxXI7W1ZsauZBPtdLOrQ8KLyXHiCj&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQTiYSDtaZ9Ev61hJdUMawFGdp0VjcRI_Y7SrudIlq59iw&oe=6B0E566B"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/928403877_18499842025108869_6398433005302032779_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=qcvoJ1XPTYwQ7kNvwEzg3B2&_nc_oc=Adr9QYgIJ7_Sx8fNr47i8-HTdNRxyeriHkUlkpcgHxPraBiqfomrp-HPTunyX2OwtXA&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=JNQUGazdlD7RiXuLN62FCA&_nc_tpa=Q5bMBQIQjs0b1ZCrbTLS5FV9vsHw77eK2hWhwlVxOA8FgSKHlUlkQWikAUfP1MozmqWVnXnJb3yhO-e7&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQWwDp2vr2wSuAeTe2WBDV0bNe3wcdTUzhtpggqabq2sxw&oe=6B0EC6EB"
   },
   {
    "titulo": "Atenção, passageiros!",
@@ -4135,7 +4027,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/Df8BzbxDJKv/",
-   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/914798926_1708198664195725_6295280109043490028_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jnoSQCVIM0AQ7kNvwHFYC0u&_nc_oc=AdrprJTjBZQpTlFPISOrE_NCFcWrfkMIU_506TQgixkaftEojF3hw9FsbF_Ovfu1n-4&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=FyaXHpGMzgKAgp4uh0H_cg&_nc_tpa=Q5bMBQIcn6JcJCZAEAkpEb1BM5dGu3TtlFSGxrOd3gv_jvyKdBF0kPMV2oGJ2_kpd9X0Q6lnCp6TIlmg&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTDDg0N2FpmZqMg9ae9YKCAz2dLdPah-WNPxxITF1UIFQ&oe=6B0E8A1F"
+   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/914798926_1708198664195725_6295280109043490028_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jnoSQCVIM0AQ7kNvwHFYC0u&_nc_oc=AdrprJTjBZQpTlFPISOrE_NCFcWrfkMIU_506TQgixkaftEojF3hw9FsbF_Ovfu1n-4&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=JNQUGazdlD7RiXuLN62FCA&_nc_tpa=Q5bMBQJfDswrFhNfhLI3q6wo9MtYPR9I3_UzdDsvymLLO-b7kwPKzu9Wc3OPaSTn4VGJKdxnJYhxCcK0&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQX6IN2i_AHtKUKiSJnqUoqepVDWqcxPrtGP1CJm1iYGMg&oe=6B0EC25F"
   },
   {
    "titulo": "Cinematerna",
@@ -4210,7 +4102,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/Df__lDul6HB/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/920823913_18499187368108869_1759026874840678789_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=WHNorgl6TXQQ7kNvwG0613g&_nc_oc=AdqnokI12p-6Ba6ibR2H03zjp4p5WnadFySZZeTUKVZbT8W3cmhues49_lv-wd9RhB4&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=FyaXHpGMzgKAgp4uh0H_cg&_nc_tpa=Q5bMBQKyIOC2Fr8MmAW7wasb5FJ_CpmmBspSFdgBoB1OiW7ns-5vj8VRCDLJYc_OCsXDjtYKYkW20Kv9&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQStSb9B3QMVNxOifQsD2hUdB1j_kS-DFc_snj619acsew&oe=6B0E5C4F"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/920823913_18499187368108869_1759026874840678789_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=WHNorgl6TXQQ7kNvwG0613g&_nc_oc=AdqnokI12p-6Ba6ibR2H03zjp4p5WnadFySZZeTUKVZbT8W3cmhues49_lv-wd9RhB4&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=JNQUGazdlD7RiXuLN62FCA&_nc_tpa=Q5bMBQKWz1KhP8XJ5DMuv1YOHqvkOzoEJBsMVlktLZqynaF-y17eDC5xKgqLbtYzLypXssYfGoHs7zF7&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQX_44E7fUNYfi1w-KGlB96M_eb3w6pktGJtyxVKoYzlxg&oe=6B0ECCCF"
   },
   {
    "titulo": "Visite O Trono Do Papai Noel",
@@ -4285,7 +4177,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/DgAcwQ8F7sy/",
-   "imagem": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/919398784_18499221934108869_390165213436694499_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=dgnPcwbzy5QQ7kNvwHpxm4R&_nc_oc=Adq2Qm_IasGRzopVljJYKZp-vqUxcLFWl33vUooks3nZRrG1IBdq9L6zphVX9pGWrVE&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=FyaXHpGMzgKAgp4uh0H_cg&_nc_tpa=Q5bMBQItY8ZpFys1YuwAodM1oN-q3sb7dB8C_TYSR8ZIto9e_9q0UOun_XieiHRFngubEcd1xZcPZjdQ&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQzeadcIZ3T0DYRyUFi9QmdqUXd15DN-Y-p8_Zrmo3EmQ&oe=6B0E886C"
+   "imagem": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/919398784_18499221934108869_390165213436694499_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=dgnPcwbzy5QQ7kNvwHpxm4R&_nc_oc=Adq2Qm_IasGRzopVljJYKZp-vqUxcLFWl33vUooks3nZRrG1IBdq9L6zphVX9pGWrVE&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=JNQUGazdlD7RiXuLN62FCA&_nc_tpa=Q5bMBQKWavV3-PuxDHic7YiJHmF56bGy6dfcFndkEMCkn-ee60vOGiRSmjJl5zoea5NZYBkAJY_i_kqK&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQWsWpkRagcNfw8RyMhi7_o9AwqaZoLIZYVIZP2DkNaB6A&oe=6B0EC0AC"
   }
  ]
 }
