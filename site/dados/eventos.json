@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-27T18:02-03:00",
+ "gerado_em": "2026-11-28T06:03-03:00",
  "fontes": [
   {
    "shopping": "MorumbiShopping",
@@ -17,7 +17,7 @@
    "shopping": "Shopping Vila Olímpia",
    "url": "https://www.shoppingvilaolimpia.com.br/eventos/",
    "status": "ok",
-   "eventos": 4
+   "eventos": 3
   },
   {
    "shopping": "JK Iguatemi",
@@ -77,7 +77,7 @@
    "shopping": "Villa Romana Shopping",
    "url": "https://villaromanashopping.com.br/novidades/",
    "status": "ok",
-   "eventos": 2
+   "eventos": 0
   },
   {
    "shopping": "Shopping Itaquera",
@@ -155,7 +155,7 @@
    "shopping": "Sesc SP",
    "url": "https://www.sescsp.org.br/programacao/",
    "status": "erro: HTTPError: HTTP Error 403: Forbidden",
-   "eventos": 86
+   "eventos": 84
   }
  ],
  "eventos": [
@@ -235,35 +235,6 @@
    "tipo_local": "Shopping",
    "url": "https://www.shoppingitaquera.com.br/novidade/itaquerinha-parque-0",
    "imagem": "https://www.shoppingitaquera.com.br/sites/metro-itaquera/files/shopping-media/Novidade/2026-04/2700.2_Desdobramentos_Itaquerinha_V2Banner%20App_1238x500px.jpg"
-  },
-  {
-   "titulo": "Quintal no Terraço",
-   "resumo": "O Quintal no Terraço é um espaço gratuito pensado para estimular a imaginação e a diversão das crianças por meio de brinquedos lúdicos. Indicado para crianças de 2 a 8 anos, o espaço convida os pequenos a brincar, explorar e criar momentos especiais em família. Venha conhecer essa novidade no Terraço, 3º Piso do…",
-   "inicio": "2026-07-17",
-   "fim": "2026-11-27",
-   "horario": null,
-   "faixa_etaria": "Livre",
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Diversão",
-    "Ao ar livre",
-    "Infantil"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "ea9bfcfa4ca2",
-   "shopping": "Shopping Vila Olímpia",
-   "bairro": "Vila Olímpia",
-   "regiao": "Zona Sul",
-   "fonte": "Shopping Vila Olímpia",
-   "tipo_local": "Shopping",
-   "url": "https://www.shoppingvilaolimpia.com.br/eventos/nhozigchha-quintal-no-terraco/",
-   "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/f3/ed/f3edca18-b4ec-4156-b60d-da99d57ad1c5/hubimage__0x650_subsampling-2.webp"
   },
   {
    "titulo": "Cinematerna",
@@ -2781,33 +2752,6 @@
    "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/10/Fotos-para-Portal-26.png"
   },
   {
-   "titulo": "Comicidades negras e brincadeiras populares",
-   "resumo": "Com Cibele Mateus e Fagner Saraiva Público: Adulto, Diversas idades, Jovens Categorias: Cursos e Oficinas Atividade gratuita Unidade: Sesc São Bento",
-   "inicio": "2026-11-23",
-   "fim": "2026-11-27",
-   "horario": "próxima sessão 27/11 às 20h",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Cursos e Oficinas"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "0a2c81274c85",
-   "shopping": "Sesc São Bento",
-   "bairro": "Centro",
-   "regiao": "Centro",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/comicidades-negras-e-brincadeiras-populares",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/09/portal-2-2.png"
-  },
-  {
    "titulo": "Diálogos sobre neurodiversidade e cuidado",
    "resumo": "com Instituto Inclusive Todos Público: Crianças, Diversas idades Categorias: Encontros e Palestras Atividade gratuita Unidade: Sesc 14 Bis",
    "inicio": "2026-11-25",
@@ -2915,83 +2859,6 @@
    "tipo_local": "Shopping",
    "url": "https://www.shoppingvilaolimpia.com.br/eventos/exccifiwgu-encontro-de-shih-tzus/",
    "imagem": "https://assets.multiplan.com.br/Multiplan/filer_public_thumbnails/filer_public/89/45/8945409b-f1c1-45a5-90cc-37c11e7bc743/hubimage__0x650_subsampling-2.webp"
-  },
-  {
-   "titulo": "Feriado Prolongado Terá Papai Noel E Encontro Com Personagens No Villa Romana Shopping - Villa Romana Shopping",
-   "resumo": "Na sexta-feira (20), shopping terá horário especial; atrações de Natal seguem durante o fim de semana, com encontro infantil no domingo (22)",
-   "inicio": null,
-   "fim": "2026-11-27",
-   "horario": null,
-   "faixa_etaria": null,
-   "gratuito": null,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": true,
-   "categorias": [],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "9b9fb20cee20",
-   "shopping": "Villa Romana Shopping",
-   "bairro": "Vila Romana",
-   "regiao": "Zona Oeste",
-   "fonte": "Villa Romana Shopping",
-   "tipo_local": "Shopping",
-   "url": "https://villaromanashopping.com.br/novidades/feriado-prolongado-tera-papai-noel-e-encontro-com-personagens-no-villa-romana-shopping/",
-   "imagem": "https://villaromanashopping.com.br/wp-content/uploads/2026/11/CABECALHO-SITE-VILLA-cnoel.png"
-  },
-  {
-   "titulo": "Natal No Villa Romana Shopping Reúne Papai Noel, Corais E Ação Solidária Até Dezembro - Villa Romana Shopping",
-   "resumo": "Programação em Florianópolis inclui encontros diários com o Bom Velhinho, apresentações musicais gratuitas, personagens natalinos e a 20ª edição da Árvore dos",
-   "inicio": null,
-   "fim": "2026-11-27",
-   "horario": null,
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": true,
-   "categorias": [],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "9e43eb2c4260",
-   "shopping": "Villa Romana Shopping",
-   "bairro": "Vila Romana",
-   "regiao": "Zona Oeste",
-   "fonte": "Villa Romana Shopping",
-   "tipo_local": "Shopping",
-   "url": "https://villaromanashopping.com.br/novidades/natal-no-villa-romana-shopping-reune-papai-noel-corais-e-acao-solidaria-ate-dezembro/",
-   "imagem": "https://villaromanashopping.com.br/wp-content/uploads/2026/11/CABECALHO-SITE-VILLA-natal.png"
-  },
-  {
-   "titulo": "Rodas de Cuidado - Diferentes formas de falar sobre as infâncias",
-   "resumo": "Com Aneliza Torquato e Mayara Carvalho, educadoras em atividades infantojuvenis Público: Crianças, Diversas idades Categorias: Encontros e Palestras Atividade gratuita Unidade: Sesc 14 Bis",
-   "inicio": "2026-11-27",
-   "fim": "2026-11-27",
-   "horario": "próxima sessão 27/11 às 12h30",
-   "faixa_etaria": null,
-   "gratuito": true,
-   "agendamento": false,
-   "como_agendar": null,
-   "link_inscricao": null,
-   "natal": false,
-   "categorias": [
-    "Encontros e Palestras"
-   ],
-   "inscricoes_abrem": null,
-   "esgotado": false,
-   "analisado_por": "heuristica",
-   "id": "4beed9a66273",
-   "shopping": "Sesc 14 Bis",
-   "bairro": "Bela Vista",
-   "regiao": "Centro",
-   "fonte": "Sesc SP",
-   "tipo_local": "Sesc",
-   "url": "https://www.sescsp.org.br/programacao/rodas-de-cuidado-diferentes-formas-de-falar-sobre-as-infancias",
-   "imagem": "https://www.sescsp.org.br/wp-content/uploads/2026/11/Gemini_Generated_Image_vd5hidvd5hidvd5h.jpg"
   },
   {
    "titulo": "Construção de boneco cabeção",
@@ -4030,7 +3897,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/reel/DgI2yhrNyRx/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/928403877_18499842025108869_6398433005302032779_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=qcvoJ1XPTYwQ7kNvwEzg3B2&_nc_oc=Adr9QYgIJ7_Sx8fNr47i8-HTdNRxyeriHkUlkpcgHxPraBiqfomrp-HPTunyX2OwtXA&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=4SCaTZ4oxelVXuzvLB8DkA&_nc_tpa=Q5bMBQIIxA24SEv2Mu8nCYxw8zu2gs2LHdn4HCpy60XyxaaZY0sfHWhCZbdCtqjMTqdQ0KlsZuhl85wx&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQWcyB3dI13115mqjZiCACsCHX-t8Mf6ns9JNZvNLKpQuw&oe=6B0FA7EB"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/928403877_18499842025108869_6398433005302032779_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=qcvoJ1XPTYwQ7kNvwEzg3B2&_nc_oc=Adr9QYgIJ7_Sx8fNr47i8-HTdNRxyeriHkUlkpcgHxPraBiqfomrp-HPTunyX2OwtXA&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=3QQNP5RS6iHJTnmarjMyLA&_nc_tpa=Q5bMBQL5TtHrx9BzvsLMBu2wKCa3R5C20blda-HwUzOJrwNiZJnQ3l0Beb7LdyzTZOiwRr6sjaRVya6K&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQV7MQXRQlMeCIGm5Llr6aBzQ0ZIPlZZgoF6loiKhrgXkg&oe=6B10186B"
   },
   {
    "titulo": "Atenção, passageiros!",
@@ -4055,7 +3922,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/Df8BzbxDJKv/",
-   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/914798926_1708198664195725_6295280109043490028_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jnoSQCVIM0AQ7kNvwHFYC0u&_nc_oc=AdrprJTjBZQpTlFPISOrE_NCFcWrfkMIU_506TQgixkaftEojF3hw9FsbF_Ovfu1n-4&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=4SCaTZ4oxelVXuzvLB8DkA&_nc_tpa=Q5bMBQKhiaFnxHJaFxRzHAYbrMU_E_T5t2O3kmNSdjCeT1lWMnK40LuQ7kKTQUTw1Jb5vUHzaVmjZhlR&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQXILFD-_jqjJdJax9ohDUfVQ2crLTxVSFeTlxbNaWkoXw&oe=6B0FDB9F"
+   "imagem": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/914798926_1708198664195725_6295280109043490028_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jnoSQCVIM0AQ7kNvwHFYC0u&_nc_oc=AdrprJTjBZQpTlFPISOrE_NCFcWrfkMIU_506TQgixkaftEojF3hw9FsbF_Ovfu1n-4&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=3QQNP5RS6iHJTnmarjMyLA&_nc_tpa=Q5bMBQKGxG-hdS5UXneSAdS5oNEZSu0ISbFGV0Gs0RKnalcM2GVq8fgXafbV7HXyg2xjAz8WRq-1jpOs&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQXg6OPb2S-TV-5_45uLG58lgl_ZeiSkRtXrdKr9h4EKsg&oe=6B1013DF"
   },
   {
    "titulo": "Cinematerna",
@@ -4130,7 +3997,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/Df__lDul6HB/",
-   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/920823913_18499187368108869_1759026874840678789_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=etxoNgUqwksQ7kNvwEC1AZU&_nc_oc=Adq4zyHZxjEAIB76yrdwjcNTU1-3s-a6Ps15jXJVw73czsues4huSnzXjPrDuuBI5jY&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=4SCaTZ4oxelVXuzvLB8DkA&_nc_tpa=Q5bMBQKDBnSkA3YYbDRxSp7Y9xfi877LwaUOTasKbh6dNmd9MZXmRHf60cfUienv669VO7no0oqU_xS2&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQXvEN-oqqe7aiFMKuJDTMrXGv1Yi9c07jqlWRdFjtBAdQ&oe=6B0FADCF"
+   "imagem": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/920823913_18499187368108869_1759026874840678789_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=etxoNgUqwksQ7kNvwEC1AZU&_nc_oc=Adq4zyHZxjEAIB76yrdwjcNTU1-3s-a6Ps15jXJVw73czsues4huSnzXjPrDuuBI5jY&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=3QQNP5RS6iHJTnmarjMyLA&_nc_tpa=Q5bMBQIh3Zoqe27KkYxEmGNn7csIKlxlSQY9yPZ7-vCsMx9s7EAzy4by8Ts8oSGe512mFw0swFftpm65&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQW0_ZKFmhVTCspQh7B0ZdDnW-eWWVi7RJk2QbuBXGly0g&oe=6B101E4F"
   },
   {
    "titulo": "Visite O Trono Do Papai Noel",
@@ -4205,7 +4072,7 @@
    "fonte": "Shopping União",
    "tipo_local": "Shopping",
    "url": "https://www.instagram.com/p/DgAcwQ8F7sy/",
-   "imagem": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/919398784_18499221934108869_390165213436694499_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=dgnPcwbzy5QQ7kNvwHpxm4R&_nc_oc=Adq2Qm_IasGRzopVljJYKZp-vqUxcLFWl33vUooks3nZRrG1IBdq9L6zphVX9pGWrVE&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=4SCaTZ4oxelVXuzvLB8DkA&_nc_tpa=Q5bMBQKs2IE8lmGgYb8zPKHcC4ThlqazRCL0DITzLoOjbVVV-54QDwPf_zNBbKc9v-rIA9WsHzpX44fp&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQUWWJq6631QQgD8SN2lJm1wloLFEVAiC8UyF7J8ob5dww&oe=6B0FD9EC"
+   "imagem": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/919398784_18499221934108869_390165213436694499_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=dgnPcwbzy5QQ7kNvwHpxm4R&_nc_oc=Adq2Qm_IasGRzopVljJYKZp-vqUxcLFWl33vUooks3nZRrG1IBdq9L6zphVX9pGWrVE&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=3QQNP5RS6iHJTnmarjMyLA&_nc_tpa=Q5bMBQJPkBiWSr5wrCEG06L4Z19VQV1tZvHKIWLo7Fm52CfNgGlqVQ65IhYHLw-Aq6jty6aKXC5a5-kG&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQUsNC1SqnAf4NxsZftzshXKZbTosmfmxDqJpR8U2BFWEA&oe=6B10122C"
   }
  ]
 }
